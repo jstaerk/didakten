@@ -1,0 +1,1112 @@
+
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <meta charset="utf-8">
+        <title>RheinMainMedia Auftragserfassung </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!-- Le styles -->
+        <link href="css/dropzone.css" media="screen" rel="stylesheet" type="text/css">
+<link href="css/select2.css" media="screen" rel="stylesheet" type="text/css">
+<link href="css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="css/bootstrap-theme.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="css/daterangepicker.css" media="screen" rel="stylesheet" type="text/css">
+<link href="css/style.css" media="screen" rel="stylesheet" type="text/css">
+<link href="img/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+        <!-- Scripts -->
+        <!--[if lt IE 9]><script type="text/javascript" src="/rheinmainmedia/auftragserfassung/produkt/public/js/html5shiv.js"></script><![endif]-->
+<!--[if lt IE 9]><script type="text/javascript" src="/rheinmainmedia/auftragserfassung/produkt/public/js/respond.min.js"></script><![endif]-->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/select2.min.js"></script>
+<script type="text/javascript" src="js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="js/localization/messages_de.js"></script>
+<script type="text/javascript" src="js/dropzone.js"></script>
+<script type="text/javascript" src="js/bootstrap-notify.min.js"></script>
+<script type="text/javascript" src="js/moment.js"></script>
+<script type="text/javascript" src="js/daterangepicker.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/jquery.bootstrap.wizard.js"></script>
+    </head>
+    <body>
+
+    <h1>Erfassungsdaten</h1>
+
+
+<form action='' id="editform" method="post">
+
+
+<fieldset>
+
+    <div class="row-fluid">
+        <div class="span-12">
+
+<div id="rootwizard">
+    <div class="navbar">
+        <div class="navbar-inner">
+            <div class="container">
+    <ul>
+        <li><a href="#tab1" data-toggle="tab"><span class="label">1</span> Basisdaten</a></li>
+        <li><a href="#tab2" data-toggle="tab"><span class="label">2</span> Starterkit</a></li>
+        <li><a href="#tab3" data-toggle="tab"><span class="label">3</span> Online</a></li>
+        <li><a href="#tab4" data-toggle="tab"><span class="label">4</span> Print</a></li>
+        <li><a href="#tab5" data-toggle="tab"><span class="label">5</span> Abschluss</a></li>
+    </ul>
+                </div>
+            </div>
+        </div>
+    <div class="tab-content">
+        <div class="tab-pane" id="tab1">
+
+            <input id="id" type="hidden" name="id" value=""/>
+            <input id='auftragsnummer' type="hidden" name='auftragsnummer' value=""/>
+
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='auftragsart'>
+                        Auftragsart: </label>
+                </div>
+
+                <div class="col-md-10">
+    <select name='auftragsart' id='auftragsart' onchange='updateAuftragsArt()'><option selected='selected' value='1'>Online</option><option  value='2'>Crossmedia</option></select>
+
+                    <input type="checkbox" name="starterkit" id="starterkit" value="1" onchange="updateAuftragsArt()"  /> Starterkit
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='nutzer'>
+                        Mediaberater: </label>
+                </div>
+
+                <div class="col-md-10">
+
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='kundenname'>
+                        Kundenname: </label>
+                </div>
+
+                <div class="col-md-10">
+                    <input id='kundenname' name='kundenname' value=""/>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='kundennummer'>
+                        Kundennummer*: </label>
+                </div>
+
+                <div class="col-md-10">
+                    <input id='kundennummer' name='kundennummer' class='required' type='number' value=""/>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='agentur'>
+                        Agentur: </label>
+                </div>
+
+                <div class="col-md-10">
+                    <input id='agentur' name='agentur' value=""/>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='agenturnummer'>
+                        Agenturnummer: </label>
+                </div>
+
+                <div class="col-md-10">
+                    <input id='agenturnummer' name='agenturnummer' type='number' value=""/>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='abrechnungstermin'>
+                        Abrechnungstermin: </label>
+                </div>
+
+                <div class="col-md-10">
+                    <input id='abrechnungstermin' name='abrechnungstermin' value="<?php if ($this->auftrag->getAbrechnungstermin()!=null) echo $this->auftrag->getAbrechnungstermin()->format('Y-m-d') ?>"/>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='auftragsdatum'>
+                        Auftragsdatum: </label>
+                </div>
+
+                <div class="col-md-10">
+                    <input id='auftragsdatum' class='date' name='auftragsdatum' value="<?php if ($this->auftrag->getAuftragsdatum()!=null) echo $this->auftrag->getAuftragsdatum()->format('Y-m-d')?>"/>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='bruttopreis'>
+                        Bruttopreis*: </label>
+                </div>
+
+                <div class="col-md-10">
+                    <input id='bruttopreis' class='required' type='number' class="help" data-toggle="tooltip" title="nicht rabattierter Preis ohne MwSt." name='bruttopreis' value="<?php echo $this->auftrag->getBruttopreis()?>"/>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='nettopreis'>
+                        Nettopreis: </label>
+                </div>
+
+                <div class="col-md-10">
+                    <input id='nettopreis' name='nettopreis' type='number' class="help" data-toggle="tooltip" title="Preis nach Abzug von Rabatten (Mengenrabatten, Malstaffeln etc. à siehe Preisliste)" value="<?php echo $this->auftrag->getNettopreis()?>"/>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='rabattvereinbarungen'>
+                        Rabattvereinbarungen: </label>
+                </div>
+
+                <div class="col-md-10">
+                    <textarea id='rabattvereinbarungen' name='rabattvereinbarungen'> </textarea>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='sammelrechnung'>
+                        Sammelrechnung: </label>
+                </div>
+
+                <div class="col-md-10">
+                    <input id='sammelrechnung' name='sammelrechnung' type="checkbox" value="1"  >
+                </div>
+            </div>
+
+        </div>
+        <div class="tab-pane" id="tab2">
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='starterkit_2spaltig'>
+                        Starterkit: </label>
+                </div>
+
+                <div class="col-md-10">
+                    <?php echo $this->starterRadio; ?>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='verkaufsgebiet'>
+                        Verkaufsgebiet: </label>
+                </div>
+
+                <div class="col-md-10">
+                   <?php echo $this->gebietSelect; ?>
+                </div>
+            </div>
+        </div>
+        <div class="tab-pane" id="tab3">
+            <h3>Onlineauftragsdaten</h3>
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='budget'>
+                        Budget (Onlineanteil)*: </label>
+                </div>
+
+                <div class="col-md-10">
+                    <input id='budget' name='budget' type='number' required="required" class="help" data-toggle="tooltip" title="Der Teil des Crossmedia-Budgets, der für Online ausgegeben wird. Bei Online-Only-Aufträgen ist dies der vorher angegebene Nettopreis" value='<?php echo $this->auftragDetailsOnline->getBudget(); ?>'/>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='link'>
+                        Ziel-Verlinkungen: </label>
+                </div>
+
+                <div class="col-md-10">
+                    <input id='link' name='link' type='url' value=''/>
+                </div>
+            </div>
+
+            <h3>Ressortbuchungen</h3>
+            <div class="row">
+
+            <div id="websitelist" class="col-md-12">
+
+            </div>
+                </div>
+
+                <div id="websiteadd">
+                <div class="row">
+                    <div class="col-md-2">
+                        <label for='ressort'>
+                            Ressort*: </label>
+                    </div>
+
+                    <div class="col-md-10">
+
+                        <?php echo $this->ressortSelect?>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
+                        <label for='website'>
+                            Website: </label>
+                    </div>
+
+                    <div class="col-md-10">
+                        <input id='onlineauftrag_ressortid' name='onlineauftrag_ressortid' type="hidden" value=""/>
+                        <input id='website' name='website' disabled="disabled" value=""/>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-2">
+                        <label for='geotargeting'>
+                            Geotargeting: </label>
+                    </div>
+
+                    <div class="col-md-10">
+                        <textarea id='geotargeting' name='geotargeting'></textarea>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-2">
+                        <label for='werbemittel'>
+                            Werbemittelerstellung: </label>
+                    </div>
+
+                    <div class="col-md-10">
+                        <input id='werbemittel' type='checkbox' name='werbemittel' value="1"/> beantragen
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
+                        <label for='arten'>
+                            Werbemittel*: </label>
+                    </div>
+
+                    <div class="col-md-10">
+
+
+                    </div>
+                </div>
+
+                    <strong>Ressortbuchungs-Laufzeit (Onlinelaufzeit)*</strong>
+                    <div class="row">
+
+                        <div id="onlinelaufzeiten" class="col-md-12">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label for='laufzeit'>
+                                Laufzeit hinzufügen: </label>
+                        </div>
+
+                        <div class="col-md-10">
+                            <input id='laufzeit' name='laufzeit' class='medium' value=""/><a href="javascript:;" onclick="addLaufzeit()"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span></a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label for='adimpressions'>
+                                Adimpressions: </label>
+                        </div>
+
+                        <div class="col-md-10">
+                            <input id='adimpressions' type='number'  name='adimpressions'  class="help" data-toggle="tooltip" title="Dürfen nur durch das Onlineteam gesetzt werden"/>
+                        </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12">
+                       <span id="websiteActionButtonSpan"> </span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="tab-pane" id="tab4">
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='platzierung'>
+                        Platzierung*: </label>
+                </div>
+
+
+                <div class="col-md-10">
+                    <input id='platzierung' required='required' name='platzierung' value="<?php echo $this->auftragDetailsPrint->getPlatzierung(); ?>"/>
+                </div>
+
+            </div>
+
+
+
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='groesse'>
+                        Anzeigengröße*: </label>
+                </div>
+
+
+                <div class="col-md-10">
+                    <input id='groesse' required='required' name='groesse' value="<?php echo $this->auftragDetailsPrint->getGroesse(); ?>"/>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='farbe'>
+                        Farbe*: </label>
+                </div>
+
+
+                <div class="col-md-10">
+                    <input id='farbe' required='required' name='farbe' value="<?php echo $this->auftragDetailsPrint->getFarbe(); ?>"/>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <h3>Erscheinungstermin</h3>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-md-12" id="erscheinungstermine">
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                    <label for='erscheinungstermin'>
+                        Erscheinungstermin hinzufügen: </label>
+                </div>
+
+
+                <div class="col-md-10">
+                    <input id='erscheinungstermin'  name='erscheinungstermin' value=""/>
+                    <a href="javascript:;" onclick="addErscheinungstermin()"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span></a>
+                </div>
+
+            </div>
+
+        </div>
+        <div class="tab-pane" id="tab5">
+<!--
+            <div class="row">
+                <div class="col-md-4">
+                    <label for='kalender'>
+                        Eintrag in Kalender: </label>
+                </div>
+
+
+                <div class="col-md-8">
+                    <input id='kalender' type='checkbox' value="1" name='kalender' />
+                </div>
+
+            </div>-->
+            <?php if ($this->showFinish) {
+
+                echo "
+            <div class=\"row\">
+                <div class=\"col-md-4\">
+                    <label for='emailfield'>
+                        Emails: </label>
+                </div>
+
+
+                <div class=\"col-md-8\">
+                    <input id='emailfield' name='email' type='checkbox' value=\"1\"/> an Anzeigenmanagement <span id='previewKSBmail'></span> und Admanagement <span id='previewRMNmail'></span> versenden
+                </div>
+
+
+            </div>";
+             } ?>
+            <div class="row">
+                <h2>Alles fertig?</h2>
+                <p>
+            <input value="Auftrag einreichen" id="einreichen" type="submit" class="btn btn-primary btn-lg" role="button"/>
+                    <span id="messageField"></span>
+                </p>
+        </div>
+        </div>
+        <ul class="pager wizard">
+            <li class="previous first" style="display:none;"><a href="javascript:;">Erste</a></li>
+            <li class="previous"><a href="javascript:;">Voriger Schritt</a></li>
+            <li class="next last" style="display:none;"><a href="javascript:;">Letzte</a></li>
+            <li class="next"><a href="javascript:;">Nächster Schritt</a></li>
+        </ul>
+    </div>
+</div>
+        </div>
+    </div>
+
+</fieldset>
+</form>
+
+<div id="fileListDiv">
+
+
+</div>
+
+<form action="<?php echo $this->url('application/default', array(
+    'controller' => 'auftrag',
+    'action' => 'upload',
+    'id' => $this->auftrag->getAuftragsid()
+))?>"
+      class="dropzone"
+      id="my-dropzone"> <div class="fallback">
+        <input name="file" type="file" multiple />
+    </div></form>
+
+<script>
+
+Dropzone.options.myDropzone = {
+              'dictDefaultMessage': 'Dateien hier ablegen',
+              'dictFallbackMessage': 'Ihr Browser unterstützt keine drag-and-drop-Uploads',
+              'dictFallbackText': 'Bitte benutzen Sie das Uploadformular',
+              'dictInvalidFileType': 'Falscher Dateityp',
+              'dictFileTooBig': 'Datei zu groß',
+              'dictResponseError': 'Fehlerhafte Serverantwort',
+              'dictCancelUpload': 'Upload stoppen',
+              'dictCancelUploadConfirmation': 'Upload gestoppt',
+              'dictRemoveFile': 'Datei entfernen',
+              'dictMaxFilesExceeded': 'Zu viele Dateien',
+              'acceptedFiles':'".$this->CSVListAllowedFileExtensions."',
+              init: function() {
+                this.on('success', function(file) { listFiles(); });
+              }
+            };
+
+var ressorts={};
+var validator = null;
+var activeTab=null;
+var requiredTabs={1:false,2:false,3:false,4:false};
+var visitedTabs={1:false,2:false,3:false,4:false};
+var onlineTabHasRessorts=false;
+var tabRequired=true;
+var printHasErscheinungstermin=false;
+
+function updateAuftragsArt() {
+    if ($('#auftragsart').val()==1) { // online clicked
+        $('#rootwizard').bootstrapWizard('disable', 3); // remove print
+    	requiredTabs[3]=false;
+    } else {
+     	$('#rootwizard').bootstrapWizard('enable', 3); // reenable print
+     	requiredTabs[3]=tabRequired;
+   }
+   if ($('#auftragsart').val()==3) { // print clicked
+    	$('#rootwizard').bootstrapWizard('disable', 2); // remove online
+    	requiredTabs[2]=false;
+   } else {
+     	$('#rootwizard').bootstrapWizard('enable', 2); // reenable online
+     	requiredTabs[2]=tabRequired;
+   }
+
+   if ($('#starterkit').prop('checked')) {
+        $('#auftragsart option[value=1]').attr('disabled','disabled');//remove online only option
+        if ($('#auftragsart').val()!=2) {
+            $('#auftragsart').val(2);//force-check online option
+        }
+
+     	$('#rootwizard').bootstrapWizard('enable', 1); // reenable starterkit
+        requiredTabs[1]=tabRequired;
+   } else {
+        $('#auftragsart option[value=1]').removeAttr('disabled'); // reenable crossmedia option
+
+     	$('#rootwizard').bootstrapWizard('disable', 1);
+        requiredTabs[1]=false;
+   }
+
+}
+
+function editWebsite(id) {
+  var deleteBtn='<button class=\"btn btn-default\" onclick=\"return removeWebsite('+id+')\">Ressortbuchung löschen</button>';
+      $.ajax({
+              method: 'POST',
+          url: '',
+          data: {
+                'onlineauftrag':23,
+                'onlineauftragRessortid':id
+           }
+        })
+      .done(function( data ) {
+         var data=$.parseJSON(data);
+
+          $('#website').val(data['items'][0]['websitename']);
+          $('#ressort').val(data['items'][0]['ressortid']);
+          $('#ressort').select2(); //refresh select2 after ajax
+          $('#onlineauftrag_ressortid').val(id);
+          $('#geotargeting').val(data['items'][0]['geotargeting']);
+          $('#werbemittel').prop('checked', data['items'][0]['werbemittel']==1 );
+          $('#adimpressions').val(data['items'][0]['adimpressions']);
+          $('#arten').val(data['items'][0]['arten']).trigger('change');;
+
+          listLaufzeiten();
+          if (data['count']<2) {
+          // disallow to delete the last ressortbuchung
+                deleteBtn='';
+          }
+          $('#websiteActionButtonSpan').html('<button class=\"btn btn-default\" onclick=\"return updateWebsite('+id+')\">Ressortbuchung speichern</button>'+deleteBtn);
+
+
+      });
+
+    return false;
+
+}
+
+function cleanWebsiteForm() {
+
+          $('#website').val('');
+          $('#ressort').val('');
+          $('#ressort').select2(); //refresh select2 after ajax
+          $('#geotargeting').val('');
+          $('#werbemittel').prop('checked', false );
+          $('#adimpressions').val('');
+          $('#arten').val('').trigger('change');;
+}
+
+// andEditFirstOne optional parameter, default false, load the first entry into the edit mask
+function listWebsite(andEditFirstOne) {
+ andEditFirstOne = typeof andEditFirstOne !== 'undefined' ? andEditFirstOne : false;
+    $.ajax({
+              method: 'POST',
+          url: '',
+          data: {
+                'onlineauftrag':23,
+           }
+        })
+      .done(function( data ) {
+         var data=$.parseJSON(data);
+         var listHTML='';
+         var hasContent=false;
+         var editLink='';
+         for (var itemIndex=0;itemIndex<data['items'].length;itemIndex++) {
+            var currentWebsite=data['items'][itemIndex];
+            hasContent=true;
+            editLink='<a href=\"javascript:;\" onclick=\"editWebsite('+currentWebsite['id']+')\" ><span data-toggle=\"tooltip\" title=\"Ressortbuchung bearbeiten\" class=\"help glyphicon glyphicon-pencil\" aria-hidden=\"true\"></span></a>';
+            listHTML+=''+ressorts[currentWebsite['ressortid']]['ressortname']+' ('+currentWebsite['websitename']+') '+editLink+'<br/>';
+         }
+         if (!hasContent) {
+            listHTML+='Keine Ressortbuchungen';
+         }
+         onlineTabHasRessorts = hasContent;
+          $('#websitelist').html(listHTML);
+         if ((andEditFirstOne)&&(data['items'].length>0)) {
+            editWebsite(data['items'][0]['id']);
+         }
+
+      });
+    $('#websiteActionButtonSpan').html('<button class=\"btn btn-default\" onclick=\"addWebsite();return false;\">Ressortbuchung hinzufügen</button>');
+    return false;
+
+}
+// returns false on error and true if the website has been added successfully
+function addWebsite(blocking) {
+// blocking-parameter defaults to false:
+    blocking = typeof blocking !== 'undefined' ? blocking : false;
+// continue with rest of function
+    var errorStr='';
+    if ($('#ressort').val()=='') {
+        errorStr+='Ressort,';
+    }
+    if ($('#laufzeit').val()=='') {
+
+        errorStr+='Laufzeit,';
+    }
+    if (($('#arten').select2('data').length==0)&&(!$('#werbemittel').prop('checked'))) {
+    // kein Werbemittel ausgewählt und auch nicht angekreuzt, dass welche erstellt werden sollen
+
+        errorStr+='Werbemittel,';
+    }
+
+    if (errorStr!='') {
+        errorStr=errorStr.substring(0,errorStr.length-1)+' darf nicht leer sein';
+     $.notify({
+                            // options
+                            message: errorStr
+                        },{
+                            // settings
+                            type: 'danger'
+                        });
+     return false;
+    }
+
+
+    $.ajax({
+              method: 'POST',
+          url: '',
+            'async': !blocking,
+      data: {
+            'website':$('#website').val(),
+            'ressort':$('#ressort').val(),
+            'geotargeting':$('#geotargeting').val(),
+            'laufzeit':$('#laufzeit').val(),
+            'werbemittel':$('#werbemittel').prop('checked')?1:0,
+            'adimpressions':$('#adimpressions').val(),
+            'arten':$('#arten').val(),
+
+            'onlineauftrag':23,
+       }
+    })
+      .done(function( data ) {
+         var arr=$.parseJSON(data);
+
+        listWebsite();
+      });
+
+    return true;
+}
+
+function removeWebsite(id) {
+    $.ajax({
+              method: 'POST',
+          url: '',
+      data: {
+          'onlineauftragressortid':id,
+       }
+    })
+      .done(function( data ) {
+         var arr=$.parseJSON(data);
+
+        listWebsite(true);
+
+      });
+
+    return false;
+}
+
+function updateRessort() {
+    if (ressorts[$('#ressort').val()]) {
+         $('#website').val(ressorts[$('#ressort').val()]['website']);
+    }
+}
+
+function deleteErscheinungstermin(id) {
+    $.ajax({
+              method: 'POST',
+          url: '',
+      data: {
+            'printlaufzeitid':id
+       }
+    })
+      .done(function( data ) {
+         var arr=$.parseJSON(data);
+
+        listErscheinungstermin();
+      });
+
+    return false;
+}
+
+function listErscheinungstermin() {
+    $.ajax({
+              method: 'POST',
+          url: '',
+          data: {
+                'printauftrag':23
+           }
+        })
+      .done(function( data ) {
+         var arr=$.parseJSON(data);
+         var listHTML='';
+
+
+         var items=$.parseJSON(arr['items']);
+         var hasContent=false;
+         for (var terminIndex=0;terminIndex<items.length;terminIndex++) {
+           var termin=items[terminIndex]['von'];
+           listHTML+=termin+'<a href=\'javascript:;\' onclick=\'deleteErscheinungstermin('+items[terminIndex]['id']+')\'><span class=\"glyphicon glyphicon-trash\" aria-hidden=\"true\"></span></a><br/>';
+            hasContent=true;
+         }
+         if (!hasContent) {
+            listHTML+='Noch kein Erscheinungstermin festgelegt';
+         }
+        printHasErscheinungstermin=hasContent;
+        $('#erscheinungstermine').html(listHTML);
+      });
+
+    return false;
+}
+
+function addErscheinungstermin() {
+
+    $.ajax({
+              method: 'POST',
+          url: '',
+          data: {
+                'erscheinungstermin':$('#erscheinungstermin').val(),
+                'printauftrag':23
+           }
+        })
+      .done(function( data ) {
+         var arr=$.parseJSON(data);
+
+        listErscheinungstermin();
+      });
+
+    return true;
+}
+
+
+
+
+
+/****
+erscheinungstermin is always (single date and ) print,
+ laufzeiten is always online laufzeiten
+*/
+function deleteLaufzeit(id) {
+
+    $.ajax({
+              method: 'POST',
+          url: '',
+          data: {
+                'onlinelaufzeitid':id
+           }
+        })
+      .done(function( data ) {
+         var arr=$.parseJSON(data);
+
+        listLaufzeiten();
+      });
+
+    return false;
+}
+
+
+function listLaufzeiten() {
+    $.ajax({
+              method: 'POST',
+          url: '',
+          data: {
+                'onlineauftragressort':$('#onlineauftrag_ressortid').val()
+           }
+        })
+      .done(function( data ) {
+         var arr=$.parseJSON(data);
+         var listHTML='';
+
+
+         var items=$.parseJSON(arr['items']);
+         var hasContent=false;
+         for (var terminIndex=0;terminIndex<items.length;terminIndex++) {
+           var hasContent=true;
+           listHTML+=items[terminIndex]['von']+' - '+items[terminIndex]['bis']+'<a href=\'javascript:;\' onclick=\'deleteLaufzeit('+items[terminIndex]['id']+')\'><span class=\"glyphicon glyphicon-trash\" aria-hidden=\"true\"></span></a><br/>';
+
+         }
+         if (!hasContent) {
+            listHTML='Noch keine Laufzeit festgelegt (nach Auswahl bitte auf + klicken)';
+         }
+        $('#onlinelaufzeiten').html(listHTML);
+      });
+
+    return false;
+}
+
+
+function addLaufzeit() {
+    var periodArr = $('#laufzeit').val().split(" - ");
+    $.ajax({
+          method: 'POST',
+      url: '',
+      data: {
+            'von':periodArr[0],
+            'bis':periodArr[1],
+            'onlineauftragressort':$('#onlineauftrag_ressortid').val()
+       }
+    })
+      .done(function( data ) {
+         var arr=$.parseJSON(data);
+
+        listLaufzeiten();
+      });
+
+    return false;
+}
+
+function deleteFile(id, name) {
+    if (window.confirm('Datei '+name+' wirklich löschen?')) {
+        $.ajax({
+              method: 'POST',
+          url: '',
+          data: {
+                'auftrag':id,
+                'filename':name,
+
+           }
+        })
+          .done(function( data ) {
+            listFiles();
+        });
+    }
+    return false;
+
+}
+
+function listFiles() {
+    $.ajax({
+          method: 'POST',
+      url: '',
+      data: {
+            'auftrag':23,
+       }
+    })
+      .done(function( data ) {
+         var data=$.parseJSON(data);
+         var listHTML='<ul>';
+         var currentFile=null;
+         if (data['items']) {
+             for (var itemIndex=0;itemIndex<data['items'].length;itemIndex++) {
+                var currentFile=data['items'][itemIndex];
+
+                listHTML+='<li><a href=\"\">'+currentFile['filename']+'</a><a href=\"javascript:;\" onclick=\"deleteFile(23,\''+currentFile['filename']+'\')\"><span class=\"glyphicon glyphicon-trash\" aria-hidden=\"true\"></span></a> </li>';
+             }
+         }
+         listHTML+='</ul>';
+         $('#fileListDiv').html(listHTML);
+         // this function is also called when sth is uploaded/deleted, so:
+         if (activeTab==4) {
+             confirmFinalButtonAvailable();
+         }
+
+      });
+
+    return false;
+
+}
+
+
+function updateWebsite(id) {
+    $.ajax({
+              method: 'POST',
+          url: '',
+      data: {
+            'website':$('#website').val(),
+            'ressort':$('#ressort').val(),
+            'geotargeting':$('#geotargeting').val(),
+            'laufzeit':$('#laufzeit').val(),
+            'werbemittel':$('#werbemittel').prop('checked')?1:0,
+            'adimpressions':$('#adimpressions').val(),
+            'arten':$('#arten').val(),
+            'onlineauftragressortid':id,
+       }
+    })
+      .done(function( data ) {
+         var arr=$.parseJSON(data);
+         cleanWebsiteForm();
+        listWebsite();
+     });
+
+    return false;
+}
+
+/***
+Liefert als String alle noch notwendigen Tätigkeiten. Leerer String=Auftrag kann abgeschickt werden
+Boolean-parameter 'strict' um auch auf Dateiuploads zu überprüfen
+*/
+function getAuftragMissingTasks(strict,showPreviews) {
+    var errorStr='';
+
+    $.ajax({
+        method: 'POST',
+        async: false, // important in this case
+        url: '',
+        data: {
+            'id': 23,
+            'auftragsart':$('#auftragsart').val(),
+            'starterkit':($('#starterkit').prop('checked')?1:0),
+            'kundennummer':$('#kundennummer').val(),
+            'kundenname':$('#kundenname').val(),
+            'agentur':$('#agentur').val(),
+            'agenturnummer':$('#agenturnummer').val(),
+            'nutzer':$('#nutzer').val(),
+
+            'abrechnungstermin':$('#abrechnungstermin').val(),
+            'auftragsdatum':$('#auftragsdatum').val(),
+            'bruttopreis':$('#bruttopreis').val(),
+            'nettopreis':$('#nettopreis').val(),
+            'rabattvereinbarungen':$('#rabattvereinbarungen').val(),
+            'sammelrechnung':($('#sammelrechnung').prop('checked')?1:0),
+
+
+            'startertyp':$('input[name=startertyp]:checked').val(),
+            'verkaufsgebiet':$('#verkaufsgebiet').val(),
+
+            'budget':$('#budget').val(),
+            'link':$('#link').val(),
+
+            'platzierung':$('#platzierung').val(),
+            'groesse':$('#groesse').val(),
+            'farbe':$('#farbe').val()
+
+        }
+    })
+    .done(function( data ) {
+        var data=$.parseJSON(data);
+        if (!data['ressort']) {
+          errorStr+='Keine Ressortbuchungen angelegt. ';
+        }
+        if (!data['laufzeiten']) {
+          errorStr+='Keine Online-Laufzeit angegeben. ';
+        }
+        if (!data['werbemittel']) {
+          errorStr+='Keine Werbemittel angegeben (Ressortbuchung geladen, Werbemittel gewählt und mit \"Ressortbuchung speichern\" bestätigt?). ';
+        }
+        if (strict&&(!data['uploaded'])) {
+          errorStr+='Noch keine Dateien hochgeladen. ';
+        }
+        if (showPreviews) {
+
+          $('#previewKSBmail').html('<pre>'+data['preview_text_KSB']+'</pre>');
+          $('#previewRMNmail').html('<pre>'+data['preview_text_RMN']+'</pre>');
+        }
+
+    });
+    return errorStr;
+}
+
+function confirmFinalButtonAvailable() {
+   var errorStr=getAuftragMissingTasks(true, true);
+   $('#messageField').html(errorStr);
+   if (errorStr!='') {
+     $('#einreichen').addClass('disabled');
+   } else {
+     $('#einreichen').removeClass('disabled');
+   }
+}
+$( document ).ready(function() {
+
+
+        validator = $('#editform').validate(
+            {
+                errorElement: 'em',
+           		errorContainer: $('#warning, #summary'),
+           		/** even with invalid handler I don't get scroll-into-view working in all cases
+          		invalidHandler: function(form, validator) {
+                    if (!validator.numberOfInvalids()) {
+                        return;
+                    }
+
+                    var firstElem=\$(validator.errorList[0].element);
+
+
+                    \$(firstElem[0]).scrollIntoView({
+                        behavior: \"smooth\", // or \"auto\" or \"instant\"
+                         block: \"start\" // or \"end\"
+                    });
+                }*/
+           	}
+		);
+
+          $('#rootwizard').bootstrapWizard({
+
+		onTabChange: function(tab, navigation, index, nextOne) {
+            if (nextOne<index) {
+                return true;// going back button should always be possible
+            }
+            var validated=validator.form();
+            if (!validated) {
+                validator.focusInvalid();
+            }
+            if (index==2) { // Tab Online
+                if (!onlineTabHasRessorts) {
+                    if (!addWebsite(true)) {
+                        return false;
+                    }
+                }
+            }
+            if (index==3) { // Tab Print
+                if (!printHasErscheinungstermin) {
+                    if (!addErscheinungstermin()) {
+                        return false;
+                    }
+                }
+            }
+            if (nextOne==4) { // Just going to tab Abschluss, check if this is possble
+		        var tabIndices= Object.keys(requiredTabs);
+		        for (var tabIndex=0;tabIndex<tabIndices.length; tabIndex++) {
+		          var tabIndexToCheck=tabIndices[tabIndex];
+		          if (requiredTabs[tabIndexToCheck]&&!visitedTabs[tabIndexToCheck]) {
+		            $('#rootwizard').bootstrapWizard('show', tabIndexToCheck);
+		            return false;
+                    //return false;
+		          }
+		        }
+		         confirmFinalButtonAvailable();
+		      }
+
+		      return validated;
+		},
+		onTabShow: function(tab, navigation, index) {
+		    var previousTab=activeTab;
+		    activeTab=index;
+		    visitedTabs[index]=true;
+
+ 		  }});
+             $('#abrechnungstermin').daterangepicker({
+                locale: {
+                     format: 'YYYY-MM-DD'
+                   },
+                    startDate: '$abrechnungstermin',
+                   singleDatePicker: true,
+                   showDropdowns:true
+             });
+            $('#auftragsdatum').daterangepicker({
+                locale: {
+                     format: 'YYYY-MM-DD'
+                   },
+                    startDate: '$auftragsdatum',
+                   singleDatePicker: true,
+                   showDropdowns:true
+             });
+
+            $('#erscheinungstermin').daterangepicker({
+                locale: {
+                     format: 'YYYY-MM-DD'
+                   },
+                   singleDatePicker: true,
+                   minDate: new Date(),
+                   showDropdowns:true
+             });
+              $('#laufzeit').daterangepicker({
+                locale: {
+                     format: 'YYYY-MM-DD'
+                   },
+
+                   singleDatePicker: false,
+                   minDate: new Date(),
+                   showDropdowns:true
+             });
+              $('#ressort').select2({
+                });
+              $('#arten').select2({
+                });
+              $('#nutzer').select2({
+                });
+
+                $('.help').tooltip();
+          listErscheinungstermin();
+          listWebsite(true);
+          listFiles();
+          updateAuftragsArt();
+          updateRessort();
+
+});
+</script>

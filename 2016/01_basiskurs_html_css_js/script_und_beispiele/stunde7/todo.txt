@@ -1,0 +1,79 @@
+
+Es ging in der letzten Veranstaltung um
+
+- Breakpoints
+(Anhaltepunkte) haben wir in Chromium in Javascript-Code gesetzt und gesehen, dass
+wir dabei dann nicht nur Einblick in alle
+Variablen erhalten sondern den Javascript-Code auch
+steppen können (Einzelschrittausführung).
+
+- CSS-"Breakpoints" als eine Art
+Sollumbruchstelle im Design haben mit Breakpoints nichts zu tun
+aber die haben wir auch besprochen, die funktionieren indem
+man die bereits bekannten Media-Queries um ein Auflösungsattribut
+aufbohrt, bspw. für 500 Pixel Breite
+@media screen AND (min-width: 500px)
+ wie in Beispiel-4.html
+
+- JQuery Event handler, wie man sie setzt
+und dass man sie in Chromium in einem entsprechenden Tab der Developer
+Tools auch direkt im JS-Quelltext anspringen kann (bspw. um Breakpoints
+zu setzen).
+
+
+Persönliche Empfehlung von Jochen: bspw. Onclick wegen größerer
+Klarheit im Quelltext lieber direkt am Element ins HTML onclick-Attribut
+schreiben als den Programmierer irgendwo im Document.ready suchen zu lassen.
+
+
+- CSS-Selektoren: CSS erlaubt eine Kombination von Kriterien, auf welche
+Stellen im HTML das CSS angewendet werden soll,
+beispielsweise wird im Beispiel der Hintergrund nur im Div, aber nicht
+im Button Blaum.
+So wirkt im Beispiel Beispiel-2
+background-color nur auf den Bereich, wo eine Klasse blue im Wirkungsbereich
+einer Klasse background verwendet wird und bspw. nicht auf btn3.
+Diese Selektoren funktionieren auch in JQuery.
+Welche CSS-Selektoren es gibt und welche Wirkung sie haben kann man bspw.
+unter
+http://www.webmasterpro.de/coding/article/css-referenz-selektoren.html
+nachlesen.
+
+
+Am Rande haben wir kurz die Javascript-Konsole besprochen, die Tatsache dass
+mit console.log() neben Strings u.a. Arrays und Objekte ausgegeben werden
+können und dass sich der interaktive Teil der Konsole gut eignet um bspw.
+Selektoren in JQuery zu testen: $('#id'); liefert eine charakteristische
+Ausgabe wenn ein Element mit der ID id gefunden wird: Siehe Beispiel-1.html.
+
+
+
+- Overflow-Attribute
+mit dem CSS-Attribut overflow:hidden kann Inhalt verborgen werden der
+die angegebene CSS-width und CSS-height überschreitet.
+overflow:scroll zeigt ggf Scrollbalken, was für mehrere, voneinander unabhängig
+scrollbaren Bereichen eingesetzt werden kann. (Das größte Problem war,
+die Dinger zu finden, im aktuellen Chromium werden sie nämlich nur eingeblendet
+wenn gerade gescrollt wird).
+S. Beispiel-3
+
+- Die Probleme mit den Würgegeräuschen
+wurden wie von Nadja erbeten aus dem Protokoll entfernt.
+
+
+- CSS-"Funktionen" wie :nth-of-type()
+(Beispiel-4)
+Haben wir benutzt um mal probeweise nur den zweiten Knopf (2)
+oder jeden zweiten Knopf (2n) mit einem Event-Handler zu belegen.
+Das wird unter anderem bei Tabellen gern verwendet um den
+bekannten Zebra-Effekt mit zeilenweise wechselnden Hintergrundfarben zu
+erreichen.
+
+
+Harald: die vorige Woche kritisch gewordene Linux-Server-Sicherheitslücke
+hieß CVE-2015-7547 und Marcus hatte noch die dieswöchige DROWN-Lücke erwähnt.
+
+Nadja: Erwähntes XDebug-mit-Eclipse-PDT-Video befindet sich als Stunde 3 im
+PHP-Verzeichnis auf der DVD die ich Harald gegeben habe, auf der sich auch
+mein Typo3-Fluid-Video befindet. Unter anderem als OGG Theora kodiert, falls
+das für dich wichtig ist.

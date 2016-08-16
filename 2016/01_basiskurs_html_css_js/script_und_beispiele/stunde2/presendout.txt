@@ -1,0 +1,15 @@
+http://www.google.de/a/b/bild.jpg
+todo:protkoll wc meeting
+hintergrundgrafiken
+fotos
+gif vermeiden zugunsten png
+was ist ein container, format
+background:url()
+repeat:repeat-none
+php-tutorial
+*wdh "em" vs px
+
+google.github.io/material-design-icons/
+
+dass ich jetzt vom prinzip her weiß was stylesheets sind ist glorreich.
+das war so ein begriff, den ich seit 10 jahren als schwarzes loch mit mir rumschleppe ;-)

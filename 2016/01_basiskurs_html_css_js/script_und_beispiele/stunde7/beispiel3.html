@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+</head>
+<body>
+
+
+  <button class='btn' id='btn1'>Klick mich</button>
+  <button class='btn' id='btn2'>Mach was</button>
+  <button class='btn' id='btn3'>Bitte</button>
+  <button class='btn' id='btn4'>Danke</button>
+  <button class='btn' id='btn5' >Halt's Mauls und mach mich glücklich</button>
+
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript">
+  var i = {"abc": ["eins", "zwei"]};
+
+      function wasganzdolles() {
+        console.log("yipie!");
+
+      }
+      function nochwas() {
+            console.log("juhu!");
+
+      }
+    $(document).ready(function() {
+
+
+      console.log("abc definieren", i);
+      // console.log(i);
+      // alert('Morsche iss wieder Midddwoch');
+      /***
+      $('#btn1');
+      [<button class=​"btn" id=​"btn1">​Klick mich​</button>​]
+      */
+      $('.btn').on('click', wasganzdolles);
+
+      $('#btn1').on('click', nochwas);
+
+    });
+
+  </script>
+
+
+</body>
+
+</html>

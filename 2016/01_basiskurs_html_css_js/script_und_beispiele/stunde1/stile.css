@@ -1,0 +1,14 @@
+table {font-size:5em;  border-collapse: collapse }
+/*CSS kommentar*/
+    td {
+    padding: 150px;
+    border: 5px dashed red;
+    text-align: right;
+  }
+  .headline {text-decoration:underline}
+
+  #headline {text-decoration:underline}
+
+  .kleinesDiv {background-color:tomato;width:130px;float:left}
+
+    .kleinesSpan {color:purple}

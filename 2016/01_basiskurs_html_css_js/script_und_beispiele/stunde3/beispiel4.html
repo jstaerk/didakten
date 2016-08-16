@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+<script type="text/javascript">
+var x=20;
+
+function sayHello() {
+  document.getElementById('msg').innerHTML="<strong>Hallo</strong><table border='1'><tr><td>Hallo</td><td>Welt</td></tr></table>";
+  //document.getElementById('msg').style.display="none";// entspricht style='display:none'
+  document.getElementById('msg').style.backgroundColor="#ffff00";
+  x=x+10;
+  document.getElementById('msg').style.left=x+"px";
+  console.log(x);
+  document.getElementById('msg').style.top="10px";
+  document.getElementById('msg').style.opacity=0.5;
+
+
+
+  return false;
+
+}
+
+</script>
+<style>
+
+body {
+  //transition: all .5s ease-in-out;
+
+}
+ #msg {
+    transition: all 1s ease-in-out;
+   color:#808080;
+   position:relative;
+   left:20px;
+   top:75px;
+   width:100px}
+</style>
+</head>
+  <body>
+<div id='msg' onclick='sayHello()' style='background-color:red'>Text</div>
+<form onsubmit="return sayHello()">
+<input type="submit">
+
+</form>
+
+
+  </body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    .btn {font-size: 2em}
+    .blue {color:#0000E0}
+    .background .blue {background-color: #000080}
+    div {font-size:2em}
+  </style>
+</head>
+<body>
+
+<div class='background'> Der <span class="blue">blaue</span> Montag </div>
+  <button class='btn' id='btn1'>Klick mich</button>
+  <button class='btn' id='btn2'>Mach was</button>
+  <button class='btn green blue' id='btn3'>Bitte</button>
+  <button class='btn green' id='btn4' onclick='wasganzdolles()'>Danke</button>
+  <button class='btn' id='btn5' >Halt's Mauls und mach mich glücklich</button>
+
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript">
+  var i = {"abc": ["eins", "zwei"]};
+
+      function wasganzdolles() {
+        console.log("yipie!");
+
+      }
+      function nochwas() {
+            console.log("juhu!");
+
+      }
+    $(document).ready(function() {
+
+
+      console.log("abc definieren", i);
+      // console.log(i);
+      // alert('Morsche iss wieder Midddwoch');
+      /***
+      $('#btn1');
+      [<button class=​"btn" id=​"btn1">​Klick mich​</button>​]
+      */
+      $('.btn').on('click', wasganzdolles);
+
+      $('#btn1').on('click', nochwas);
+//doku http://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-you-have-ever-encountered
+//CSS selektoren http://www.webmasterpro.de/coding/article/css-referenz-selektoren.html
+// wirken auchin JQuery $('.background .blue');
+    });
+
+  </script>
+
+
+</body>
+
+</html>

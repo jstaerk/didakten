@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+<script type="text/javascript">
+
+function sayHello()
+  if (document.getElementById('namensfeld').value.length==0) {
+      alert(document.getElementById('msg').innerHTML);
+  } else {
+    alert("Alles klar");
+
+  }
+  /*
+  mehrzeilig
+  */
+  // einzeilig
+  return false;
+
+}
+
+</script>
+<style>
+ #msg {color:#0000ff}
+</style>
+</head>
+  <body>
+<div id='msg' style='background-color:red'>Text</div>
+<form onsubmit="return sayHello()">
+Dein Name: <input name="name"  value="Vorgabewert" id="namensfeld" type="text"><br>
+Du findest diesen Kurs sehr gut <input name="bewertung" type="radio" value="1">
+<br>
+ gut <input name="bewertung" type="radio" value="2"><br>
+ befriedigend <input name="bewertung" type="radio" value="3"><br>
+ mit Auszeichnung <input name="bewerbung" type="checkbox" value="3"><br>
+<textarea>Mit Zeilen und Spalten</textarea><br>
+<select onchange="sayHello()" multiple="multiple">
+  <option>So aus</option>
+  <option>zweite Option</option>
+  <option>dritte Option</option>
+</select><br>
+<input type="submit">
+
+</form>
+
+
+  </body>
+</html>

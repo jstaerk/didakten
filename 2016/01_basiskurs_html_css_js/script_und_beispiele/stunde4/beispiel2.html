@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+ <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+ <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+</head>
+  <body>
+
+    <div class="meineKlasse">
+      <h3>Section 1</h3>
+      <div>
+        <p>Mauris mauris ante, blandit et, ultrices a, suscipit eget.
+        Integer ut neque. Vivamus nisi metus, molestie vel, gravida in,
+        condimentum sit amet, nunc. Nam a nibh. Donec suscipit eros.
+        Nam mi. Proin viverra leo ut odio.</p>
+      </div>
+      <h3>Section 2</h3>
+      <div>
+        <p>Sed non urna. Phasellus eu ligula. Vestibulum sit amet purus.
+        Vivamus hendrerit, dolor aliquet laoreet, mauris turpis velit,
+        faucibus interdum tellus libero ac justo.</p>
+      </div>
+      <h3>Section 3</h3>
+      <div>
+        <p>Nam enim risus, molestie et, porta ac, aliquam ac, risus.
+        Quisque lobortis.Phasellus pellentesque purus in massa.</p>
+        <ul>
+          <li>List item one</li>
+          <li>List item two</li>
+          <li>List item three</li>
+        </ul>
+      </div>
+    </div>
+
+
+        <div class="meineKlasse">
+          <h3>Section 1</h3>
+          <div>
+            <p>Mauris mauris ante, blandit et, ultrices a, suscipit eget.
+            Integer ut neque. Vivamus nisi metus, molestie vel, gravida in,
+            condimentum sit amet, nunc. Nam a nibh. Donec suscipit eros.
+            Nam mi. Proin viverra leo ut odio.</p>
+          </div>
+          <h3>Section 2</h3>
+          <div>
+            <p>Sed non urna. Phasellus eu ligula. Vestibulum sit amet purus.
+            Vivamus hendrerit, dolor aliquet laoreet, mauris turpis velit,
+            faucibus interdum tellus libero ac justo.</p>
+          </div>
+          <h3>Section 3</h3>
+          <div>
+            <p>Nam enim risus, molestie et, porta ac, aliquam ac, risus.
+            Quisque lobortis.Phasellus pellentesque purus in massa.</p>
+            <ul>
+              <li>List item one</li>
+              <li>List item two</li>
+              <li>List item three</li>
+            </ul>
+          </div>
+        </div>
+
+    <script>
+
+
+    function mySelect(string, objekt) {
+      alert(string);
+      console.log(objekt);
+    }
+/*
+        $( document ).ready(function() {
+            console.log( "ready2!" );
+            $( "#datepicker" ).datepicker({
+                firstDay: 5,
+                defaultDate: +14,
+                onSelect:mySelect
+              });
+
+        });*/
+
+                $( document ).ready(function() {
+                    console.log( "ready2!" );
+                    $( "#datepicker" ).datepicker({
+                        firstDay: 5,
+                        defaultDate: +14,
+                        onSelect: function(dateText, inst) {
+        var date = $(this).val();
+        alert('on select triggered');
+
+    }
+                      });
+
+                });
+        $( document ).ready(function() {
+            console.log( "ready1!" );
+        });
+
+
+    $( ".meineKlasse" ).accordion();
+
+    var hallo=["hallo", "welt"];
+    //console.log(hallo[1]);
+
+
+    var assoziativ={name:"Karin", alter:"29"};
+  //  console.log(assoziativ['name']);
+
+  var assoziativ1={name:"Karin", alter:29};
+//  console.log(assoziativ1['alter']);
+
+var assoziativ2={name:"Karin", alter:[9,10,11]};
+console.log(assoziativ2['alter'][2]);
+console.log(assoziativ2);
+// Javascript Object Notation JSON
+
+    </script>
+
+    <div id="datepicker"></div>
+
+  </body>
+</html>

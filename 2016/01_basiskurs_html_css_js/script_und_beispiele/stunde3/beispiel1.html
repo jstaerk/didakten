@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+<script type="text/javascript">
+
+function sayHello() {
+  alert('Hallo '+document.getElementById('namensfeld').value);
+}
+
+</script>
+
+</head>
+  <body>
+
+<form onsubmit="sayHello()">
+Dein Name: <input name="name" id="namensfeld" type="text"><br>
+<input type="submit">
+
+</form>
+
+
+  </body>
+</html>
