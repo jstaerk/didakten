@@ -409,6 +409,7 @@ There is also a [[list of open source libraries|Development-resources]]
  * https://github.com/VirusTotal/yara "The pattern matching swiss knife" for file and malware signatures
  * https://wekan.github.io/ open source kanban
  * https://pretix.eu/ open source ticketing. The real event tickets, not bug tickets.
+ * https://pretalx.com/ open source conference scheduling.
  * https://pol.is/home open source survey/sentiment analysis
  * https://solid.mit.edu/ decentralized storage of social data 
  * whistleblower-platform https://securedrop.org/
