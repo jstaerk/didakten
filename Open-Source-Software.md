@@ -410,6 +410,7 @@ There is also a [[list of open source libraries|Development-resources]]
  * https://wekan.github.io/ open source kanban
  * https://pretix.eu/ open source ticketing. The real event tickets, not bug tickets.
  * https://pretalx.com/ open source conference scheduling.
+ * https://c3nav.de/ Android WLAN based indoor navigation
  * https://pol.is/home open source survey/sentiment analysis
  * https://solid.mit.edu/ decentralized storage of social data 
  * whistleblower-platform https://securedrop.org/
