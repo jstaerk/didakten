@@ -408,6 +408,7 @@ There is also a [[list of open source libraries|Development-resources]]
  * https://github.com/HabitRPG/habitica/ Habit tracking/changing system
  * https://github.com/VirusTotal/yara "The pattern matching swiss knife" for file and malware signatures
  * https://wekan.github.io/ open source kanban
+ * https://gitlab.com/hagrid-keyserver/hagrid GPG keyserver
  * https://pretix.eu/ open source ticketing. The real event tickets, not bug tickets.
  * https://pretalx.com/ open source conference scheduling.
  * https://c3nav.de/ Android WLAN based indoor navigation
