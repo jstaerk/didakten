@@ -96,7 +96,6 @@ see [[development resources]]
  * http://www.doschdesign.com/
  * http://opengameart.org/
  * http://grabcad.com/
- * https://sketchfab.com (mixed with many commercial ones)
 
 ## Other people's lists
  * https://github.com/Kavex/GameDev-Resources
