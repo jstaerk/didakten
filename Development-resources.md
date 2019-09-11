@@ -168,6 +168,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * https://wpbean.com/product/wpb-filterable-portfolio/ Filterbares Portfolio
 * https://de.wordpress.org/plugins/content-aware-sidebars/ Content aware sidebars
 * https://de.wordpress.org/plugins/all-in-one-wp-security-and-firewall/ Security
+* https://visualcomposer.com/ GUI builder
 * Themes e.g. : https://de.wordpress.org/themes/onepress/ and https://de.wordpress.org/themes/anderson-lite/
 
 ### Charting
