@@ -217,6 +217,9 @@ There is also a [[list of open source libraries|Development-resources]]
    * Web chat: http://www.phpfreechat.net Slack konkurrenten: http.//www.zulip.org , http://Mattermost.org, http://rocket.chat, http://getkandan.com/, https://github.com/keybase/client
    * http://www.msec.it/blog/?page_id=11 Dukto R6 LAN transfer files to multiple clients
    * https://www.mumble.info Open source voice chat/voip
+   * https://meet-app.io/ Open source video conferencing
+   * https://www.sharedrop.io/ realtime file exchange
+   
    * https://matrix.org/ Open source encrypted chat
 
 ### Deployment management
