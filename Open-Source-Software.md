@@ -38,6 +38,18 @@ Curated list of good software resources, which are open source or free (like in 
  * PDF booklet/magazine creator http://pdfbooklet.sourceforge.net/
  * taxbird, http://www.taxbird.de/, only USt and LSt.
  * https://www.limbas.com/ web based DB access tool
+ * Password vaults (for teams)
+   * https://bitwarden.com/
+   * https://www.passwordstore.org/ 
+   * https://www.vaultproject.io/, 
+   * http://www.vaultier.org/, 
+   * https://www.passbolt.com/, 
+   * https://padlock.io/, 
+   * https://github.com/tildaslash/RatticWeb  
+   * https://www.themooltipass.com/ ?
+   * https://teampass.net/
+
+
  
 ### Education
  * VLC-based teacher/student PC remote control https://github.com/veyon or linux only http://www.epoptes.org/
@@ -175,20 +187,16 @@ There is also a [[list of open source libraries|Development-resources]]
    * Monaserver RTMP server http://www.monaserver.ovh/
    * Youtube downloader https://ytdl-org.github.io/youtube-dl/index.html
    * German public television download https://mediathekview.de
-   
 
+### Sound
+   * https://www.audacityteam.org/ Open Source Sound Editor
+   * Voicemeeter/banana (Donationware only): Good mixer for Windows https://www.vb-audio.com/Voicemeeter/banana.htm
+   * Music composition https://helio.fm/
+   * programming languages for music
+      * http://overtone.github.io/ 
+      * https://supercollider.github.io/ 
 
-### Password vaults (for teams)
-   * https://bitwarden.com/
-   * https://www.passwordstore.org/ 
-   * https://www.vaultproject.io/, 
-   * http://www.vaultier.org/, 
-   * https://www.passbolt.com/, 
-   * https://padlock.io/, 
-   * https://github.com/tildaslash/RatticWeb  
-   * https://www.themooltipass.com/ ?
-   * https://teampass.net/
-
+  
 
 ### Security
 
@@ -204,12 +212,6 @@ There is also a [[list of open source libraries|Development-resources]]
    * GPG/Enigmail for encrypted email communication: gpg4win.com, enigmail TB 64 bit outlook plugin https://github.com/dejavusecurity/OutlookPrivacyPlugin
    * Keepass http://www.keepass.info/ password management and -generator. Server based: https://www.manageengine.com/products/passwordmanagerpro/ only web-client http://www.passwordsafe.de win server/clients only
    * fwbuilder: Firewall-configuration utility http://www.fwbuilder.org/
-### Sound
-   * https://www.audacityteam.org/ Open Source Sound Editor
-   * Voicemeeter/banana (Donationware only): Good mixer for Windows https://www.vb-audio.com/Voicemeeter/banana.htm
-   * programming languages for music
-      * http://overtone.github.io/ 
-      * https://supercollider.github.io/ 
 
 ### Communication
    * https://www.thunderbird.net/ Email client
