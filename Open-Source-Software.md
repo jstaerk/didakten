@@ -295,6 +295,9 @@ There is also a [[list of open source libraries|Development-resources]]
 ### Communication (server based)
  * https://www.hubl.in/ Open source video conferencing
  * https://meet-app.io/ Open source video conferencing
+ * https://bigbluebutton.org Open source teacher/student video conferencing
+ * https://github.com/bluejeans/ Open source video conferencing bluejeans.com
+ 
  * https://www.sharedrop.io/ realtime file exchange
    
 
@@ -447,7 +450,8 @@ There is also a [[list of open source libraries|Development-resources]]
  * Regular expression Test-Tool: http://www.gskinner.com/RegExr/
  * Make http requests http://hurl.it Get http requests: http://requestb.in/
  * Inspect HTTP Requests http://requestb.in
- * Videoconferencing WebRTC Hubl.in https://hubl.in/ Appear.in https://appear.in/ https://demo.bigbluebutton.org/
+ * Video
+ encing WebRTC Hubl.in https://hubl.in/ Appear.in https://appear.in/ https://demo.bigbluebutton.org/
  * JSON formatter and tester: http://jsonformatter.curiousconcept.com/
  * HTML validierer http://validator.w3.org/
  * RSS validierer http://validator.w3.org/feed/
