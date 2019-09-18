@@ -13,6 +13,7 @@ Curated list of good software resources, which are open source or free (like in 
  * Andreamosaic http://www.andreaplanet.com/andreamosaic/ , render big pictures from thousands of small ones
  * http://hugin.sourceforge.net/ Panorama photo stitcher
  * http://www.marzipano.net/ 360° viewer
+ * https://www.miltonpaint.com/ infinite canvas infinite zoom paint
 
 ### 3d graphics
    * www.blender.org (also game engine)
