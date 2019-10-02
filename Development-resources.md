@@ -84,6 +84,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * Javascript-Timeline http://timeline.knightlab.com/ https://github.com/NUKnightLab/TimelineJS3
 * http://papaparse.com/ Javascript CSV parser
 * JS-scrolling: greensocks, superscrollorama
+* https://owlcarousel2.github.io/OwlCarousel2/
 
 * http://www.cannonjs.org/ Javascript Physics engine
 * https://threejs.org/ Javascript WebGL engine
