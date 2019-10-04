@@ -219,3 +219,8 @@ to learn coding in Frankfurt am Main, Germany
 * http://motionographer.com/2015/07/06/user-interface-design-why-motion-matters/
 * https://github.com/dipakkr/A-to-Z-Resources-for-Students
 
+
+ 
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
