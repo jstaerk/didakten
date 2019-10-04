@@ -474,7 +474,9 @@ There is also a [[list of open source libraries|Development-resources]]
  * crack captchas http://caca.zoy.org/wiki/PWNtcha 
  * generate "secure" captchashttp://www.phpcaptcha.org/download/
 
-
+## See also
+ * [Resources](README.md) and
+ * [Development resources](Development-resources.md)
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
