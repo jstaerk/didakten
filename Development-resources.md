@@ -220,7 +220,10 @@ to learn coding in Frankfurt am Main, Germany
 * https://github.com/dipakkr/A-to-Z-Resources-for-Students
 
 
- 
+## see also
+ * [Resources](README.md) and
+ * [Open source software](Open-Source-Software.md)
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
