@@ -36,7 +36,7 @@ Caution: Some sites may provide mixed content, watch the license
  * https://www.videvo.net/stock-video-footage/
 
 ## Development resources
-see [[development resources]]
+see [development resources](Development-resources.md)
 
 ## Vectors/Cliparts 
  * https://undraw.co/illustrations
@@ -101,3 +101,8 @@ see [[development resources]]
  * https://github.com/Kavex/GameDev-Resources
  * https://github.com/Ibuprogames/gamedev-resources
  * https://github.com/LisaDziuba/Awesome-Design-Tools
+ 
+ 
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
