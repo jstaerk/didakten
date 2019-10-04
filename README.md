@@ -102,7 +102,10 @@ see [development resources](Development-resources.md)
  * https://github.com/Ibuprogames/gamedev-resources
  * https://github.com/LisaDziuba/Awesome-Design-Tools
  
- 
+## See also
+  * [Open source software](Open-Source-Software.md)
+  * [Development resources](Development-resources.md)
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
