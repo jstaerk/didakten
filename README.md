@@ -101,6 +101,7 @@ see [development resources](Development-resources.md)
  * https://github.com/Kavex/GameDev-Resources
  * https://github.com/Ibuprogames/gamedev-resources
  * https://github.com/LisaDziuba/Awesome-Design-Tools
+ * https://github.com/serhii-londar/open-source-mac-os-apps Open Source Applications for Mac OS
  
 ## See also
   * [Open source software](Open-Source-Software.md)
