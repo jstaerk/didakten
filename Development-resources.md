@@ -107,6 +107,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 
 * Sketchpad/image editor https://github.com/ivictbor/painterro 
 * HTML-Editors and File Browser
+   * QuillJS https://quilljs.com/
    * CKEditor http://ckeditor.com/
    * tinymce http://www.tinymce.com/
    * Aloha HTML5 http://aloha-editor.org/
