@@ -30,11 +30,9 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 ### Plugins, Libraries
  * 3d web Bibliotheken: https://threejs.org/, https://aframe.io/ (VR)
  * Open-Source-Pastebin https://privatebin.info/
- * Javascript Password Strength https://blogs.dropbox.com/tech/2012/04/zxcvbn-realistic-password-strength-estimation/
  * Java: Spring boot, jhipster, http://www.dropwizard.io/
  * Compare libraries https://php.libhunt.com/
  * File browser / Ajax explorer / https://pydio.com/ http://sourceforge.net/projects/ajaxplorer/
- * Javascript-Source Code Editor: https://ace.c9.io/ ACE https://github.com/ajaxorg/ace/ see also https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_source_code_editors
 
 
 
@@ -106,6 +104,9 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
    * echarts https://ecomfe.github.io/echarts-doc/public/
 * Unlimited zoom: https://openseadragon.github.io/
 * Sketchpad/image editor https://github.com/ivictbor/painterro 
+* Javascript Password Strength https://blogs.dropbox.com/tech/2012/04/zxcvbn-realistic-password-strength-estimation/
+* Javascript-Source Code Editor: https://ace.c9.io/ ACE https://github.com/ajaxorg/ace/ see also https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_source_code_editors
+
 * HTML-Editors and File Browser
    * QuillJS https://quilljs.com/
    * CKEditor http://ckeditor.com/
