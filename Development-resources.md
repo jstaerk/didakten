@@ -104,7 +104,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
    * d3js based https://plot.ly/ 
    * scientific data plots/charts: http://jupyter.org/, 
    * echarts https://ecomfe.github.io/echarts-doc/public/
-
+* Unlimited zoom: https://openseadragon.github.io/
 * Sketchpad/image editor https://github.com/ivictbor/painterro 
 * HTML-Editors and File Browser
    * QuillJS https://quilljs.com/
