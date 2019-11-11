@@ -263,6 +263,7 @@ There is also a [[list of open source libraries|Development-resources]]
    * (windows) deleted file recovery  http://www.piriform.com/recuva/download (alternative http://www.cgsecurity.org/wiki/PhotoRec_DE und https://www.cgsecurity.org/wiki/TestDisk)
    * (windows) Disk space overview: WinDirStat http://windirstat.info/ (linux kdirstat)
    * duplicity backup, duplicaty windows version http://code.google.com/p/duplicati/
+   * restic backup https://github.com/restic/restic
    * DVDisaster, dvd/bd archival (additional CRC), http://dvdisaster.net/
    * W10 privacy https://www.winprivacy.de/deutsch-start/download/
    * unetbootin, bootable USB installer
