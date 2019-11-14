@@ -83,7 +83,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * http://papaparse.com/ Javascript CSV parser
 * JS-scrolling: greensocks, superscrollorama
 * https://owlcarousel2.github.io/OwlCarousel2/
-
+* Charting/Flowcharting https://jgraph.github.io/mxgraph/
 * http://www.cannonjs.org/ Javascript Physics engine
 * https://threejs.org/ Javascript WebGL engine
 * https://aframe.io/ ThreeJS scene graph for AR and VR
