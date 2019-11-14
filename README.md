@@ -65,6 +65,7 @@ see [development resources](Development-resources.md)
 ## Icons
  * https://fortawesome.github.io/Font-Awesome/
  * https://material.io/icons/
+ * https://materialdesignicons.com/
  * https://glyph.smarticons.co
  * https://ionicons.com/
  * http://ikons.piotrkwiatkowski.co.uk/
