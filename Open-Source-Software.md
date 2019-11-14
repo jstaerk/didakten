@@ -6,7 +6,8 @@ Curated list of good software resources, which are open source or free (like in 
 
 ### 2d graphics
  * http://www.inkscape.org, 
- * yEd freeware visio like with auto-layout (freeware only) http://www.yworks.com/de/products_yed_about.html 
+ * yEd freeware visio like with auto-layout (freeware only) in java http://www.yworks.com/de/products_yed_about.html 
+ * draw.io is like visio in javascript https://github.com/jgraph/drawio
  * http://www.getpaint.net/ (Windows only)
  * Font design: http://fontforge.sourceforge.net/
  * Jalbum html gallery software http://jalbum.net/
@@ -14,6 +15,7 @@ Curated list of good software resources, which are open source or free (like in 
  * http://hugin.sourceforge.net/ Panorama photo stitcher
  * http://www.marzipano.net/ 360° viewer
  * https://www.miltonpaint.com/ infinite canvas infinite zoom paint
+ 
 
 ### 3d graphics
    * www.blender.org (also game engine)
