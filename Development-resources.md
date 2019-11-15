@@ -28,7 +28,7 @@
 Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#Development 
 
 ### Plugins, Libraries
- * 3d web Bibliotheken: https://threejs.org/, https://aframe.io/ (VR)
+ * 3d web library: https://threejs.org/, https://aframe.io/ (VR)
  * Open-Source-Pastebin https://privatebin.info/
  * Java: Spring boot, jhipster, http://www.dropwizard.io/
  * Compare libraries https://php.libhunt.com/
@@ -203,18 +203,10 @@ Backend as a service, persistence, push
   * Java https://open.hpi.de/courses/javaeinstieg-mint-ec-2018 
 * Misc german https://www.oncampus.de 
 
-## Free events
-to learn coding in Frankfurt am Main, Germany
-* Railsgirls
-* Codedoor (for refugees)
-* Code+Design Camp (annual event, none in 2018, four day workshow, 50 Eur fee, can be reimbursed)
-* https://www.meetup.com/de-DE/Hackschool-Frankfurt/
-
 ## Curated lists of beautiful homepages (inspiration)
  * httpster.net 
  * https://www.siteinspire.com/
  * https://www.awwwards.com/
- * http://www.uitemple.com/
  * https://uimovement.com/
 
 ## Miscellaneous links 
