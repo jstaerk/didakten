@@ -193,6 +193,11 @@ Backend as a service, persistence, push
 ## Free learning materials
 * http://www.code.org
 * https://appcamps.de/
+## Non-Profit-Organisations
+* http://railsgirls.com/
+* https://www.teckids.org/
+* https://www.hackerstolz.de/hackschool/
+* https://www.hacker-school.de/
 ## Free MOOCs
 * codecademy.com
 * katacoda.com
