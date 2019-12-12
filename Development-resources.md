@@ -46,6 +46,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * PHP charts: http://pchart.sourceforge.net/, (JS) http://www.chartjs.org/
 * PHP password hashing: http://www.openwall.com/phpass/
 * PHP http request library https://github.com/guzzle/guzzle
+* Async processig: https://github.com/spatie/async
 * Automatic tests: 
   * PHPunit https://phpunit.de/
   * Codeception https://codeception.com/
