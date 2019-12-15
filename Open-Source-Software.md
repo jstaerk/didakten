@@ -284,6 +284,7 @@ There is also a [[list of open source libraries|Development-resources]]
    * Data rescue (hard discs): dd_rescue
    * hex editor (mac) http://ridiculousfish.com/hexfiend/
    * Hotkeys (Windows) https://www.autohotkey.com/
+   * Open source management for Windows: http://ketarin.canneverbe.com/ (collection management) https://ninite.com/ (single installer generator)
    * Shell (Windows) https://cmder.net/ 
    * Benchmark: sysbench, e.g. mysql benchmark using `sysbench /usr/share/sysbench/oltp_read_write.lua --threads=4 --db-driver=mysql --mysql_host=10.2.181.5 --mysql-user=<db user> --mysql-password=<db pwd> --mysql-port=3306 --tables=10 --table-size=1000 prepare`, then  ...run . DB Benchmark also https://github.com/sj14/dbbench
 
