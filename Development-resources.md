@@ -5,7 +5,7 @@
 * German page on how to calculate various checksums http://www.pruefziffernberechnung.de/
 * https://www.freecodecamp.org/ ?
 * Captcha Email addresses https://spamty.eu
-* Captcha everything else https://www.google.com/recaptcha/intro/v3beta.html
+* Captcha everything else https://www.google.com/recaptcha/intro/v3beta.htmlf
 * Software updates: the update framework https://theupdateframework.github.io/
 
 ## Templates, CSS boilerplates
@@ -202,6 +202,7 @@ Backend as a service, persistence, push
 ## Free MOOCs
 * codecademy.com
 * katacoda.com
+* https://www.edx.org/
 * https://www.freecodecamp.org/ 
 * HPI (German)
   * Ruby https://open.hpi.de/enrollments?course_id=ruby2018 
