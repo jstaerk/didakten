@@ -435,6 +435,7 @@ There is also a [[list of open source libraries|Development-resources]]
  * https://framagit.org/framasoft/framadate/framadate open source doodle
  * https://github.com/nektro/andesite share files and directories, public or oauth2 authorized
  * https://pol.is/home open source survey/sentiment analysis
+ * https://www.opentripplanner.org/ passenger management, public transportation optimizer
  * https://solid.mit.edu/ decentralized storage of social data 
  * whistleblower-platform https://securedrop.org/
  * https://www.ancestris.org/ Geneaologie-Software
