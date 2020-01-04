@@ -196,6 +196,7 @@ There is also a [[list of open source libraries|Development-resources]]
    * https://www.audacityteam.org/ Open Source Sound Editor
    * Voicemeeter/banana (Donationware only): Good mixer for Windows https://www.vb-audio.com/Voicemeeter/banana.htm
    * Music composition https://helio.fm/
+   * https://github.com/deezer/spleeter open source channel separation
    * programming languages for music
       * http://overtone.github.io/ 
       * https://supercollider.github.io/ 
@@ -431,6 +432,7 @@ There is also a [[list of open source libraries|Development-resources]]
  * https://pretix.eu/ open source ticketing. The real event tickets, not bug tickets.
  * https://pretalx.com/ open source conference scheduling.
  * https://c3nav.de/ Android WLAN based indoor navigation
+ * https://framagit.org/framasoft/framadate/framadate open source doodle
  * https://github.com/nektro/andesite share files and directories, public or oauth2 authorized
  * https://pol.is/home open source survey/sentiment analysis
  * https://solid.mit.edu/ decentralized storage of social data 
