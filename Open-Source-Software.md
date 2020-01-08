@@ -225,6 +225,7 @@ There is also a [[list of open source libraries|Development-resources]]
    * https://matrix.org/ XMPP alternative chat protocol, e.g. http://riot.im for web chat, https://qtox.github.io/ looks like an alternative
    * Web chat: http://www.phpfreechat.net Slack konkurrenten: http.//www.zulip.org , http://Mattermost.org, http://rocket.chat, http://getkandan.com/, https://github.com/keybase/client
    * http://www.msec.it/blog/?page_id=11 Dukto R6 LAN transfer files to multiple clients
+   * https://www.chatwoot.com/ server based support chat
    * https://www.mumble.info Open source voice chat/voip
    * https://matrix.org/ Open source encrypted chat
 
