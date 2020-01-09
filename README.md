@@ -43,7 +43,7 @@ see [development resources](Development-resources.md)
  * http://www.openclipart.org Public domain SVG files, hundrets of thousands
  * https://undraw.co/ Free SVG clipart in a single style color-customizable
  * https://github.com/benhodgson/markedup-svg-worldmap SVG World Map
- * 2d animated vector files https://www.lottiefiles.com/
+ * 2d animated vector files (converted SVGs) https://www.lottiefiles.com/
 ## Fonts
  * https://www.fontsquirrel.com/
  * http://www.openfontlibrary.org
