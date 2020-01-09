@@ -100,7 +100,7 @@ Curated list of good software resources, which are open source or free (like in 
 
 
 ### Development
-There is also a [[list of open source libraries|Development-resources]]
+There is also a [list of open source libraries](Development-resources.md#user-content-plugins-libraries)
    * Planning, prototyping
      * Wireframing/Prototyping https://pencil.evolus.vn/ 
      * Wireframing HTML https://meetalva.io/
@@ -127,6 +127,7 @@ There is also a [[list of open source libraries|Development-resources]]
      * PHPUnit/Selenium/PhantomJS
      * Codeception
      * Behat.org
+   * Shader development (unclear license) https://www.shadertoy.com/
    * SCM/Diff
      * https://git-scm.com/
      * kdiff3 ''great tool'' to spot differences between two files or two directories (includes merge functionality) http://kdiff3.sourceforge.net/
