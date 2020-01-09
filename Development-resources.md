@@ -215,7 +215,10 @@ Backend as a service, persistence, push
  * https://www.siteinspire.com/
  * https://www.awwwards.com/
  * https://uimovement.com/
-
+## Youtube tutorials
+ * Shaders in unity (5h) https://www.youtube.com/watch?v=9WW5-0N1DsI
+ * Uneal engine 4 tutorial (4.5h) https://www.youtube.com/watch?v=a0qNO6_xPx0
+ 
 ## Miscellaneous links 
 * http://motionographer.com/2015/07/06/user-interface-design-why-motion-matters/
 * https://github.com/dipakkr/A-to-Z-Resources-for-Students
