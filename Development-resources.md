@@ -150,6 +150,9 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
    * https://tabler.github.io/ 
    * https://github.com/seguce92/carbon
    * https://adminlte.io/
+   
+### React
+ * Drag and drop page editor https://craft.js.org/ / Gui Builder 
 ### Wordpress Plugins
 * Wordpress-Framework/Starter themes 
    * https://roots.io/ bedrock, 
