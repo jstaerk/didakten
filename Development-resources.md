@@ -197,11 +197,13 @@ Backend as a service, persistence, push
 ## Free learning materials
 * http://www.code.org
 * https://appcamps.de/
-## Non-Profit-Organisations
+## Non-Profit-Organisations / Workshops
 * http://railsgirls.com/
 * https://www.teckids.org/
 * https://www.hackerstolz.de/hackschool/
 * https://www.hacker-school.de/
+* https://nodeforum.org/activities/young-at-node/jugend-hackt/ Jugend hackt ffm
+* https://nodeforum.org/digitale-welten-frankfurt/ Digitale Welten Frankfurt
 ## Free MOOCs
 * codecademy.com
 * katacoda.com
@@ -225,6 +227,7 @@ Backend as a service, persistence, push
 ## Miscellaneous links 
 * http://motionographer.com/2015/07/06/user-interface-design-why-motion-matters/
 * https://github.com/dipakkr/A-to-Z-Resources-for-Students
+* Recommendation for apps to get into coding https://www.golem.de/news/programmieren-lernen-informatik-apps-fuer-kinder-sind-oft-zu-komplex-2001-144857.html (German)
 
 
 ## see also
