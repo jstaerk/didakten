@@ -13,3 +13,4 @@ Angabe ohne Gewähr:
 ?: Erlaubt falls durch Kombination mit anderen CC-Attributen nicht verboten
 Es gibt für die meisten Lizenzen Zusatzbedingungen, zu erlesen in den entsprechenden Lizenztexten, bei der APL bspw. Lizenznennung
 
+See also [Lizenzpyramide](https://creativecommons.org/share-your-work/public-domain/freeworks)
