@@ -89,6 +89,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * http://www.cannonjs.org/ Javascript Physics engine
 * https://threejs.org/ Javascript WebGL engine
 * https://aframe.io/ ThreeJS scene graph for AR and VR
+* https://paveldogreat.github.io/WebGL-Fluid-Simulation/ WebGL fluid simulation
 * Maps
    * 2d/3d maps https://maptalks.org/
    * https://leafletjs.com/
