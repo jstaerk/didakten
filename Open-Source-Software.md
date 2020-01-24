@@ -441,6 +441,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://solid.mit.edu/ decentralized storage of social data 
  * whistleblower-platform https://securedrop.org/
  * https://www.ancestris.org/ Geneaologie-Software
+ * http://weewx.com/ Open source weather station
  * Heritrix/wayback machine server based internet page archival
  * Ascii screen recorder https://asciinema.org/
  * Conference management system http://frab.github.io/frab/ and https://github.com/nevs/pentabarf  
