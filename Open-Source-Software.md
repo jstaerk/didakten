@@ -15,6 +15,7 @@ Curated list of good software resources, which are open source or free (like in 
  * http://hugin.sourceforge.net/ Panorama photo stitcher
  * http://www.marzipano.net/ 360° viewer
  * https://www.miltonpaint.com/ infinite canvas infinite zoom paint
+ * https://photoflare.io/ simplictic cross plattform photo editor
  
 
 ### 3d graphics
