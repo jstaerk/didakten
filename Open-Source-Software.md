@@ -445,6 +445,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * http://weewx.com/ Open source weather station
  * Heritrix/wayback machine server based internet page archival
  * Ascii screen recorder https://asciinema.org/
+ * Opensource behive monitoring https://www.hiveeyes.org/
  * Conference management system http://frab.github.io/frab/ and https://github.com/nevs/pentabarf  
  * https://github.com/voc/voctoweb and https://github.com/voc/voctomix media.ccc.de conference video recording software
  * Thera-Pi Open Source ERP for physiotherapy http://www.thera-pi.org/
