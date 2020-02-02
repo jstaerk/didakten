@@ -327,6 +327,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Javascript open source Google Earth maps / 3d globus https://www.cesiumjs.org/
    * Open source social map https://www.keplerjs.io/
    * Free Geoserver: http://opengeo.org/products/suite/community/
+   * Free Geoserver/Tileserver https://t-rex.tileserver.ch/
    * tile cache (proxy) for opengeoserver geowebcache.org
    * OSM to print https://maposmatic.osm-baustelle.de
    * Map software (convert OSM-files to SVG with layers http://maperitive.net/
