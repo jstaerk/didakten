@@ -188,7 +188,6 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Avidemux : simple video cut software http://avidemux.berlios.de/index.html
    * http://www.opencastproject.org/matterhorn . 
    * Screen Recording freeware http://www.debugmode.com/wink/ 
-   * Opensource Webex Alternative http://openmeetings.apache.org/ 
    * Open Broadcaster screencast streaming Software https://obsproject.com/
    * Monaserver RTMP server http://www.monaserver.ovh/
    * Youtube downloader https://ytdl-org.github.io/youtube-dl/index.html
@@ -305,6 +304,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * MySQL DataLoader-Tool/Migration von MS SQL/Synchronisation of databases http://www.dbload.com/
  * MySQL Change Data Capture (CDC) https://github.com/whitesock/open-replicator
 ### Communication (server based)
+ * http://openmeetings.apache.org/  Open source video conferencing
  * https://www.hubl.in/ Open source video conferencing
  * https://meet-app.io/ Open source video conferencing
  * https://bigbluebutton.org Open source teacher/student video conferencing
