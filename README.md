@@ -99,6 +99,7 @@ see [development resources](Development-resources.md)
  * http://grabcad.com/
 
 ## Other people's lists
+ * https://www.kenney.nl/assets Free game assets
  * https://github.com/danielmiessler/SecLists Wordlists for security testing of passwords
  * https://github.com/Kavex/GameDev-Resources
  * https://github.com/Ibuprogames/gamedev-resources
