@@ -189,6 +189,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * cut software https://github.com/jliljebl/flowblade
    * http://www.opencastproject.org/matterhorn . 
    * Screen Recording freeware http://www.debugmode.com/wink/ 
+   * Screen Recording freeware for linux only https://github.com/phw/peek
    * Open Broadcaster screencast streaming Software https://obsproject.com/
    * Monaserver RTMP server http://www.monaserver.ovh/
    * Youtube downloader https://ytdl-org.github.io/youtube-dl/index.html
