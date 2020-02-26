@@ -80,6 +80,7 @@ see [development resources](Development-resources.md)
  * http://www.androidicons.com/
  * http://www.entypo.com/
  * https://akveo.github.io/eva-icons/
+ * https://github.com/refactoringui/heroicons
 
 ## Music, Sound
  * http://www.jamendo.com
