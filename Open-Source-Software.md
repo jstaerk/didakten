@@ -20,6 +20,7 @@ Curated list of good software resources, which are open source or free (like in 
 
 ### 3d graphics
    * www.blender.org (also game engine)
+   * http://www.makehumancommunity.org/ Open Source Poser clone cutomizing 3d models of humans
    * Assimp (3d model converter)
    * Photogrammetry (create 3d model from multiple 2d pictures) https://alicevision.org/#meshroom (NVIDIA graphic card=CUDA required)
 
