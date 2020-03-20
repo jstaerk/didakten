@@ -200,6 +200,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * https://www.audacityteam.org/ Open Source Sound Editor
    * Voicemeeter/banana (Donationware only): Good mixer for Windows https://www.vb-audio.com/Voicemeeter/banana.htm
    * Music composition https://helio.fm/
+   * Near-Realtime audio driver for Windows http://www.asio4all.org/
    * https://github.com/deezer/spleeter open source channel separation
    * programming languages for music
       * http://overtone.github.io/ 
