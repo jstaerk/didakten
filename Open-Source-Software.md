@@ -230,7 +230,6 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * https://matrix.org/ XMPP alternative chat protocol, e.g. http://riot.im for web chat, https://qtox.github.io/ looks like an alternative
    * Web chat: http://www.phpfreechat.net Slack konkurrenten: http.//www.zulip.org , http://Mattermost.org, http://rocket.chat, http://getkandan.com/, https://github.com/keybase/client
    * http://www.msec.it/blog/?page_id=11 Dukto R6 LAN transfer files to multiple clients
-   * https://www.chatwoot.com/ server based support chat
    * https://www.mumble.info Open source voice chat/voip
    * https://matrix.org/ Open source encrypted chat
 
@@ -308,13 +307,11 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * MySQL DataLoader-Tool/Migration von MS SQL/Synchronisation of databases http://www.dbload.com/
  * MySQL Change Data Capture (CDC) https://github.com/whitesock/open-replicator
 ### Communication (server based)
- * http://openmeetings.apache.org/  Open source video conferencing
- * https://www.hubl.in/ Open source video conferencing
- * https://meet-app.io/ Open source video conferencing
- * https://bigbluebutton.org Open source teacher/student video conferencing
- * https://github.com/bluejeans/ Open source video conferencing bluejeans.com
+ * Jitsi meet https://github.com/jitsi/docker-jitsi-meet Open source webrtc based conferencing
  * Remote control android https://github.com/Genymobile/scrcpy
  * https://www.sharedrop.io/ realtime file exchange
+ * https://www.chatwoot.com/ server based support chat
+
    
 
 ### GIS (server based)
