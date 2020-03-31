@@ -306,6 +306,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * MySQL profiler https://www.jetprofiler.com/, mysql-cluster http://galeracluster.com/
  * MySQL DataLoader-Tool/Migration von MS SQL/Synchronisation of databases http://www.dbload.com/
  * MySQL Change Data Capture (CDC) https://github.com/whitesock/open-replicator
+ * ELK: Elasticsearch+Logstash+Kibana https://www.elastic.co/en/logstash s.a. https://logz.io/learn/complete-guide-elk-stack/
+ * Graylog (+Grafana) https://www.graylog.org/ ELK alternative for logging
 ### Communication (server based)
  * Jitsi meet https://github.com/jitsi/docker-jitsi-meet Open source webrtc based conferencing
  * Remote control android https://github.com/Genymobile/scrcpy
