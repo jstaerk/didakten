@@ -438,6 +438,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://gitlab.com/hagrid-keyserver/hagrid GPG keyserver
  * https://pretix.eu/ open source ticketing. The real event tickets, not bug tickets.
  * https://pretalx.com/ open source conference scheduling.
+ * https://yawik.org/ job application management, enter job offers, let applicants apply... 
  * https://c3nav.de/ Android WLAN based indoor navigation
  * https://framagit.org/framasoft/framadate/framadate open source doodle
  * https://github.com/nektro/andesite share files and directories, public or oauth2 authorized
