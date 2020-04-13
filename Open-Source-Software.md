@@ -5,17 +5,19 @@ Curated list of good software resources, which are open source or free (like in 
 ## Desktop Software
 
 ### 2d graphics
- * http://www.inkscape.org, 
- * yEd freeware visio like with auto-layout (freeware only) in java http://www.yworks.com/de/products_yed_about.html 
- * draw.io is like visio in javascript https://github.com/jgraph/drawio
+#### Raster
  * http://www.getpaint.net/ (Windows only)
- * Font design: http://fontforge.sourceforge.net/
- * Jalbum html gallery software http://jalbum.net/
  * Andreamosaic http://www.andreaplanet.com/andreamosaic/ , render big pictures from thousands of small ones
  * http://hugin.sourceforge.net/ Panorama photo stitcher
  * http://www.marzipano.net/ 360° viewer
  * https://www.miltonpaint.com/ infinite canvas infinite zoom paint
  * https://photoflare.io/ simplictic cross plattform photo editor
+ * Jalbum html gallery software http://jalbum.net/
+#### Vector
+ * http://www.inkscape.org, 
+ * yEd freeware visio like with auto-layout (freeware only) in java http://www.yworks.com/de/products_yed_about.html 
+ * draw.io is like visio in javascript https://github.com/jgraph/drawio
+ * Font design: http://fontforge.sourceforge.net/
  
 
 ### 3d graphics
@@ -35,7 +37,10 @@ Curated list of good software resources, which are open source or free (like in 
  * Collaborative https://www.humhub.org/
 
 ### PIM, Mindmaps, PDF and productivity
+#### Mindmaps
  * Mind maps: Open Source Freemind http://freemind.sourceforge.net/wiki/index.php/Main_Page Freeware http://www.xmind.net/ . Online: http://www.mindmup.com
+ * Gephi network analysis https://gephi.org/
+#### PDF, PIM, Productivity
  * Project management: http://www.ganttproject.biz
  * DMS: http://www.steuertipps.de/lp/belegmanager 
  * Free PDF printer: http://www.pdfforge.org/pdfcreator
