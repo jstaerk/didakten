@@ -115,6 +115,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * IDEs, text editors, log browser
      * Conventional
        * Visual Studio Code https://code.visualstudio.com/download 
+       * IntelliJ IDEA CE: the community link on https://www.jetbrains.com/de-de/idea/download/
        * Eclipse https://eclipse.org/, Eclipse/PDT https://eclipse.org/pdt/ and PDT Extensions http://p2.pdt-extensions.org/
        * Windows filter huge files/editor https://github.com/RolandPheasant/TailBlazer/
        * (windows) Notepad++: open source text editor for windows http://notepad-plus.sourceforge.net/
