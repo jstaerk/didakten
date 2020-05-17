@@ -110,6 +110,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * Sketchpad/image editor https://github.com/ivictbor/painterro 
 * Javascript Password Strength https://blogs.dropbox.com/tech/2012/04/zxcvbn-realistic-password-strength-estimation/
 * Javascript-Source Code Editor: https://ace.c9.io/ ACE https://github.com/ajaxorg/ace/ see also https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_source_code_editors
+* Javascript Framework benchmarks https://github.com/krausest/js-framework-benchmark
 
 * HTML-Editors and File Browser
    * QuillJS https://quilljs.com/
