@@ -185,7 +185,9 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://github.com/jiahaog/nativefier Desktopanwendung von webanwendung erstellen
      * Disassembler https://github.com/radareorg/cutter/
      * Elasticsearch https://opendistro.github.io/for-elasticsearch/
-
+### Screen capture
+ * https://getsharex.com/ ShareX screen capture
+ * Open Broadcaster screencast streaming Software https://obsproject.com/
 ### Multimedia
    * Video player: vlc, http://www.videolan.org
    * (windows) XMedia Recode (more stable than media coder) http://www.xmedia-recode.de/download.html
@@ -198,7 +200,6 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * http://www.opencastproject.org/matterhorn . 
    * Screen Recording freeware http://www.debugmode.com/wink/ 
    * Screen Recording freeware for linux only https://github.com/phw/peek
-   * Open Broadcaster screencast streaming Software https://obsproject.com/
    * Monaserver RTMP server http://www.monaserver.ovh/
    * Youtube downloader https://ytdl-org.github.io/youtube-dl/index.html
    * German public television download https://mediathekview.de
