@@ -83,6 +83,7 @@ see [development resources](Development-resources.md)
  * https://akveo.github.io/eva-icons/
  * https://github.com/refactoringui/heroicons
  * https://css.gg/
+ * https://labs.mapbox.com/maki-icons/ (for maps)
 
 ## Music, Sound
  * http://www.jamendo.com
