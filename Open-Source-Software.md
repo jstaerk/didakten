@@ -464,6 +464,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://github.com/voc/voctoweb and https://github.com/voc/voctomix media.ccc.de conference video recording software
  * Thera-Pi Open Source ERP for physiotherapy http://www.thera-pi.org/
  * Digital long term preservation platform https://www.archivematica.org/
+ * File format identification: https://github.com/openpreserve/fido or https://www.itforarchivists.com/siegfried 
  * Ulteo open virtual desktop terminalserver with app sandbox and web interface http://www.ulteo.com/home/en/ovdi/openvirtualdesktop?autolang=en
  * x2go terminal server with linux- windows, mac and thin clients http://www.x2go.org
  * LTSP: thin client terminal server http://www.ltsp.org
