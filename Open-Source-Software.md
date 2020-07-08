@@ -284,6 +284,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * DVDisaster, dvd/bd archival (additional CRC), http://dvdisaster.net/
    * W10 privacy https://www.winprivacy.de/deutsch-start/download/
    * unetbootin, bootable USB installer
+   * GUI CA to manage SSL certificates https://github.com/chris2511/xca/
    * rufus, bootable USB installer https://rufus.akeo.ie/
    * Autotext http://lifehacker.com/238306/lifehacker-code-texter-windows
    * Disk2vhd create virtual machine from physical one, Windows, Freeware only
