@@ -55,6 +55,7 @@ see [development resources](Development-resources.md)
  * http://typefacts.com/die-besten-freefonts
  * http://www.smashingmagazine.com/2011/08/02/new-high-quality-free-fonts/
  * http://www.smashingmagazine.com/2010/08/12/30-new-free-high-quality-fonts-typography/
+ * https://www.theleagueofmoveabletype.com/
 
 ### Single fonts e.g.
  * Linux Libertine http://www.linuxlibertine.org/
