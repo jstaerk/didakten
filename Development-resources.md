@@ -186,6 +186,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 ### Charting
 * Railroad diagrams: e.g. for Grammars Online JS https://tabatkins.github.io/railroad-diagrams/generator.html, Alternative http://www.bottlecaps.de/rr/ui
 * Sequence diagrams: e.g. for Protocols https://bramp.github.io/js-sequence-diagrams/
+* https://mermaid-js.github.io/mermaid/#/ "Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs."
 
 # Logging and graphing
 * Logstash https://github.com/elastic/logstash
