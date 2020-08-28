@@ -122,6 +122,12 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
    * Ajax File Browser (ajaxfb): http://sourceforge.net/projects/ajaxfb/
    * https://github.com/xing/wysihtml5
    * http://vistaprint.github.io/ArteJS/
+   * https://prosemirror.net/
+   
+* Online Word Processors
+   * https://www.onlyoffice.com/de/
+   * https://www.collaboraoffice.com/code/
+   * https://www.libreoffice.org/download/libreoffice-online/
 ### JQuery Plugins
 * http://datatables.net for tables/pagination etc tablesorter from http://mottie.github.io/tablesorter/
 * multiple-select/tagging http://harvesthq.github.io/chosen/ or (better) http://ivaynberg.github.io/select2/, 
