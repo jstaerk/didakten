@@ -444,6 +444,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 
 ### Obscure/Rarely used (server based)
 
+ * https://openslides.com/de "Digital motion and assembly system" Votes and suggestions for conferences and online conferences, similar to https://wiki.piratenpartei.de/LiquidFeedback
  * https://github.com/HabitRPG/habitica/ Habit tracking/changing system
  * https://github.com/VirusTotal/yara "The pattern matching swiss knife" for file and malware signatures
  * https://wekan.github.io/ open source kanban
