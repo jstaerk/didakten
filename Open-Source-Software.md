@@ -185,9 +185,10 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://github.com/jiahaog/nativefier Desktopanwendung von webanwendung erstellen
      * Disassembler https://github.com/radareorg/cutter/
      * Elasticsearch https://opendistro.github.io/for-elasticsearch/
-### Screen capture
+### Streaming and Screen capture
  * https://getsharex.com/ ShareX screen capture
  * Open Broadcaster screencast streaming Software https://obsproject.com/
+ * Open Source Streaming Server https://github.com/kaltura/server 
 ### Multimedia
    * Video player: vlc, http://www.videolan.org
    * (windows) XMedia Recode (more stable than media coder) http://www.xmedia-recode.de/download.html
