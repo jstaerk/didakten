@@ -81,7 +81,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
   * https://github.com/foreverjs/forever
   * https://pm2.io/
   * http://strong-pm.io/
-* private NPM registry https://github.com/verdaccio/verdaccio
+* private NPM registry https://github.com/rlidwka/sinopia https://github.com/verdaccio/verdaccio
 
 ### Javascript libraries
 * Javascript-Timeline http://timeline.knightlab.com/ https://github.com/NUKnightLab/TimelineJS3
