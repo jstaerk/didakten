@@ -157,6 +157,9 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Backus-Naur Normalization/Grammar https://bottlecaps.de/rr/ui
 
    * Source code analysis
+     * https://www.exakat.io/en/
+     * https://psalm.dev/
+     * https://github.com/peej/phpdoctor
      * PHP Mess detector static source code analysis https://phpmd.org/
    * App development 
    * Mobile App Development
