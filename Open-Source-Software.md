@@ -137,7 +137,6 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * PHPUnit/Selenium/PhantomJS
      * Codeception
      * Behat.org
-   * Shader development (unclear license) https://www.shadertoy.com/
    * SCM/Diff
      * https://git-scm.com/
      * kdiff3 ''great tool'' to spot differences between two files or two directories (includes merge functionality) http://kdiff3.sourceforge.net/
@@ -189,6 +188,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://github.com/jiahaog/nativefier Desktopanwendung von webanwendung erstellen
      * Disassembler https://github.com/radareorg/cutter/
      * Elasticsearch https://opendistro.github.io/for-elasticsearch/
+     * Shader development (unclear license) https://www.shadertoy.com/
+     * https://yeoman.io/ scaffolding
 ### Streaming and Screen capture
  * https://getsharex.com/ ShareX screen capture
  * Open Broadcaster screencast streaming Software https://obsproject.com/
