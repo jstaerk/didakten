@@ -3,6 +3,7 @@
 * https://libraries.io/ Library search engine
 * https://github.com/kriswallsmith/assetic PHP asset (javascript/css) file management library
 * German page on how to calculate various checksums http://www.pruefziffernberechnung.de/
+* Description of file formats: http://www.fileformat.info/
 * https://www.freecodecamp.org/ ?
 * Captcha Email addresses https://spamty.eu
 * Captcha everything else https://www.google.com/recaptcha/intro/v3beta.htmlf
