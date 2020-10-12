@@ -87,9 +87,10 @@ see [development resources](Development-resources.md)
  * https://labs.mapbox.com/maki-icons/ (for maps)
 
 ## Music, Sound
- * http://www.jamendo.com
- * http://www.freesound.org
  * http://www.freemusicarchive.org
+ * http://www.freesound.org
+ * https://icons8.com/music/
+ * http://www.jamendo.com
  * https://incompetech.com/music/royalty-free/music.html
  * https://icons8.com/music
 
