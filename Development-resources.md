@@ -43,6 +43,8 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 ### C++ libraries
 * https://www.boost.org/
 * https://developers.google.com/protocol-buffers/
+### Java libraries
+* https://github.com/sbraconnier/jodconverter/ use LibreOffice to convert files
 
 ### PHP Libraries
 * http://php-di.org, see also https://github.com/mikedfunk/php-di-example
