@@ -45,6 +45,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * https://developers.google.com/protocol-buffers/
 ### Java libraries
 * https://github.com/sbraconnier/jodconverter/ use LibreOffice to convert files
+* Onlyoffice, Libreoffice online, Collabora Online: embed Office functionality in web based applications 
 
 ### PHP Libraries
 * http://php-di.org, see also https://github.com/mikedfunk/php-di-example
