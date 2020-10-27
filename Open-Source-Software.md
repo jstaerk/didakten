@@ -31,7 +31,11 @@ Curated list of good software resources, which are open source or free (like in 
  * Fakturama https://www.fakturama.info/
  * http://de.openoffice.org and Office-Teamwork/Collaboration/Filesharing http://www.teamdrive.net/
  * http://www.gnuaccounting.org
- * Time tracker: Task coach z.B. von http://www.taskcoach.org, http://www.getklok.com/ https://activitywatch.net/
+ * Time tracker
+   * Super productivity https://github.com/johannesjo/super-productivity
+   * Task coach z.B. von http://www.taskcoach.org,
+   * http://www.getklok.com/ 
+   * https://activitywatch.net/
  * DTP: Scribus http://www.scribus.net
  * Java fat client+java applet resource planner http://rapla.org/
  * Hibiscus online banking http://www.willuhn.de/products/hibiscus/
