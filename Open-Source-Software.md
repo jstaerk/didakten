@@ -240,8 +240,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * GPG/Enigmail for encrypted email communication: gpg4win.com, enigmail TB 64 bit outlook plugin https://github.com/dejavusecurity/OutlookPrivacyPlugin
    * Keepass http://www.keepass.info/ password management and -generator. 
    * Buttercup https://buttercup.pw/ password management and -generator. 
-   
    * fwbuilder: Firewall-configuration utility http://www.fwbuilder.org/
+   * https://zmap.io/ large scale study tool for e.g. portscans/portmapping
 
 ### Communication
    * https://www.thunderbird.net/ Email client
@@ -370,7 +370,6 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 * Monitoring: https://www.nagios.org/, https://www.zabbix.com/ or https://prometheus.io/
 * Nagios-Configuration/Webinterface: centreon . Nagios Status Monitor https://nagstamon.ifw-dresden.de/
 * https://wazuh.com/ central intrusion detection for https://www.ossec.net/
-* https://zmap.io/ large scale study tool for e.g. portscans/portmapping
    
 
 ### Document management (server based)
