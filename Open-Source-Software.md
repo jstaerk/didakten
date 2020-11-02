@@ -27,6 +27,7 @@ Curated list of good software resources, which are open source or free (like in 
    * Assimp (3d model converter)
    * Photogrammetry (create 3d model from multiple 2d pictures) 
      * https://alicevision.org/#meshroom (NVIDIA graphic card=CUDA required), sample dataset e.g. https://github.com/alicevision/dataset_monstree (freeware alternative https://www.3dflow.net/3df-zephyr-free/)
+     * from motion: http://ccwu.me/vsfm/
      * for aerial drone picture https://www.opendronemap.org/webodm/
 
 ### Business, Office, Banking, Resource planning
