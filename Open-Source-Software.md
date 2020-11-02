@@ -25,7 +25,9 @@ Curated list of good software resources, which are open source or free (like in 
    * http://www.makehumancommunity.org/ Open Source Poser clone cutomizing 3d models of humans
    * http://www.sweethome3d.com/ 3d real estate designer with furniture
    * Assimp (3d model converter)
-   * Photogrammetry (create 3d model from multiple 2d pictures) https://alicevision.org/#meshroom (NVIDIA graphic card=CUDA required), sample dataset e.g. https://github.com/alicevision/dataset_monstree
+   * Photogrammetry (create 3d model from multiple 2d pictures) 
+     * https://alicevision.org/#meshroom (NVIDIA graphic card=CUDA required), sample dataset e.g. https://github.com/alicevision/dataset_monstree (freeware alternative https://www.3dflow.net/3df-zephyr-free/)
+     * for aerial drone picture https://www.opendronemap.org/webodm/
 
 ### Business, Office, Banking, Resource planning
  * Fakturama https://www.fakturama.info/
