@@ -201,6 +201,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://getsharex.com/ ShareX screen capture
  * Open Broadcaster screencast streaming Software https://obsproject.com/
  * Open Source Streaming Server https://github.com/kaltura/server 
+ * Audio/Video streaming language https://www.liquidsoap.info/
 ### Multimedia
    * Video player: vlc, http://www.videolan.org
    * (windows) XMedia Recode (more stable than media coder) http://www.xmedia-recode.de/download.html
@@ -330,6 +331,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * MySQL Change Data Capture (CDC) https://github.com/whitesock/open-replicator
  * ELK: Elasticsearch+Logstash+Kibana https://www.elastic.co/en/logstash s.a. https://logz.io/learn/complete-guide-elk-stack/
  * Graylog (+Grafana) https://www.graylog.org/ ELK alternative for logging
+ * https://prometheus.io/ Open Source Monitoring
  
 ### Communication (server based)
  * Jitsi meet https://github.com/jitsi/docker-jitsi-meet Open source webrtc based conferencing
@@ -452,7 +454,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 ### Identity management (server based)
 * FreeIPA https://www.freeipa.org
 * http://supervene.com/razdc/
-* https://www.keycloak.org/downloads.html 
+* https://www.keycloak.org/downloads.html open source oauth server
 * https://evolveum.com/midpoint/about-midpoint/ 
 
 ### Obscure/Rarely used (server based)
