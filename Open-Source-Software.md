@@ -494,7 +494,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * focus Firewall https://packetfence.org/ 
    * w/Radius: https://zeroshell.org/, http://radiusdesk.com/
  * application virtualization: http://www.evalaze.de/
- * Kiosk: http://boothbox.sourceforge.net/ is really old so I would go for http://www.linutop.com/ or http://porteus-kiosk.org/
+ * kiosk browser: http://boothbox.sourceforge.net/ is really old so I would go for http://www.linutop.com/ or http://porteus-kiosk.org/
  * MySQLDump-Importer http://www.ozerov.de/bigdump/
 
 ## Online resources
