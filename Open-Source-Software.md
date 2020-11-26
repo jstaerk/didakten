@@ -133,13 +133,15 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * online 
        * https://eclipse.org/che/ 
        * Visual Studio Code server https://github.com/codercom/code-server
-   * API Testing
+   * API
      * PAW (kommerziell): Mac REST API Client https://luckymarmot.com/paw
      * API test tool Postman https://www.getpostman.com Insomnia https://insomnia.rest/ core
      * API Designer: Insomnia https://insomnia.rest/ designer, https://apigility.org/?
      * SOAP UI, Tool zum Absetzen von SOAP-Anfragen http://sourceforge.net/projects/soapui/files/
      * Diffy (test different response on same http request) https://github.com/twitter/diffy
      * Oauth GUI client https://github.com/mitraman/OAuthTestClient
+     * wso2 open source api manager https://github.com/wso2/product-apim/releases/tag/v3.2.0
+     * istio open source service mesh https://istio.io/latest/docs/setup/getting-started/#download
    * Testing
      * PHPUnit/Selenium/PhantomJS
      * Codeception
