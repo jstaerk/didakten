@@ -334,6 +334,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * ELK: Elasticsearch+Logstash+Kibana https://www.elastic.co/en/logstash s.a. https://logz.io/learn/complete-guide-elk-stack/
  * Graylog (+Grafana) https://www.graylog.org/ ELK alternative for logging
  * https://prometheus.io/ Open Source Monitoring
+ * https://www.knime.com/ Desktop-App to extract information
  
 ### Communication (server based)
  * Jitsi meet https://github.com/jitsi/docker-jitsi-meet Open source webrtc based conferencing
