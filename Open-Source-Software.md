@@ -386,6 +386,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Resourcespace http://www.resourcespace.org/
      * w/ machine learning https://github.com/photoprism/
    * Seafile (dropbox-alternative)
+   * https://nextcloud.com/
+   * https://sandstorm.io/
    * https://mayan.readthedocs.io/en/latest/, https://github.com/danielquinn/paperless, https://github.com/openpaperwork/paperwork
 ### Documentation management (server based)
    * http://doc-book.sourceforge.net/homepage/
