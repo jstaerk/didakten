@@ -457,7 +457,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 ### Identity management (server based)
 * FreeIPA https://www.freeipa.org
 * http://supervene.com/razdc/
-* https://www.keycloak.org/downloads.html open source oauth server
+* oauth server https://www.keycloak.org/downloads.html oder https://github.com/ory/hydra
 * https://evolveum.com/midpoint/about-midpoint/ 
 
 ### Obscure/Rarely used (server based)
