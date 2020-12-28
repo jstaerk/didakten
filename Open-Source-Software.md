@@ -469,6 +469,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://github.com/VirusTotal/yara "The pattern matching swiss knife" for file and malware signatures
  * https://wekan.github.io/ open source kanban
  * https://screego.net/ open source screen sharing/video conference tool
+ * Safe exam browser https://safeexambrowser.org/ Kiosk
  * https://www.mindsdb.com/ AI predictive database
  * https://gitlab.com/hagrid-keyserver/hagrid GPG keyserver
  * https://pretix.eu/ open source ticketing. The real event tickets, not bug tickets.
