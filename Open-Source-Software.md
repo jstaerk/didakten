@@ -54,6 +54,7 @@ Curated list of good software resources, which are open source or free (like in 
  * Free PDF printer: http://www.pdfforge.org/pdfcreator
  * PDF helper tool (cut/merge PDFs pagewise): http://www.pdfsam.org
  * PDF booklet/magazine creator http://pdfbooklet.sourceforge.net/
+ * PDF diff https://soft.rubypdf.com/software/diffpdf
  * taxbird, http://www.taxbird.de/, only USt and LSt.
  * Add OCR layer to scanned PDFs (tesseract based) https://github.com/jbarlow83/OCRmyPDF
  * https://www.limbas.com/ web based DB access tool
