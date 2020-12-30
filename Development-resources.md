@@ -46,6 +46,8 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 ### Java libraries
 * https://github.com/sbraconnier/jodconverter/ use LibreOffice to convert files
 * Onlyoffice, Libreoffice online, Collabora Online: embed Office functionality in web based applications 
+* https://www.optaplanner.org/ nonlinear constraint solver/optimizer
+* https://www.philippe-fournier-viger.com/spmf/ Open source data mining algorithms
 
 ### PHP Libraries
 * http://php-di.org, see also https://github.com/mikedfunk/php-di-example
