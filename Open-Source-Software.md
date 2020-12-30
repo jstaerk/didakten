@@ -486,6 +486,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://www.ancestris.org/ Geneaologie-Software
  * http://weewx.com/ Open source weather station
  * Heritrix/wayback machine server based internet page archival
+ * Open source vicinity monitoring/spy https://guardianproject.github.io/haven/ 
  * Ascii screen recorder https://asciinema.org/
  * Opensource behive monitoring https://www.hiveeyes.org/
  * Conference management system http://frab.github.io/frab/ and https://github.com/nevs/pentabarf  
