@@ -336,6 +336,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * Graylog (+Grafana) https://www.graylog.org/ ELK alternative for logging
  * https://prometheus.io/ Open Source Monitoring
  * https://www.knime.com/ Desktop-App to extract information
+ * https://www.wetransform.to/products/halestudio/ map transformation and validation
  
 ### Communication (server based)
  * Jitsi meet https://github.com/jitsi/docker-jitsi-meet Open source webrtc based conferencing
