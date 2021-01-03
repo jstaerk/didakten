@@ -106,11 +106,13 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
    * https://leafletjs.com/
    * https://openlayers.org/
    * http://kartograph.org/
+   * Wayfinding https://github.com/ucdavis/wayfinding
+   * Wayfinding, indoor: https://pgrouting.org/ used e.g. by the Deutsche Bahn https://media.ccc.de/v/fossgis2020-3080-digitale-bahnhofsplne-fr-die-reisendeninformation-der-deutschen-bahn
 * SVG 
    * create SVGs http://svgjs.com/ 
    * create, load and edit SVGs: http://snapsvg.io/ 
+   * paint SVGs https://github.com/SVG-Edit/svgedit
    * SVG pan and zoom https://github.com/ariutta/svg-pan-zoom
-   * Wayfinding https://github.com/ucdavis/wayfinding
  * Charts: 
    * https://d3js.org/, 
    * d3js based https://plot.ly/ 
