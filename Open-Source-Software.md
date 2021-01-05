@@ -160,6 +160,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Documentation, Visualization and UML
      * Offline documentation: https://kapeli.com/dash für Mac und https://zealdocs.org für Win/Lin
      * ArgoUML, UML modelling http://argouml.tigris.org/ altenativ http://www.umlet.com
+     * https://dbdiagram.io/ ER-Diagrams
      * https://cruise.eecs.uottawa.ca/umple/ UML to source code
      * Regex visualization https://jex.im/regulex/
      * Sequence Diagrams https://bramp.github.io/js-sequence-diagrams/
