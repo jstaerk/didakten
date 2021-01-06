@@ -203,7 +203,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://yeoman.io/ scaffolding
 ### Streaming and Screen capture
  * https://getsharex.com/ ShareX screen capture
- * Open Broadcaster screencast streaming Software https://obsproject.com/
+ * Open Broadcaster screencast streaming Software https://obsproject.com/ see also OBS streaming server https://github.com/GRVYDEV/Project-Lightspeed
  * Open Source Streaming Server https://github.com/kaltura/server 
  * Audio/Video streaming language https://www.liquidsoap.info/
 ### Multimedia
