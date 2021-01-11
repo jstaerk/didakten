@@ -133,7 +133,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
    * Ajax File Browser (ajaxfb): http://sourceforge.net/projects/ajaxfb/
    * https://github.com/xing/wysihtml5
    * http://vistaprint.github.io/ArteJS/
-   * https://prosemirror.net/
+   * https://prosemirror.net/ (includes collaborative editing)+it's vue js port https://tiptap.dev/ 
    
 * Online Word Processors
    * https://www.onlyoffice.com/de/
