@@ -99,6 +99,8 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * Charting/Flowcharting https://jgraph.github.io/mxgraph/
 * http://www.cannonjs.org/ Javascript Physics engine
 * https://threejs.org/ Javascript WebGL engine
+* https://particles.matteobruni.it/ Particle libraries
+* https://www.shadertoy.com/ webgl shaders, library and creating tool
 * https://aframe.io/ ThreeJS scene graph for AR and VR
 * https://paveldogreat.github.io/WebGL-Fluid-Simulation/ WebGL fluid simulation
 * Maps
@@ -219,7 +221,6 @@ Backend as a service, persistence, push
 # Learning
 ## Free learning materials
 * http://www.code.org
-* https://appcamps.de/
 * https://www.cryptool.org/de/ct2-downloads  visualization of cryptographical algorithms
 ## Non-Profit-Organisations / Workshops
 * http://railsgirls.com/
