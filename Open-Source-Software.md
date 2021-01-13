@@ -374,7 +374,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 ### Forms (server based)
   * conventional https://www.typeform.com/ 
   * live e.g. during conferences http://www.pollev.com (free?)
-  * realtime live wiki / collaborative editor https://spacepads.de/, http://etherpad.org/ 
+  * realtime live wiki / collaborative editor https://spacepads.de/, http://etherpad.org/ https://github.com/audreyt/ethercalc
  
 ### Server based system tools (server based)
 * https://www.proxmox.com/de/ Virtualization server (VMware ESXI open Source alternative)
