@@ -91,6 +91,7 @@ Curated list of good software resources, which are open source or free (like in 
  * http://www.wcsaga.com/downloads/files/releases.html Wing Commander Saga The Darkest Dawn (Freeware)
  * https://www.minetest.net/ open source minecraft clone
  * http://opensimulator.org/ open source second life clone
+ * https://github.com/thecodingmachine/workadventure/ work adevnture gamification
 
 
 ### Site maintenance
