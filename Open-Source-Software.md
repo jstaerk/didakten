@@ -166,7 +166,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Regex visualization https://jex.im/regulex/
      * Sequence Diagrams https://bramp.github.io/js-sequence-diagrams/
      * Backus-Naur Normalization/Grammar https://bottlecaps.de/rr/ui
-
+     * Translation https://github.com/matecat/MateCat
    * Source code analysis
      * https://www.exakat.io/en/
      * https://psalm.dev/
