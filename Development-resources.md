@@ -49,6 +49,8 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * https://www.optaplanner.org/ nonlinear constraint solver/optimizer
 * https://www.philippe-fournier-viger.com/spmf/ Open source data mining algorithms
 
+### Python libraries
+* human language translation https://github.com/argosopentech/argos-translate and its https://github.com/uav4geo/LibreTranslate
 ### PHP Libraries
 * http://php-di.org, see also https://github.com/mikedfunk/php-di-example
 * Monolog PHP logger https://github.com/Seldaek/monolog
