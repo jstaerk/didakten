@@ -456,7 +456,6 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 
 ### Development tools (server based)
 * Source code styler / coding standards enforcer https://github.com/mikedugan/StyleCI
-* Exception tracker (noch nicht benutzt): https://github.com/getsentry/sentry
 * Eclipse Che Cloud IDE https://www.eclipse.org/che/
 * Zanata web based translation platform (similar to transifex, but FOSS?) https://github.com/zanata/zanata-platform
 * Logfile analytics: Logstash+Kibana oder bspw. https://grafana.com/
