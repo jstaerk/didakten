@@ -59,6 +59,9 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * PHP password hashing: http://www.openwall.com/phpass/
 * PHP http request library https://github.com/guzzle/guzzle
 * Async processig: https://github.com/spatie/async
+* Server+PHP library:
+  * Exception Tracking https://github.com/getsentry/sentry 
+  * Unleash feature toogle https://github.com/Unleash/unleash
 * Automatic tests: 
   * PHPunit https://phpunit.de/
   * Codeception https://codeception.com/
