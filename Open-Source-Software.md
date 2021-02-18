@@ -6,18 +6,25 @@ Curated list of good software resources, which are open source or free (like in 
 
 ### 2d graphics
 #### Raster
- * http://www.getpaint.net/ (Windows only)
+ * http://www.getpaint.net/ (Freeware only, Windows only)
+ * https://github.com/photopea/photopea for raster and vector graphics
  * Andreamosaic http://www.andreaplanet.com/andreamosaic/ , render big pictures from thousands of small ones
  * http://hugin.sourceforge.net/ Panorama photo stitcher
  * http://www.marzipano.net/ 360° viewer
  * https://www.miltonpaint.com/ infinite canvas infinite zoom paint
  * https://photoflare.io/ simplictic cross plattform photo editor
+ * http://mypaint.org/downloads/ Open source paint with strokes and brushes
  * Jalbum html gallery software http://jalbum.net/
 #### Vector
  * http://www.inkscape.org, 
  * yEd freeware visio like with auto-layout (freeware only) in java http://www.yworks.com/de/products_yed_about.html 
  * draw.io is like visio in javascript https://github.com/jgraph/drawio
  * Font design: http://fontforge.sourceforge.net/
+ * 2d animation https://maurycyliebner.github.io/
+
+#### Movie
+ * Vector animation / movie https://opentoonz.github.io/
+ * https://natrongithub.github.io/ Composting, VFX, Motion Graphics
  
 
 ### 3d graphics
@@ -123,7 +130,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Wireframing HTML https://meetalva.io/
    * IDEs, text editors, log browser
      * Conventional
-       * Visual Studio Code https://code.visualstudio.com/download 
+       * Visual Studio Code https://code.visualstudio.com/download and it's open source distribution https://vscodium.com/
        * IntelliJ IDEA CE: the community link on https://www.jetbrains.com/de-de/idea/download/
        * Eclipse https://eclipse.org/, Eclipse/PDT https://eclipse.org/pdt/ and PDT Extensions http://p2.pdt-extensions.org/
        * Windows filter huge files/editor https://github.com/RolandPheasant/TailBlazer/
