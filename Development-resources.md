@@ -142,6 +142,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
    * https://github.com/xing/wysihtml5
    * http://vistaprint.github.io/ArteJS/
    * https://prosemirror.net/ (includes collaborative editing)+it's vue js port https://tiptap.dev/ 
+   * https://github.com/yabwe/medium-editor
    
 * Online Word Processors
    * https://www.onlyoffice.com/de/
