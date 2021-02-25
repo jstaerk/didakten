@@ -38,8 +38,6 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
  * Compare libraries https://php.libhunt.com/
  * File browser / Ajax explorer / https://pydio.com/ http://sourceforge.net/projects/ajaxplorer/
 
-
-
 ### C++ libraries
 * https://www.boost.org/
 * https://developers.google.com/protocol-buffers/
@@ -106,6 +104,8 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * http://www.cannonjs.org/ Javascript Physics engine
 * https://threejs.org/ Javascript WebGL engine
 * https://particles.matteobruni.it/ Particle libraries
+* https://github.com/jsplumb/jsplumb Draggable connectors
+* https://github.com/google/blockly/ visual programming language builder, drag&drop&connect statements
 * https://www.shadertoy.com/ webgl shaders, library and creating tool
 * https://aframe.io/ ThreeJS scene graph for AR and VR
 * https://paveldogreat.github.io/WebGL-Fluid-Simulation/ WebGL fluid simulation
