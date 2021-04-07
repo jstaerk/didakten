@@ -105,6 +105,8 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * https://threejs.org/ Javascript WebGL engine
 * https://particles.matteobruni.it/ Particle libraries
 * https://github.com/jsplumb/jsplumb Draggable connectors
+* https://521dimensions.com/open-source/amplitudejs Open source audio player interface
+* http://phaser.io/ HTML5 2d game framework, with canvas sprites etc
 * https://github.com/google/blockly/ visual programming language builder, drag&drop&connect statements
 * https://www.shadertoy.com/ webgl shaders, library and creating tool
 * https://aframe.io/ ThreeJS scene graph for AR and VR
