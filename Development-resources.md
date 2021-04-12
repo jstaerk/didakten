@@ -230,6 +230,10 @@ Backend as a service, persistence, push
 * http://hood.ie/ "Javascript offline first"
 * https://github.com/rethinkdb/horizon sophisticated realtime javascript apps
 
+# Test servers
+* "we call it a klassiker" https://www.apachefriends.org/de/index.html (Apache+PHP+MySQL)
+* For ethereum https://www.trufflesuite.com/ganache
+
 # Learning
 ## Free learning materials
 * http://www.code.org
