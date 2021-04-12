@@ -27,6 +27,9 @@
    * http://www.andersnoren.se/teman/
    * https://themeisle.com/wordpress-themes/free/ (auch Woocommerce)
 
+## Design systems
+* Material Design https://material.io/design e.g. for vue https://vuetifyjs.com/en/
+* Ant design  https://ant.design/ e.g. for react (antd)
 
 ### Software
 Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#Development 
