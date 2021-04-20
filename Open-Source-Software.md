@@ -86,6 +86,7 @@ Curated list of good software resources, which are open source or free (like in 
   * Filezilla
   * WinSCP
   * Open source airdrop https://github.com/cowbell/sharedrop / https://onedoes.github.io/snapdrop/
+  * Decentral File Transfer https://github.com/schollz/croc
 
 ### Games
  * Frozen Bubble http://www.frozen-bubble.org/
