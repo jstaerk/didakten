@@ -156,7 +156,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 ### JQuery Plugins
 * http://datatables.net for tables/pagination etc tablesorter from http://mottie.github.io/tablesorter/
 * multiple-select/tagging http://harvesthq.github.io/chosen/ or (better) http://ivaynberg.github.io/select2/, 
-* datepicker https://plugins.jquery.com/filthypillow/,  
+* datepicker/timepicker https://github.com/flatpickr/flatpickr and https://github.com/ankurk91/vue-flatpickr-component
 * calendar view https://fullcalendar.io/
 * color picker http://bgrins.github.io/spectrum/
 * Uploader:  Uploader: http://www.dropzonejs.com/ 
