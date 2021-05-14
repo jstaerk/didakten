@@ -357,6 +357,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://www.chatwoot.com/ server based support chat
  * https://github.com/meething/meething peer to peer WebRTC
  * https://github.com/root-gg/plik open source wetransfer alternative/large file upload link share
+ * https://onionshare.org/ secure p2p file share (embeds a tor server?)
  * Open-Source Translation https://astian.org/en/astian-translate-free-and-open-source-translations/
 
    
