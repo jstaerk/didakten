@@ -97,6 +97,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
   * https://pm2.io/
   * http://strong-pm.io/
 * private NPM registry https://github.com/rlidwka/sinopia https://github.com/verdaccio/verdaccio
+* https://rxjs.dev/ Make Javascript Reactive
 
 ### Javascript libraries
 * Cookie Consent https://www.cookieconsent.com/
@@ -108,6 +109,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * http://www.cannonjs.org/ Javascript Physics engine
 * https://threejs.org/ Javascript WebGL engine
 * https://particles.matteobruni.it/ Particle libraries
+* https://wavesurfer-js.org/ Visualize Audio Files, allow to start/stop
 * https://github.com/jsplumb/jsplumb Draggable connectors
 * https://521dimensions.com/open-source/amplitudejs Open source audio player interface
 * http://phaser.io/ HTML5 2d game framework, with canvas sprites etc
