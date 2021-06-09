@@ -446,6 +446,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 * https://jekyllrb.com/ jeckyll
 * https://www.11ty.dev/ eleventy
 * list https://staticsitegenerators.net/, 
+* Static Status Page generators https://github.com/cstate/cstate https://cachethq.io/
 
 ### Open source online shop systems (server based) 
 * http://www.oscommerce.de 
