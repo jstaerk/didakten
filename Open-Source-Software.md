@@ -99,7 +99,7 @@ Curated list of good software resources, which are open source or free (like in 
  * http://www.wcsaga.com/downloads/files/releases.html Wing Commander Saga The Darkest Dawn (Freeware)
  * https://www.minetest.net/ open source minecraft clone
  * http://opensimulator.org/ open source second life clone
- * https://github.com/thecodingmachine/workadventure/ work adevnture gamification
+ * https://github.com/thecodingmachine/workadventure/ work adventure gamification video calls with avatars
 
 
 ### Site maintenance
@@ -153,6 +153,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Oauth GUI client https://github.com/mitraman/OAuthTestClient
      * wso2 open source api manager https://github.com/wso2/product-apim/releases/, enterprise integration server (https://github.com/wso2/product-ei/releases) and eclipse-based integration studio (https://wso2.com/integration/integration-studio/)
      * istio open source service mesh https://istio.io/latest/docs/setup/getting-started/#download
+     * http://wiremock.org/ proxy which can reply to additional defined requests with mocked answers
    * Testing
      * PHPUnit/Selenium/PhantomJS
      * Codeception
