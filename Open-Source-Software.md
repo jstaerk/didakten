@@ -190,6 +190,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://parseplatform.org/ (hosting e.g. https://www.back4app.com/)
      
    * Game development
+     * Amazon Open 3D Engine for "AAA" games https://github.com/o3de/o3de
      * great 2- and 3d game engine https://godotengine.org/
      * GDevelop 2d game engine https://gdevelop-app.com/
      * C# game engine (godot c# or) http://xenko.com/
