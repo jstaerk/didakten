@@ -153,7 +153,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Oauth GUI client https://github.com/mitraman/OAuthTestClient
      * wso2 open source api manager https://github.com/wso2/product-apim/releases/, enterprise integration server (https://github.com/wso2/product-ei/releases) and eclipse-based integration studio (https://wso2.com/integration/integration-studio/)
      * istio open source service mesh https://istio.io/latest/docs/setup/getting-started/#download
-     * http://wiremock.org/ proxy which can reply to additional defined requests with mocked answers
+     * https://mockoon.com/ proxy which can reply to additional defined requests with mocked answers (Electron, with GUI) or 
+     * http://wiremock.org/ (Java, Web GUI)
    * Testing
      * PHPUnit/Selenium/PhantomJS
      * Codeception
