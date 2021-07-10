@@ -20,10 +20,12 @@ Curated list of good software resources, which are open source or free (like in 
  * yEd freeware visio like with auto-layout (freeware only) in java http://www.yworks.com/de/products_yed_about.html 
  * draw.io is like visio in javascript https://github.com/jgraph/drawio
  * Font design: http://fontforge.sourceforge.net/
- * 2d animation https://maurycyliebner.github.io/
+ * 2d animation
+   *  Enve https://maurycyliebner.github.io/
+   *  Synfig https://www.synfig.org/
+   *  Opentoonz https://opentoonz.github.io/
 
 #### Movie
- * Vector animation / movie https://opentoonz.github.io/, Enve  https://maurycyliebner.github.io/ or https://www.synfig.org/
  * https://natrongithub.github.io/ Composting, VFX, Motion Graphics
  
 
