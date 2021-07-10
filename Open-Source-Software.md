@@ -23,7 +23,7 @@ Curated list of good software resources, which are open source or free (like in 
  * 2d animation https://maurycyliebner.github.io/
 
 #### Movie
- * Vector animation / movie https://opentoonz.github.io/
+ * Vector animation / movie https://opentoonz.github.io/, Enve  https://maurycyliebner.github.io/ or https://www.synfig.org/
  * https://natrongithub.github.io/ Composting, VFX, Motion Graphics
  
 
