@@ -356,7 +356,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://www.wetransform.to/products/halestudio/ map transformation and validation
  
 ### Communication (server based)
- * Jitsi meet https://github.com/jitsi/docker-jitsi-meet Open source webrtc based conferencing
+ * Jitsi meet https://github.com/jitsi/docker-jitsi-meet Open source webrtc based conferencing also with broadcast server https://github.com/jitsi/jibri
  * Remote control android https://github.com/Genymobile/scrcpy
  * https://www.sharedrop.io/ realtime file exchange
  * https://www.chatwoot.com/ server based support chat
