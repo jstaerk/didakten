@@ -266,6 +266,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Buttercup https://buttercup.pw/ password management and -generator. 
    * fwbuilder: Firewall-configuration utility http://www.fwbuilder.org/
    * https://zmap.io/ large scale study tool for e.g. portscans/portmapping
+   * mimikatz Windows plaintext password/ticket extraction https://github.com/gentilkiwi/mimikatz
 
 ### Communication
    * https://www.thunderbird.net/ Email client
