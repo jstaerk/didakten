@@ -24,6 +24,7 @@ Curated list of good software resources, which are open source or free (like in 
    *  Enve https://maurycyliebner.github.io/
    *  Synfig https://www.synfig.org/
    *  Opentoonz https://opentoonz.github.io/
+   *  Glaxnimate https://glaxnimate.mattbas.org/
 
 #### Movie
  * https://natrongithub.github.io/ Composting, VFX, Motion Graphics
