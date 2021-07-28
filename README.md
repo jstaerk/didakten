@@ -30,10 +30,50 @@ Caution: Some sites may provide mixed content, watch the license
  * https://www.toptal.com/designers/subtlepatterns/ (nur Hintergründe)
  * https://www.freepik.com/
  * https://www.freepngimg.com/
+ * https://picspree.com/
+ * https://kaboompics.com/
+ * https://picjumbo.com/
+ * https://www.stockvault.net/
+ * https://wunderstock.com/
+ * https://www.foodiesfeed.com/
+ * https://placeholder.com/
+ * https://pxhere.com/
+ * https://picography.co/
+ * https://www.piqsels.com/
+ * https://generated.photos/
+ * https://picsum.photos/
+ * https://realisticshots.com/
+ * https://www.reshot.com/
+ * https://skitterphoto.com/
+ * https://nos.twnsnd.co/
+ * https://picography.co/
+ * https://burst.shopify.com/
+ * https://morguefile.com/
+ * https://www.chamberofcommerce.org/findaphoto/
+ * https://search.creativecommons.org/
+ * https://www.scienceimage.csiro.au/
+ * http://www.freenatureimages.eu/
+ * https://allthefreestock.com/
+ * https://www.splitshire.com/
 
 ## Videos
  * https://videos.pexels.com/
  * https://www.videvo.net/stock-video-footage/
+ * https://pixabay.com/videos/
+ * https://coverr.co/
+ * https://www.videezy.com/
+ * https://mixkit.co/
+ * https://www.lifeofvids.com/
+ * https://www.freepik.com/
+ * http://www.clker.com/
+ * https://www.freevectors.net/
+ * https://www.vector4free.com/
+ * https://clipartkind.com/
+ * https://delesign.com/free-designs/graphics
+ * https://www.hiclipart.com/
+ * https://storyset.com/
+ * https://www.vecteezy.com/
+ * https://pngtree.com/free-vectors
 
 ## Development resources
 see [development resources](Development-resources.md)
@@ -56,6 +96,19 @@ see [development resources](Development-resources.md)
  * http://www.smashingmagazine.com/2011/08/02/new-high-quality-free-fonts/
  * http://www.smashingmagazine.com/2010/08/12/30-new-free-high-quality-fonts-typography/
  * https://www.theleagueofmoveabletype.com/
+ * https://www.fontfabric.com/free-fonts/
+ * https://www.fontget.com/
+ * https://www.fontspace.com/
+ * https://www.abstractfonts.com/
+ * https://freetypography.com/
+ * https://developer.apple.com/fonts/
+ * https://fontsarena.com/
+ * https://befonts.com/
+ * https://open-foundry.com/
+ * https://google-webfonts-helper.herokuapp.com/fonts
+ * https://www.ffonts.net/
+ * https://www.dafont.com/de/
+ * https://usemodify.com/
 
 ### Single fonts e.g.
  * Linux Libertine http://www.linuxlibertine.org/
@@ -85,6 +138,49 @@ see [development resources](Development-resources.md)
  * https://github.com/refactoringui/heroicons
  * https://css.gg/
  * https://labs.mapbox.com/maki-icons/ (for maps)
+ * https://uxwing.com/
+ * https://shapedfonts.com/iconclub/
+ * https://tablericons.com/
+ * https://www.xicons.org/#/
+ * https://iconoir.com/
+ * https://simpleicons.org/
+ * https://linearicons.com/free
+ * https://icons8.com/
+ * https://www.flaticon.com/
+ * https://iconscout.com/
+ * https://iconsear.ch/search.html
+ * https://nucleoapp.com/
+ * https://icon-icons.com/
+ * https://icons.getbootstrap.com/
+ * https://remixicon.com/
+ * https://iconmonstr.com/
+ * https://webkul.github.io/vivid/
+ * https://www.iconfinder.com/
+ * https://www.iconbros.com/
+ * https://heroicons.dev/
+ * https://lucide.dev/
+ * https://icones.js.org/
+ * https://shittyicons.com/#/
+ * https://www.iconspedia.com/
+ * https://iconhub.io/
+ * https://www.zondicons.com/icons.html
+ * https://endlessicons.com/
+ * https://appicon.co/
+ * https://lineicons.com/
+ * https://www.svgrepo.com/
+ * https://convertio.co/png-svg/
+ * https://cssicon.space/#/
+ * https://iconify.design/
+ * https://systemuicons.com/
+ * https://icons.modulz.app/
+ * https://eos-icons.com/
+ * https://ionic.io/ionicons
+ * https://phosphoricons.com/
+ * https://teenyicons.com/
+ * https://icomoon.io/app/#/select
+ * https://akveo.github.io/eva-icons/#/
+ * http://cryptoicons.co/
+ * https://ikonate.com/
 
 ## Music, Sound
  * http://www.freemusicarchive.org
@@ -93,6 +189,10 @@ see [development resources](Development-resources.md)
  * http://www.jamendo.com
  * https://incompetech.com/music/royalty-free/music.html
  * https://icons8.com/music
+ * https://www.unminus.com/
+ * https://musopen.org/music/
+ * https://mixkit.co/free-stock-music/
+ * https://www.bensound.com/
 
 ## 3D, VR, AR
  * http://www.thingiverse.com
@@ -111,6 +211,11 @@ see [development resources](Development-resources.md)
  * https://github.com/Ibuprogames/gamedev-resources
  * https://github.com/LisaDziuba/Awesome-Design-Tools
  * https://github.com/serhii-londar/open-source-mac-os-apps Open Source Applications for Mac OS
+ * https://github.com/MohamedYoussouf/Design-Resources
+ * https://skillcrush.com/blog/99-web-design-resources-free/
+ * https://mguery.github.io/web-dev/
+ * https://www.codewall.co.uk/free-web-development-tools-resources/
+ * https://www.websitehostingrating.com/top-100-web-development-resources/
  
 ## See also
   * [Open source software](Open-Source-Software.md)
