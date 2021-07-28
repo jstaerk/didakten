@@ -26,6 +26,7 @@
    * https://colorlib.com/
    * http://www.andersnoren.se/teman/
    * https://themeisle.com/wordpress-themes/free/ (auch Woocommerce)
+ * TailwindCSS: https://tailwindcss.com/
 
 ## Design systems
 * Material Design https://material.io/design e.g. for vue https://vuetifyjs.com/en/
@@ -92,6 +93,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
   * responsive framework http://foundation.zurb.com/
   * frontend framework: http://twitter.github.io/bootstrap/
   * Social media framework elgg https://elgg.org/
+  * Laravel: https://laravel.com/
 ### Node Libraries
 * Process managers
   * https://github.com/foreverjs/forever
@@ -135,6 +137,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
    * d3js based https://plot.ly/ 
    * scientific data plots/charts: http://jupyter.org/, 
    * echarts https://ecomfe.github.io/echarts-doc/public/
+   * ChartJS: https://www.chartjs.org/
 * Unlimited zoom: https://openseadragon.github.io/
 * Sketchpad/image editor https://github.com/ivictbor/painterro 
 * Javascript Password Strength https://blogs.dropbox.com/tech/2012/04/zxcvbn-realistic-password-strength-estimation/
@@ -265,9 +268,11 @@ Backend as a service, persistence, push
  * https://www.siteinspire.com/
  * https://www.awwwards.com/
  * https://uimovement.com/
+ * https://www.ux-design-awards.com/
+ 
 ## Youtube tutorials
  * Shaders in unity (5h) https://www.youtube.com/watch?v=9WW5-0N1DsI
- * Uneal engine 4 tutorial (4.5h) https://www.youtube.com/watch?v=a0qNO6_xPx0
+ * Unreal Engine 4 tutorial (4.5h) https://www.youtube.com/watch?v=a0qNO6_xPx0
  
 ## Miscellaneous links 
 * http://motionographer.com/2015/07/06/user-interface-design-why-motion-matters/
