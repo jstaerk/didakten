@@ -15,11 +15,16 @@ Curated list of good software resources, which are open source or free (like in 
  * https://photoflare.io/ simplictic cross plattform photo editor
  * http://mypaint.org/downloads/ Open source paint with strokes and brushes
  * Jalbum html gallery software http://jalbum.net/
+ * https://www.gimp.org/
+ * https://www.darktable.org/
+ * https://www.befunky.com/features/graphic-designer/
+ * https://rawtherapee.com/
 #### Vector
  * http://www.inkscape.org, 
  * yEd freeware visio like with auto-layout (freeware only) in java http://www.yworks.com/de/products_yed_about.html 
  * draw.io is like visio in javascript https://github.com/jgraph/drawio
  * Font design: http://fontforge.sourceforge.net/
+ * https://krita.org/en/download/krita-desktop/
  * 2d animation
    *  Enve https://maurycyliebner.github.io/
    *  Synfig https://www.synfig.org/
@@ -34,6 +39,7 @@ Curated list of good software resources, which are open source or free (like in 
    * www.blender.org (also game engine)
    * http://www.makehumancommunity.org/ Open Source Poser clone cutomizing 3d models of humans
    * http://www.sweethome3d.com/ 3d real estate designer with furniture
+   * https://www.blender.org/download/
    * Assimp (3d model converter)
    * Photogrammetry (create 3d model from multiple 2d pictures) 
      * https://alicevision.org/#meshroom (NVIDIA graphic card=CUDA required), sample dataset e.g. https://github.com/alicevision/dataset_monstree (freeware alternative https://www.3dflow.net/3df-zephyr-free/)
@@ -65,6 +71,7 @@ Curated list of good software resources, which are open source or free (like in 
  * PDF helper tool (cut/merge PDFs pagewise): http://www.pdfsam.org
  * PDF booklet/magazine creator http://pdfbooklet.sourceforge.net/
  * PDF diff https://soft.rubypdf.com/software/diffpdf
+ * https://pdfcompressor.com/
  * taxbird, http://www.taxbird.de/, only USt and LSt.
  * Add OCR layer to scanned PDFs (tesseract based) https://github.com/jbarlow83/OCRmyPDF
  * https://www.limbas.com/ web based DB access tool
@@ -125,6 +132,27 @@ Curated list of good software resources, which are open source or free (like in 
    * Live http headers: analyze e.g. redirects
    * Easy Xdebug: Xdebug-plugin
    * firesheep: Session hijacking FireFox plugin
+   * Font Ninja: https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh
+   * Web Editor: https://chrome.google.com/webstore/detail/web-editor/pdmlhckofhkhebmcplblcijijgjiakcm
+   * Fake Filler: https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo
+   * ColorPick Eyedroper: https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg
+   * GoFullPage: https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl
+   * Image Eye -- ImageDownloader: https://chrome.google.com/webstore/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm
+   * Lorem Ipsum Generator: https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en%20
+   * ColorZilla: https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
+   * Site Palette: https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh
+   * Pixel Perfect: https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi
+   * Kontrast - WCAG Contrast Checker: https://chrome.google.com/webstore/detail/kontrast-wcag-contrast-ch/haphaaenepedkjngghandlmhfillnhjk?hl=en
+   * VisBug: https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en
+   * BrowserStack: https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb?hl=en
+   * ResponsiveViewer: https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en
+   * Window Resizer: https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en
+   * JSON lite: https://github.com/lauriro/json-lite
+   * JSON View: https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en
+   * AwesomeScreenShot: https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en
+   * WebDeveloper: https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en
+   * WhatRuns: https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en
+   * WhatFont?: https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
 
 
 ### Development
@@ -133,6 +161,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Wireframing/Prototyping https://pencil.evolus.vn/ 
      * Wireframing HTML https://meetalva.io/
      * Wireframing collaborative webbased https://github.com/penpot/penpot
+     * https://icons8.com/lunacy
+     * https://www.designer.io/en/
    * IDEs, text editors, log browser
      * Conventional
        * Visual Studio Code https://code.visualstudio.com/download and it's open source distribution https://vscodium.com/
@@ -172,6 +202,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Sequel Pro Opensource Heidi Alternative for Mac https://www.sequelpro.com/
      * DBeaver open source java based heidisql-alternative https://dbeaver.io/
      * java tool db refactoring/db versioning http://www.liquibase.org/ (windows)
+     * pgAdmin: https://www.pgadmin.org/
+     * PostgreSQL: https://www.postgresql.org/
    * Documentation, Visualization and UML
      * Offline documentation: https://kapeli.com/dash für Mac und https://zealdocs.org für Win/Lin
      * ArgoUML, UML modelling http://argouml.tigris.org/ altenativ http://www.umlet.com
@@ -181,6 +213,9 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Sequence Diagrams https://bramp.github.io/js-sequence-diagrams/
      * Backus-Naur Normalization/Grammar https://bottlecaps.de/rr/ui
      * Translation https://github.com/matecat/MateCat
+     * jsDoc: https://jsdoc.app/
+     * TypeDoc: https://typedoc.org/
+     * TSDoc: https://tsdoc.org/ 
    * Source code analysis
      * https://www.exakat.io/en/
      * https://psalm.dev/
@@ -190,6 +225,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Mobile App Development
      * PhoneGap / Cordova / Ionic https://ionicframework.com/
      * Titanium http://www.appcelerator.com/titanium/
+     * NativeScript: https://nativescript.org/
    * App Backends
      * https://parseplatform.org/ (hosting e.g. https://www.back4app.com/)
      
@@ -238,6 +274,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Monaserver RTMP server http://www.monaserver.ovh/
    * Youtube downloader https://ytdl-org.github.io/youtube-dl/index.html
    * German public television download https://mediathekview.de
+   * Shotcut: https://shotcut.org/
 
 ### Sound
    * https://www.audacityteam.org/ Open Source Sound Editor
