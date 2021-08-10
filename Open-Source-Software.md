@@ -477,7 +477,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
   * http://sozi.baierouge.fr/ free prezi clone
 * Mailcow mail server bundle
 * Iredmail mail server bundle 
-* Time Tracker https://github.com/CoralTime/CoralTime , https://github.com/overshard/timestrap
+* Time Tracker https://github.com/CoralTime/CoralTime , https://github.com/overshard/timestrap https://github.com/kromitgmbh/titra/
 
 ### File-based/Static CMS (server based)
 
