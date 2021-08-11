@@ -282,6 +282,9 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Music composition https://helio.fm/
    * Near-Realtime audio driver for Windows http://www.asio4all.org/
    * https://github.com/deezer/spleeter open source channel separation
+   * Text-to-speech T2S and Speech to text 
+      * https://github.com/coqui-ai/TTS
+      * https://github.com/mozilla/DeepSpeech
    * programming languages for music
       * http://overtone.github.io/ 
       * https://supercollider.github.io/ 
