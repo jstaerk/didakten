@@ -279,6 +279,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 ### Sound
    * https://www.audacityteam.org/ Open Source Sound Editor
    * Voicemeeter/banana (Donationware only): Good mixer for Windows https://www.vb-audio.com/Voicemeeter/banana.htm
+   * https://mixxx.org/ open source DJ software (see e.g. https://media.ccc.de/v/sonoj2017-1702-integrating-hardware-controllers-with-audio-software)
    * Music composition https://helio.fm/
    * Near-Realtime audio driver for Windows http://www.asio4all.org/
    * https://github.com/deezer/spleeter open source channel separation
