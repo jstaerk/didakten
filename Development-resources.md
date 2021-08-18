@@ -119,6 +119,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * http://phaser.io/ HTML5 2d game framework, with canvas sprites etc
 * https://github.com/google/blockly/ visual programming language builder, drag&drop&connect statements
 * https://www.shadertoy.com/ webgl shaders, library and creating tool
+* https://github.com/vercel/pkg Node.js Bundler, creates native applications like .EXEs for Windows
 * https://aframe.io/ ThreeJS scene graph for AR and VR
 * https://paveldogreat.github.io/WebGL-Fluid-Simulation/ WebGL fluid simulation
 * Maps
