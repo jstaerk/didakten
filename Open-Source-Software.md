@@ -189,6 +189,9 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * istio open source service mesh https://istio.io/latest/docs/setup/getting-started/#download
      * https://mockoon.com/ proxy which can reply to additional defined requests with mocked answers (Electron, with GUI) or 
      * http://wiremock.org/ (Java, Web GUI)
+     * https://github.com/devo-ps/carte API documentation
+     * https://github.com/tripit/slate API documentation
+     * see also Security for API security tools
    * Testing
      * PHPUnit/Selenium/PhantomJS
      * Codeception
@@ -302,6 +305,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * John the ripper: a brute-force password cracker with a good dictionary http://www.openwall.com/john/
    * Hashcat WPA cracker http://hashcat.net/hashcat/
    * ZAProxy: Webscarab replacement A proxy which can intercept e.g. HTTP posts and inject malicious code, use for penetration tests https://github.com/zaproxy/zaproxy/wiki/Downloads
+   * REST API Fuzzing https://github.com/microsoft/restler-fuzzer
    * password recovery (windows only) http://www.oxid.it/cain.html
    * password wordlist https://dazzlepod.com/site_media/txt/passwords.txt
    * veracrypt formerly Truecrypt for encrypting files and volumes
@@ -462,8 +466,6 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * webodf
    * readthedocs.org
    * https://github.com/cloudfoundry-incubator/bookbinder running middleman (kirby ähnlich?)
-   * https://github.com/devo-ps/carte API documentation
-   * https://github.com/tripit/slate API documentation
    * http://sphinx-doc.org/ documentation
    * https://antora.org/ Multi Repo ASCIIdoc documentation site generator
    * https://github.com/GitbookIO/gitbook Git based books
