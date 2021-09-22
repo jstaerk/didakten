@@ -315,6 +315,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * fwbuilder: Firewall-configuration utility http://www.fwbuilder.org/
    * https://zmap.io/ large scale study tool for e.g. portscans/portmapping
    * mimikatz Windows plaintext password/ticket extraction https://github.com/gentilkiwi/mimikatz
+   * Crypttool https://www.cryptool.org/en/ct2/ visualization of some algorithms
 
 ### Communication
    * https://www.thunderbird.net/ Email client
