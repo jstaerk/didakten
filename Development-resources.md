@@ -233,6 +233,12 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * https://smashing.github.io/
 * https://grafana.com/grafana/download
 
+# Video conferences
+
+* https://meet.jit.si/ embeddable video conferences
+* https://openvidu.io/ customizable video conferences
+
+
 # Backend platforms
 Backend as a service, persistence, push
 * https://parseplatform.org/ multi language push notifications, open source version of https://firebase.google.com/ . https://bubu1.eu/openpush/ is push messages without Google Services
