@@ -110,6 +110,7 @@ Curated list of good software resources, which are open source or free (like in 
  * https://www.minetest.net/ open source minecraft clone
  * http://opensimulator.org/ open source second life clone
  * https://github.com/thecodingmachine/workadventure/ work adventure gamification video calls with avatars
+ * https://trilarion.github.io/opensourcegames/games/index.html A independent list with hundrets of games
 
 
 ### Site maintenance
