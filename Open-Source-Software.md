@@ -220,7 +220,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Translation https://github.com/matecat/MateCat
      * jsDoc: https://jsdoc.app/
      * TypeDoc: https://typedoc.org/
-     * TSDoc: https://tsdoc.org/ 
+     * TSDoc: https://tsdoc.org/
+     * Snippet box: (self) hosted solution to organize code snippets https://github.com/pawelmalak/snippet-box 
    * Source code analysis
      * https://www.exakat.io/en/
      * https://psalm.dev/
