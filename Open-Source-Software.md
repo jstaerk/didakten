@@ -233,7 +233,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Titanium http://www.appcelerator.com/titanium/
      * NativeScript: https://nativescript.org/
    * App Backends
-     * https://parseplatform.org/ (hosting e.g. https://www.back4app.com/)
+     * https://parseplatform.org/ (hosting e.g. https://www.back4app.com/, firebase alternative)
+     * https://gotify.net/ Push server
      
    * Game development
      * Amazon Open 3D Engine for "AAA" games https://github.com/o3de/o3de
