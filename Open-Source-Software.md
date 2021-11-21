@@ -352,6 +352,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * http://rundeck.org/ job scheduler with user mnt
    * https://etcher.io/ ISO writer
    * https://rufus.akeo.ie/ make usb sticks bootable (for windows)
+   * https://www.ventoy.net/en/index.html bootable usb sticks with start menu
    * web console with ssh key management https://github.com/skavanagh/KeyBox
    * sync setting files https://github.com/lra/mackup
    * pandorafms.org 
@@ -549,6 +550,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://github.com/pavlobu/deskreen turn any screen to second screen with hdmi dummy plugs
  * https://screego.net/ open source screen sharing/video conference tool
  * Safe exam browser https://safeexambrowser.org/ Kiosk
+ * https://twinery.org/ Authoring tool for interactive nonlinear storytelling
  * https://www.mindsdb.com/ AI predictive database
  * https://gitlab.com/hagrid-keyserver/hagrid GPG keyserver
  * https://pretix.eu/ open source ticketing. The real event tickets, not bug tickets.
