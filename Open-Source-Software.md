@@ -25,6 +25,9 @@ Curated list of good software resources, which are open source or free (like in 
  * draw.io is like visio in javascript https://github.com/jgraph/drawio
  * Font design: http://fontforge.sourceforge.net/
  * https://krita.org/en/download/krita-desktop/
+ * Vectorizer 
+   * http://potrace.sourceforge.net/
+   * into triangles https://github.com/RH12503/triangula
  * 2d animation
    *  Enve https://maurycyliebner.github.io/
    *  Synfig https://www.synfig.org/
