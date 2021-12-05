@@ -84,6 +84,7 @@ see [development resources](Development-resources.md)
  * https://undraw.co/ Free SVG clipart in a single style color-customizable
  * https://github.com/benhodgson/markedup-svg-worldmap SVG World Map
  * 2d animated vector files (converted SVGs) https://www.lottiefiles.com/
+ * https://www.soest.hawaii.edu/pwessel/gshhg/ coastlines: A Global Self-consistent, Hierarchical, High-resolution Geography Database 
  
 ## Fonts
  * https://www.fontsquirrel.com/
@@ -203,6 +204,9 @@ see [development resources](Development-resources.md)
  * http://www.doschdesign.com/
  * http://opengameart.org/
  * http://grabcad.com/
+
+## Open data
+ * https://www.cia.gov/the-world-factbook/ Public domain info about countries
 
 ## Other people's lists
  * https://www.kenney.nl/assets Free game assets
