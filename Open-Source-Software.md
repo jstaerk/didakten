@@ -235,10 +235,17 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * PhoneGap / Cordova / Ionic https://ionicframework.com/
      * Titanium http://www.appcelerator.com/titanium/
      * NativeScript: https://nativescript.org/
-   * App Backends
-     * https://parseplatform.org/ (hosting e.g. https://www.back4app.com/, firebase alternative)
-     * https://gotify.net/ Push server
-     
+   * Backend platforms: Backend as a service, persistence, push
+     * https://parseplatform.org/ multi language push notifications, open source version of https://firebase.google.com/ . 
+     * https://bubu1.eu/openpush/ is Android push messages without Google Services
+     * http://hood.ie/ "Javascript offline first"
+     * https://gotify.net/ Another Push server
+     * https://github.com/rethinkdb/horizon sophisticated realtime javascript apps
+
+   * Test servers
+     * "we call it a klassiker" https://www.apachefriends.org/de/index.html (Apache+PHP+MySQL)
+     * For ethereum https://www.trufflesuite.com/ganache
+
    * Game development
      * Amazon Open 3D Engine for "AAA" games https://github.com/o3de/o3de
      * great 2- and 3d game engine https://godotengine.org/
