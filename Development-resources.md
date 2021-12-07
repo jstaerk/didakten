@@ -239,15 +239,6 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * https://openvidu.io/ customizable video conferences
 
 
-# Backend platforms
-Backend as a service, persistence, push
-* https://parseplatform.org/ multi language push notifications, open source version of https://firebase.google.com/ . https://bubu1.eu/openpush/ is push messages without Google Services
-* http://hood.ie/ "Javascript offline first"
-* https://github.com/rethinkdb/horizon sophisticated realtime javascript apps
-
-# Test servers
-* "we call it a klassiker" https://www.apachefriends.org/de/index.html (Apache+PHP+MySQL)
-* For ethereum https://www.trufflesuite.com/ganache
 
 # Learning
 ## Free learning materials
