@@ -83,6 +83,10 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * http://www.opauth.org/ Open Source Authentification for PHP
  * Read and write Excel in PHP (vormals PHPExcel) https://github.com/PHPOffice/PhpSpreadsheet, s.a. http://christianhartwig81.wordpress.com/2011/05/08/erste-schritte-mit-phpexcel/
 
+* Concurrency, Servers
+  * https://amphp.org/
+  * https://reactphp.org/
+
 * https://robo.li/ PHP task runner
 * https://www.appserver.io/ App server
  * PHP-Frameworks 
