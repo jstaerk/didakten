@@ -20,7 +20,7 @@ Curated list of good software resources, which are open source or free (like in 
  * https://www.befunky.com/features/graphic-designer/
  * https://rawtherapee.com/
 #### Vector
- * http://www.inkscape.org, 
+ * http://www.inkscape.org, **the** open source SVG drawing software 
  * yEd freeware visio like with auto-layout (freeware only) in java http://www.yworks.com/de/products_yed_about.html 
  * draw.io is like visio in javascript https://github.com/jgraph/drawio
  * Font design: http://fontforge.sourceforge.net/
