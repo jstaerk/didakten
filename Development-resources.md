@@ -242,6 +242,8 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * https://meet.jit.si/ embeddable video conferences
 * https://openvidu.io/ customizable video conferences
 
+# Docker
+* https://github.com/axa-group/Parsr Scan to data web view in Node
 
 
 # Learning
