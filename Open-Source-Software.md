@@ -275,6 +275,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * Open Broadcaster screencast streaming Software https://obsproject.com/ see also OBS streaming server https://github.com/GRVYDEV/Project-Lightspeed or https://git.waldn.net/git/knotteye/satyr
  * Open Source video streaming Server https://github.com/kaltura/server 
  * Audio/Video streaming language https://www.liquidsoap.info/
+ * Media Streaming server (related to Kodi) https://jellyfin.org/
  * Open source game streaming https://moonlight-stream.org/
 ### Multimedia
    * Video player: vlc, http://www.videolan.org
