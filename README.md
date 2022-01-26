@@ -220,6 +220,7 @@ see [development resources](Development-resources.md)
  * https://mguery.github.io/web-dev/
  * https://www.codewall.co.uk/free-web-development-tools-resources/
  * https://www.websitehostingrating.com/top-100-web-development-resources/
+ * https://github.com/Developer-Y/cs-video-courses Video courses for serveral computer science topics (technically not open source, but free)
  
 ## See also
   * [Open source software](Open-Source-Software.md)
