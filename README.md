@@ -5,6 +5,7 @@ Caution: Some sites may provide mixed content, watch the license
 ## 2d image sources
  * https://www.pexels.com/
  * https://photos.icons8.com/
+ * https://thenounproject.com/
  * https://unsplash.com/
  * Test: Lizenzfreie Bilddatenbanken http://www.netzwelt.de/news/74676_2-im-vergleich-lizenzfreie-bilddatenbanken-im.html
    * http://photocase.de
@@ -78,14 +79,6 @@ Caution: Some sites may provide mixed content, watch the license
 ## Development resources
 see [development resources](Development-resources.md)
 
-## Vectors/Cliparts 
- * https://undraw.co/illustrations
- * http://www.openclipart.org Public domain SVG files, hundrets of thousands
- * https://undraw.co/ Free SVG clipart in a single style color-customizable
- * https://github.com/benhodgson/markedup-svg-worldmap SVG World Map
- * 2d animated vector files (converted SVGs) https://www.lottiefiles.com/
- * https://www.soest.hawaii.edu/pwessel/gshhg/ coastlines: A Global Self-consistent, Hierarchical, High-resolution Geography Database 
- 
 ## Fonts
  * https://www.fontsquirrel.com/
  * http://www.openfontlibrary.org
@@ -118,12 +111,22 @@ see [development resources](Development-resources.md)
  * Google Noto https://www.google.com/get/noto/
  * Daniel font (hand writing) https://www.dafont.com/daniel.font
 
+## Vectors/Cliparts 
+ * https://undraw.co/illustrations
+ * http://www.openclipart.org Public domain SVG files, hundrets of thousands
+ * https://undraw.co/ Free SVG clipart in a single style color-customizable
+ * https://github.com/benhodgson/markedup-svg-worldmap SVG World Map
+ * 2d animated vector files (converted SVGs) https://www.lottiefiles.com/
+ * https://www.soest.hawaii.edu/pwessel/gshhg/ coastlines: A Global Self-consistent, Hierarchical, High-resolution Geography Database 
+
 ## Icons
  * https://fortawesome.github.io/Font-Awesome/
  * https://material.io/icons/
  * https://materialdesignicons.com/
+ * https://thenounproject.com/
  * https://glyph.smarticons.co
  * https://ionicons.com/
+ * https://thenounproject.com/
  * http://ikons.piotrkwiatkowski.co.uk/
  * http://demo.amitjakhu.com/dripicons/
  * http://sw-guide.de/webdesign-und-entwicklung/icon-sammlungen/
