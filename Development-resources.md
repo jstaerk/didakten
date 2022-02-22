@@ -242,9 +242,11 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * https://meet.jit.si/ embeddable video conferences
 * https://openvidu.io/ customizable video conferences
 
-# Docker
+# Structural
 * https://github.com/axa-group/Parsr Scan to data web view in Node
 
+# Offline applications
+* https://github.com/vslavik/winsparkle Version updater DLL for c++, c#, windows native applications
 
 # Learning
 ## Free learning materials
