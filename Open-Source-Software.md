@@ -89,6 +89,7 @@ Curated list of good software resources, which are open source or free (like in 
    * https://github.com/tildaslash/RatticWeb  
    * https://www.themooltipass.com/ ?
    * https://teampass.net/
+   * https://github.com/jhaals/yopass service to share passwords encrypted
 
 
  
