@@ -396,6 +396,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * LAN Speed test lite http://totusoft.com/lanspeed1/
    * Kali linux (formerly backtrack) https://www.kali.org/
    * System status http://cockpit-project.org/
+   * linux shell queue https://github.com/Nukesor/pueue/
    * Smart reporter https://www.corecode.io/smartreporter_lite/index.html
    * "burn" boot disks http://sourceforge.net/projects/win32diskimager/
    * Data rescue (hard discs): dd_rescue
