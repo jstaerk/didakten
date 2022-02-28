@@ -242,6 +242,9 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * https://meet.jit.si/ embeddable video conferences
 * https://openvidu.io/ customizable video conferences
 
+# Low code/No code
+* https://github.com/appsmithorg/appsmith
+
 # Structural
 * https://github.com/axa-group/Parsr Scan to data web view in Node
 
