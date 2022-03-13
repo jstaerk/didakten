@@ -296,6 +296,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Youtube downloader https://ytdl-org.github.io/youtube-dl/index.html
    * German public television download https://mediathekview.de
    * Shotcut: https://shotcut.org/
+   * Voice Recognition https://github.com/mozilla/DeepSpeech
 
 ### Sound
    * https://www.audacityteam.org/ Open Source Sound Editor
