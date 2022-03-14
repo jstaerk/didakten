@@ -412,6 +412,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 ### BI and Big data (server based)
 
  * Open Source BI http://community.pentaho.com/ Kettle automated and conditional conversion
+ * Open-Source Text to Speech https://erogol.github.io/ddc-samples/
  * Mysql-spalten/memorybasierte database https://www.infobright.org/ 
  * MariaDB Columstore https://mariadb.com/de/node/819
  * in memory column based postgres https://www.citusdata.com/product/community
