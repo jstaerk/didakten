@@ -297,6 +297,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * German public television download https://mediathekview.de
    * Shotcut: https://shotcut.org/
    * Voice Recognition https://github.com/mozilla/DeepSpeech
+   * Creating mathematical animations from from formula https://3b1b.github.io/manim/
 
 ### Sound
    * https://www.audacityteam.org/ Open Source Sound Editor
