@@ -111,6 +111,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * Cookie Consent https://www.cookieconsent.com/
 * Javascript-Timeline http://timeline.knightlab.com/ https://github.com/NUKnightLab/TimelineJS3
 * http://papaparse.com/ Javascript CSV parser
+* https://videojs.com/ Javascript video player
 * JS-scrolling: greensocks, superscrollorama
 * https://owlcarousel2.github.io/OwlCarousel2/
 * Charting/Flowcharting https://jgraph.github.io/mxgraph/
