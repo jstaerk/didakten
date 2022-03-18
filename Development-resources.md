@@ -256,6 +256,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 ## Free learning materials
 * http://www.code.org
 * https://www.cryptool.org/de/ct2-downloads  visualization of cryptographical algorithms
+* https://simpl.info/ Simplest implementation examples
 ## Non-Profit-Organisations / Workshops
 * http://railsgirls.com/
 * https://www.teckids.org/
