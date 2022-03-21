@@ -573,6 +573,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://twinery.org/ Authoring tool for interactive nonlinear storytelling
  * https://www.mindsdb.com/ AI predictive database
  * https://gitlab.com/hagrid-keyserver/hagrid GPG keyserver
+ * https://github.com/johnkerl/miller CSV to JSON and vice versa, +sort and filter
  * https://pretix.eu/ open source ticketing. The real event tickets, not bug tickets.
  * https://pretalx.com/ open source conference scheduling. Alternative http://frab.github.io/frab/
  * https://workrave.org/ open source anti-RSI software scheduling regular breaks from screen work
