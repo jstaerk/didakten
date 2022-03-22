@@ -287,6 +287,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * (windows) primitive encoder: http://winff.org
    * Video converter, supports webm: http://www.mirovideoconverter.com/
    * Avidemux : simple video cut software http://avidemux.berlios.de/index.html
+   * lossless video cut software https://github.com/mifi/lossless-cut
    * cut software https://github.com/jliljebl/flowblade
    * http://www.opencastproject.org/matterhorn . 
    * Screen Recording freeware http://www.debugmode.com/wink/ 
