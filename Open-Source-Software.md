@@ -35,7 +35,7 @@ Curated list of good software resources, which are open source or free (like in 
    *  Glaxnimate https://glaxnimate.mattbas.org/
 
 #### Movie
- * https://natrongithub.github.io/ Composting, VFX, Motion Graphics
+ * https://natrongithub.github.io/ Compositing, VFX, Motion Graphics
  
 
 ### 3d graphics
