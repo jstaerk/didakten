@@ -544,6 +544,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 * http://virtuemart.net/ (Joomla Shop Modul)
 * http://www.typo3-macher.de/xtcommerce.html (Typo3 modul)
 * http://www.ubercart.org/ (Drupal modul)
+* https://www.revive-adserver.com/ (Open source ad server previously known als OpenX)
 
 ### E-learning (server based)
 * Docebo, http://www.docebo.org/
