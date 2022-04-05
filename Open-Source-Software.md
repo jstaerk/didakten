@@ -514,6 +514,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 * Iredmail mail server bundle
 * https://github.com/bastienwirtz/homer static dashboard generator 
 * Time Tracker https://github.com/CoralTime/CoralTime , https://github.com/overshard/timestrap https://github.com/kromitgmbh/titra/
+* https://github.com/alextselegidis/easyappointments Scheduler/booking calendar
 
 ### File-based/Static CMS (server based)
 
