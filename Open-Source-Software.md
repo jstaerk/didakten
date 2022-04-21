@@ -330,7 +330,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * password wordlist https://dazzlepod.com/site_media/txt/passwords.txt
    * veracrypt formerly Truecrypt for encrypting files and volumes
    * GPG/Enigmail for encrypted email communication: gpg4win.com, enigmail TB 64 bit outlook plugin https://github.com/dejavusecurity/OutlookPrivacyPlugin
-   * Keepass http://www.keepass.info/ password management and -generator. 
+   * Keepass http://www.keepass.info/ password management and -generator. https://keeweb.info/ is a OS native+online alternative using the same file format.
    * Buttercup https://buttercup.pw/ password management and -generator. 
    * fwbuilder: Firewall-configuration utility http://www.fwbuilder.org/
    * https://zmap.io/ large scale study tool for e.g. portscans/portmapping
