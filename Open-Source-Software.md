@@ -202,6 +202,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * PHPUnit/Selenium/PhantomJS
      * Codeception
      * Behat.org
+     * "we call it a klassiker" https://www.apachefriends.org/de/index.html (Apache+PHP+MySQL)
+     * Test suite for ethereum https://www.trufflesuite.com/ganache
    * SCM/Diff
      * https://git-scm.com/
      * kdiff3 ''great tool'' to spot differences between two files or two directories (includes merge functionality) http://kdiff3.sourceforge.net/
@@ -232,6 +234,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://psalm.dev/
      * https://github.com/peej/phpdoctor
      * PHP Mess detector static source code analysis https://phpmd.org/
+     * https://github.com/renovatebot/renovate universal dependency updates
    * App development 
    * Mobile App Development
      * PhoneGap / Cordova / Ionic https://ionicframework.com/
@@ -244,9 +247,6 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://gotify.net/ Another Push server
      * https://github.com/rethinkdb/horizon sophisticated realtime javascript apps
 
-   * Test servers
-     * "we call it a klassiker" https://www.apachefriends.org/de/index.html (Apache+PHP+MySQL)
-     * For ethereum https://www.trufflesuite.com/ganache
 
    * Game development
      * Amazon Open 3D Engine for "AAA" games https://github.com/o3de/o3de
