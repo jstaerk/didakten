@@ -77,6 +77,7 @@ Curated list of good software resources, which are open source or free (like in 
  * https://pdfcompressor.com/
  * taxbird, http://www.taxbird.de/, only USt and LSt.
  * Add OCR layer to scanned PDFs (tesseract based) https://github.com/jbarlow83/OCRmyPDF
+ * https://github.com/KnowledgeCanvas/ learn protocol which can also keep copies of sources
  * https://www.limbas.com/ web based DB access tool
  * onenote alternative, handwritten note application (linux only) https://github.com/flxzt/rnote
  * Password vaults (for teams)
@@ -180,6 +181,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
        * For web development Brackets source http://brackets.io/
        * CSVed, http://csved.sjfrancke.nl/ editor for comma separated values files
        * Collaborative Editor: http://gobby.0x539.de/trac/
+       * https://www.bluej.org/ beginners UI for Java, getting to know concepts of object orientation etc
      * online 
        * https://eclipse.org/che/ 
        * Visual Studio Code server https://github.com/codercom/code-server
