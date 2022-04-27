@@ -325,6 +325,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * SSL Checker https://www.ssllabs.com/ssltest/analyze.html
    * Android freeware app/desktop http://www.fjsoft.at/de/
    * John the ripper: a brute-force password cracker with a good dictionary http://www.openwall.com/john/
+   * BKCrack: Known Plaintext encrypted zip file cracker https://github.com/kimci86/bkcrack
    * Hashcat WPA cracker http://hashcat.net/hashcat/
    * ZAProxy: Webscarab replacement A proxy which can intercept e.g. HTTP posts and inject malicious code, use for penetration tests https://github.com/zaproxy/zaproxy/wiki/Downloads
    * REST API Fuzzing https://github.com/microsoft/restler-fuzzer
