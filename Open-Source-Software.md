@@ -248,6 +248,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * http://hood.ie/ "Javascript offline first"
      * https://gotify.net/ Another Push server
      * https://github.com/rethinkdb/horizon sophisticated realtime javascript apps
+     * https://appwrite.io/ Backend as a service for web android, flutter
 
 
    * Game development
