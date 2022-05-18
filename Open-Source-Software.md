@@ -442,7 +442,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://github.com/meething/meething peer to peer WebRTC
  * https://github.com/root-gg/plik open source wetransfer alternative/large file upload link share
  * https://onionshare.org/ secure p2p file share (embeds a tor server?)
- * Open-Source Translation https://astian.org/en/astian-translate-free-and-open-source-translations/
+ * Open-Source Translation https://libretranslate.com/
  * https://listmonk.app/ self-hosted newsletter and mailing list manager
  * Open-Source online Barcamps https://unhangout.media.mit.edu/
 
