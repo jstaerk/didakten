@@ -648,6 +648,9 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * crack captchas http://caca.zoy.org/wiki/PWNtcha 
  * generate "secure" captchashttp://www.phpcaptcha.org/download/
 
+## Other people's lists
+ * https://github.com/mikeroyal/Self-Hosting-Guide
+
 ## See also
  * [Resources](README.md) and
  * [Development resources](Development-resources.md)
