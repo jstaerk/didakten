@@ -182,9 +182,12 @@ There is also a [list of open source libraries](Development-resources.md#user-co
        * CSVed, http://csved.sjfrancke.nl/ editor for comma separated values files
        * Collaborative Editor: http://gobby.0x539.de/trac/
        * https://www.bluej.org/ beginners UI for Java, getting to know concepts of object orientation etc
-     * online 
+     * online IDEs
        * https://eclipse.org/che/ 
        * Visual Studio Code server https://github.com/codercom/code-server
+     * ther online tools
+       * https://jsonlint.com/ 
+       * http://www.jsondiff.com/
    * API
      * PAW (kommerziell): Mac REST API Client https://luckymarmot.com/paw
      * API test tool Postman https://www.getpostman.com Insomnia https://insomnia.rest/ core
