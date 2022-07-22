@@ -59,6 +59,7 @@ Caution: Some sites may provide mixed content, watch the license
 
 ## Videos
  * https://videos.pexels.com/
+ * https://coverr.co/
  * https://www.videvo.net/stock-video-footage/
  * https://pixabay.com/videos/
  * https://coverr.co/
