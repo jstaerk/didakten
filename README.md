@@ -124,6 +124,7 @@ see [development resources](Development-resources.md)
  * https://fortawesome.github.io/Font-Awesome/
  * https://material.io/icons/
  * https://materialdesignicons.com/
+ * https://circumicons.com/ 285 MPLed icons for react, vue and svelte
  * https://thenounproject.com/
  * https://glyph.smarticons.co
  * https://ionicons.com/
