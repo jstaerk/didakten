@@ -85,6 +85,7 @@ see [development resources](Development-resources.md)
  * http://www.openfontlibrary.org
  * http://openfontlibrary.fontly.org/
  * https://www.google.com/fonts
+ * https://fonts.bunny.net/
  * https://www.fontshop.com/people/fontshop-team/fontlists/free-fonts
  * https://edgewebfonts.adobe.com/fonts
  * http://typefacts.com/die-besten-freefonts
