@@ -123,7 +123,8 @@ Curated list of good software resources, which are open source or free (like in 
    * httrack http://www.httrack.com/ (download complete homepages)
    * Xenu's link sleuth http://home.snafu.de/tilman/xenulink.html (Linkchecker)
    * http://linkchecker.sourceforge.net/ command line link checker
-   * HTTP (and other) performance benchmarking http://jakarta.apache.org/jmeter/
+   * HTTP Benchmark https://k6.io/open-source
+   * HTTP (and other) performance benchmarking and load test http://jakarta.apache.org/jmeter/
    * Page stats: 
      * Apache Access logs: Jawstats http://www.jawstats.com 
      * Apache Access logs: https://goaccess.io/ 
