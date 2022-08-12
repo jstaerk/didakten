@@ -256,6 +256,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://gotify.net/ Another Push server
      * https://github.com/rethinkdb/horizon sophisticated realtime javascript apps
      * https://appwrite.io/ Backend as a service for web android, flutter
+     * https://pocketbase.io/ one file sqlite based backend incl. authentication with javascript sdk
 
 
    * Game development
