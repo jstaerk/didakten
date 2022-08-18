@@ -340,7 +340,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * REST API Fuzzing https://github.com/microsoft/restler-fuzzer
    * password recovery (windows only) http://www.oxid.it/cain.html
    * password wordlist https://dazzlepod.com/site_media/txt/passwords.txt
-   * veracrypt formerly Truecrypt for encrypting files and volumes
+   * [veracrypt](https://www.veracrypt.fr/) formerly Truecrypt for encrypting directories and volumes
+   * https://cryptomator.org/ to also encrypting directories
    * GPG/Enigmail for encrypted email communication: gpg4win.com, enigmail TB 64 bit outlook plugin https://github.com/dejavusecurity/OutlookPrivacyPlugin
    * Keepass http://www.keepass.info/ password management and -generator. https://keeweb.info/ is a OS native+online alternative using the same file format.
    * Buttercup https://buttercup.pw/ password management and -generator. 
@@ -372,7 +373,6 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Linux show system info on background https://github.com/brndnmtthws/conky
    * Linux watch file system changes IDS (intrusion detection) tripwire https://github.com/Tripwire/tripwire-open-source
    * Identify file type http://mark0.net/soft-tridnet-e.html
-   * Encrypt directories https://cryptomator.org/
    * Have multiple remote control RDP sessions simulaneously (unclear if covered by windows license) https://github.com/stascorp/rdpwrap
    * Find files by name Everything https://www.voidtools.com/ 
    * OSX install disc creator https://macdaddy.io/install-disk-creator/
