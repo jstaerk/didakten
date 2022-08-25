@@ -203,6 +203,9 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
    
 ### React
  * Drag and drop page editor https://craft.js.org/ / Gui Builder 
+### Vue
+ * https://www.npmjs.com/package/vue-sweetalert2 notifications
+
 ### Wordpress Plugins
 * Wordpress-Framework/Starter themes 
    * https://roots.io/ bedrock, 
