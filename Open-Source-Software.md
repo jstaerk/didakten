@@ -548,6 +548,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 * http://www.oscommerce.de 
 * magento http://www.inmedias.de/P/Magento/
 * http://www.shopware.de/
+* https://github.com/medusajs/medusa Medusa
 * Prestashop http://www.prestashop.com/de/
 * Mage+ magentor fork http://www.mageplus.org/
 * xt comemerce http://www.xt-commerce.com/
