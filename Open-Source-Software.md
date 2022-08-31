@@ -224,7 +224,9 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * DBeaver open source java based heidisql-alternative https://dbeaver.io/
      * java tool db refactoring/db versioning http://www.liquibase.org/ (windows)
      * pgAdmin: https://www.pgadmin.org/
-     * PostgreSQL: https://www.postgresql.org/
+     * PostgreSQL: https://www.postgresql.org/ 
+     * https://hasura.io/ graphql api for PostgreSQL 
+     * https://github.com/supabase/realtime live updating (!) websockets API for PostgreSQL
    * Documentation, Visualization and UML
      * Offline documentation: https://kapeli.com/dash für Mac und https://zealdocs.org für Win/Lin
      * ArgoUML, UML modelling http://argouml.tigris.org/ altenativ http://www.umlet.com
@@ -257,6 +259,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://gotify.net/ Another Push server
      * https://github.com/rethinkdb/horizon sophisticated realtime javascript apps
      * https://appwrite.io/ Backend as a service for web android, flutter
+     * https://github.com/nhost/nhost GraphQL based backend as a service
      * https://pocketbase.io/ one file sqlite based backend incl. authentication with javascript sdk
 
 
