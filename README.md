@@ -86,6 +86,7 @@ see [development resources](Development-resources.md)
  * http://openfontlibrary.fontly.org/
  * https://www.google.com/fonts
  * https://fonts.bunny.net/
+ * https://fontsarena.com/
  * https://www.fontshop.com/people/fontshop-team/fontlists/free-fonts
  * https://edgewebfonts.adobe.com/fonts
  * http://typefacts.com/die-besten-freefonts
@@ -115,6 +116,7 @@ see [development resources](Development-resources.md)
 
 ## Vectors/Cliparts 
  * https://undraw.co/illustrations
+ * https://icons8.com/illustrations
  * http://www.openclipart.org Public domain SVG files, hundrets of thousands
  * https://undraw.co/ Free SVG clipart in a single style color-customizable
  * https://github.com/benhodgson/markedup-svg-worldmap SVG World Map
