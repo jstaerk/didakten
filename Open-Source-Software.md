@@ -313,7 +313,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Youtube downloader https://ytdl-org.github.io/youtube-dl/index.html
    * German public television download https://mediathekview.de
    * Shotcut: https://shotcut.org/
-   * Voice Recognition https://github.com/mozilla/DeepSpeech
+   * Speech Recognition https://github.com/mozilla/DeepSpeech 
+   * Speech Recognition with translation https://github.com/openai/whisper
    * Creating mathematical animations from from formula https://3b1b.github.io/manim/
 
 ### Sound
