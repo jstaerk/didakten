@@ -191,8 +191,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
        * http://www.jsondiff.com/
    * API
      * PAW (kommerziell): Mac REST API Client https://luckymarmot.com/paw
-     * API test tool Postman https://www.getpostman.com Insomnia https://insomnia.rest/ core
-     * API Designer: Insomnia https://insomnia.rest/ designer, https://apigility.org/?
+     * API test tool Postman https://www.getpostman.com 
+     * API Design tools Insomnia https://insomnia.rest/ or https://github.com/stoplightio/studio
      * "API Design Ecosystem" https://hoppscotch.io/
      * SOAP UI, Tool zum Absetzen von SOAP-Anfragen http://sourceforge.net/projects/soapui/files/
      * Diffy (test different response on same http request) https://github.com/opendiffy/diffy/
