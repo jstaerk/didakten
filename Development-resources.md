@@ -35,11 +35,8 @@
 ### Software
 Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#Development 
 
-### Plugins, Libraries
- * 3d web library: https://threejs.org/, https://aframe.io/ (VR)
+### Server applications
  * Open-Source-Pastebin https://privatebin.info/
- * Java: Spring boot, jhipster, http://www.dropwizard.io/
- * Compare libraries https://php.libhunt.com/
  * File browser / Ajax explorer / https://pydio.com/ http://sourceforge.net/projects/ajaxplorer/
 
 ### C++ libraries
@@ -49,6 +46,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 ### Java libraries
 * https://github.com/sbraconnier/jodconverter/ use LibreOffice to convert files
 * Onlyoffice, Libreoffice online, Collabora Online: embed Office functionality in web based applications 
+* Java: Spring boot, jhipster, http://www.dropwizard.io/
 * https://www.optaplanner.org/ nonlinear constraint solver/optimizer
 * https://www.philippe-fournier-viger.com/spmf/ Open source data mining algorithms
 * https://github.com/akka/akka  Distributed resilient actors e.g. as crawler (agent model, mentioned in https://www.youtube.com/watch?v=W3JqG7DqctA)
@@ -116,6 +114,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * https://owlcarousel2.github.io/OwlCarousel2/
 * Charting/Flowcharting https://jgraph.github.io/mxgraph/
 * http://www.cannonjs.org/ Javascript Physics engine
+* 3d web library: https://threejs.org/, https://aframe.io/ (VR)
 * https://threejs.org/ Javascript WebGL engine
 * https://particles.matteobruni.it/ Particle libraries
 * https://wavesurfer-js.org/ Visualize Audio Files, allow to start/stop
@@ -252,6 +251,13 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 
 # Structural
 * https://github.com/axa-group/Parsr Scan to data web view in Node
+
+# Browser Plugins
+* Change how existing Pages look&behave https://github.com/greasemonkey/greasemonkey/
+* Venkman Javascript debugger with this tutorial: http://www.svendtofte.com/code/learning_venkman/
+* Live http headers: analyze e.g. redirects https://chrome.google.com/webstore/detail/live-http-headers/ianhploojoffmpcpilhgpacbeaifanid
+* Easy Xdebug: Xdebug-plugin https://addons.mozilla.org/de/firefox/addon/xdebug-helper-for-firefox/ 
+
 
 # Offline applications
 * https://github.com/vslavik/winsparkle Version updater DLL for c++, c#, windows native applications
