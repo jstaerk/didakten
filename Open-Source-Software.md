@@ -136,9 +136,6 @@ Curated list of good software resources, which are open source or free (like in 
    * Firebug https://addons.mozilla.org/en-US/firefox/addon/1843
    * Google Lighthouse https://developers.google.com/web/tools/lighthouse/
    * Web Developer https://addons.mozilla.org/en-US/firefox/addon/60
-   * Venkman Javascript debugger with this tutorial: http://www.svendtofte.com/code/learning_venkman/
-   * Live http headers: analyze e.g. redirects
-   * Easy Xdebug: Xdebug-plugin
    * firesheep: Session hijacking FireFox plugin
    * Font Ninja: https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh
    * Web Editor: https://chrome.google.com/webstore/detail/web-editor/pdmlhckofhkhebmcplblcijijgjiakcm
