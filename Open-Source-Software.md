@@ -70,6 +70,7 @@ Curated list of good software resources, which are open source or free (like in 
 #### PDF, PIM, Productivity
  * Project management: http://www.ganttproject.biz
  * DMS: http://www.steuertipps.de/lp/belegmanager 
+ * Note taking app https://github.com/laurent22/joplin/
  * Free PDF printer: http://www.pdfforge.org/pdfcreator
  * PDF helper tool (cut/merge PDFs pagewise): http://www.pdfsam.org
  * PDF booklet/magazine creator http://pdfbooklet.sourceforge.net/
