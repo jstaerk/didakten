@@ -65,7 +65,7 @@ Curated list of good software resources, which are open source or free (like in 
 
 ### PIM, Mindmaps, PDF and productivity
 #### Mindmaps
- * Mind maps: Open Source Freemind http://freemind.sourceforge.net/wiki/index.php/Main_Page or https://www.freeplane.org/ Freeware http://www.xmind.net/ . Online: http://www.mindmup.com
+ * Mind maps: Open Source Freeplane https://www.freeplane.org/ Freeware http://www.xmind.net/ . Online: http://www.mindmup.com
  * Gephi network analysis https://gephi.org/
 #### PDF, PIM, Productivity
  * Project management: http://www.ganttproject.biz
