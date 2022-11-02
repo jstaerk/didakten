@@ -344,7 +344,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * password recovery (windows only) http://www.oxid.it/cain.html
    * password wordlist https://dazzlepod.com/site_media/txt/passwords.txt
    * [veracrypt](https://www.veracrypt.fr/) formerly Truecrypt for encrypting directories and volumes
-   * https://cryptomator.org/ to also encrypting directories
+   * https://cryptomator.org/ to also encrypting directories (and upload to cloud) 
+   * https://www.etesync.com/ encrypt e.g. DAV and store E2E-encrypted in cloud
    * GPG/Enigmail for encrypted email communication: gpg4win.com, enigmail TB 64 bit outlook plugin https://github.com/dejavusecurity/OutlookPrivacyPlugin
    * Keepass http://www.keepass.info/ password management and -generator. https://keeweb.info/ is a OS native+online alternative using the same file format.
    * Buttercup https://buttercup.pw/ password management and -generator. 
