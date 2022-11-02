@@ -201,6 +201,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
    * https://tabler.github.io/ 
    * https://github.com/seguce92/carbon
    * https://adminlte.io/
+   * https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free for vue
    
 ### React
  * Drag and drop page editor https://craft.js.org/ / Gui Builder 
