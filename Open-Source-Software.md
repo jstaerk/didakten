@@ -83,6 +83,7 @@ Curated list of good software resources, which are open source or free (like in 
  * onenote alternative, handwritten note application (linux only) https://github.com/flxzt/rnote
  * Password vaults (for teams)
    * https://bitwarden.com/
+   * https://github.com/dani-garcia/vaultwarden inofficial Bitwarden Server
    * https://www.passwordstore.org/ 
    * https://www.vaultproject.io/, 
    * http://www.vaultier.org/, 
@@ -361,6 +362,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * http://www.msec.it/blog/?page_id=11 Dukto R6 LAN transfer files to multiple clients
    * https://www.mumble.info Open source voice chat/voip
    * https://matrix.org/ Open source encrypted chat
+   * https://psiphon.ca/de/index.html Censorship circumvention using VPNs et al
 
 ### Deployment management
    * Package management http://www.opsi.org/ 
