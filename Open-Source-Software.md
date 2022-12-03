@@ -168,7 +168,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Wireframing/Prototyping https://pencil.evolus.vn/ 
      * Wireframing HTML https://meetalva.io/
      * Wireframing collaborative webbased https://github.com/penpot/penpot
-     * Wireframing and mock-ups interactively https://github.com/KlausSchaefers/quant-ux
+     * Wireframing and mock-ups interactively https://github.com/KlausSchaefers/quant-ux and in docker https://github.com/bmcgonag/quant-ux-docker
      * https://icons8.com/lunacy
      * https://www.designer.io/en/
    * IDEs, text editors, log browser
