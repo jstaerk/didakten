@@ -116,6 +116,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * http://www.cannonjs.org/ Javascript Physics engine
 * 3d web library: https://threejs.org/, https://aframe.io/ (VR)
 * https://threejs.org/ Javascript WebGL engine
+* https://github.com/knex/knex Node.js SQL query builder (MySQL, Postgres...)
 * https://jsonforms.io/ Create forms from JSON and get their responses
 * https://particles.matteobruni.it/ Particle libraries
 * https://wavesurfer-js.org/ Visualize Audio Files, allow to start/stop
