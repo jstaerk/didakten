@@ -339,6 +339,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * http://www.monkey.org/~dugsong/dsniff/ Application layer sniffing
    * SSL Checker https://www.ssllabs.com/ssltest/analyze.html
    * Android freeware app/desktop http://www.fjsoft.at/de/
+   * Windows SSL/TLS Certificate management GUI https://github.com/webprofusion/certify
    * John the ripper: a brute-force password cracker with a good dictionary http://www.openwall.com/john/
    * BKCrack: Known Plaintext encrypted zip file cracker https://github.com/kimci86/bkcrack
    * Hashcat WPA cracker http://hashcat.net/hashcat/
@@ -392,7 +393,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * https://www.ventoy.net/en/index.html bootable usb sticks with start menu
    * web console with ssh key management https://github.com/skavanagh/KeyBox
    * sync setting files https://github.com/lra/mackup
-   * pandorafms.org 
+   * pandorafms.org Monitoring System
+   * https://www.phoronix-test-suite.com/ Benchmarking suite
    * do sth when a file is changed https://github.com/guard/guard
    * [http://www.freenas.org/](https://www.truenas.com/)
    * git-annex Git sync application https://git-annex.branchable.com/
