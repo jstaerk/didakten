@@ -276,6 +276,9 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Apache Directory Studio http://directory.apache.org/studio/ 
      * jxplorer https://sourceforge.net/projects/jxplorer/
    * Virtual maschines: http://www.virtualbox.org/wiki/Downloads (download the open source edition, linux), http://sourceforge.net/projects/vboxwin32/, Vagrant https://www.vagrantup.com/ for dev servers
+   * Deployment
+     * https://yeoman.io/ scaffolding
+     * https://github.com/jreleaser/jreleaser Java Installer/Packager
    * Dependency Manager
       * https://getcomposer.org/ Composer for PHP
       * https://maven.apache.org/ Maven for Java
