@@ -217,6 +217,7 @@ see [development resources](Development-resources.md)
  * https://www.cia.gov/the-world-factbook/ Public domain info about countries
 
 ## Other people's lists
+ * https://toools.design Discover highly useful Design Resources & Tools
  * https://www.kenney.nl/assets Free game assets
  * https://github.com/danielmiessler/SecLists Wordlists for security testing of passwords
  * https://github.com/Kavex/GameDev-Resources
