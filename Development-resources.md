@@ -51,7 +51,8 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * https://www.philippe-fournier-viger.com/spmf/ Open source data mining algorithms
 * https://github.com/akka/akka  Distributed resilient actors e.g. as crawler (agent model, mentioned in https://www.youtube.com/watch?v=W3JqG7DqctA)
 * https://github.com/libgdx/libgdx/ Java cross platform OpenGL (ES) game development library
-* https://truelicense.namespace.global/ Open Source (APL) Java license server 
+* https://truelicense.namespace.global/ Open Source (APL) Java license server
+* https://github.com/eclipse-vertx/vert.x Reactivity for Java with a internal event bus  
 
 ### Python libraries
 * human language translation https://github.com/argosopentech/argos-translate and its https://github.com/uav4geo/LibreTranslate
