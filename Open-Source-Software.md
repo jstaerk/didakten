@@ -499,7 +499,11 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 ### Server based system tools (server based)
 * https://www.proxmox.com/de/ Virtualization server (VMware ESXI open Source alternative)
 * https://www.proxmox.com/de/proxmox-mail-gateway Anti Spam Gateway
-* Monitoring: https://www.nagios.org/, https://www.zabbix.com/ or https://prometheus.io/
+* Monitoring: 
+  * https://www.nagios.org/, 
+  * https://www.zabbix.com/ or 
+  * https://prometheus.io/
+  * https://github.com/netdata/netdata local monitoring dashboard
 * Nagios-Configuration/Webinterface: centreon . Nagios Status Monitor https://nagstamon.ifw-dresden.de/
 * https://wazuh.com/ central intrusion detection for https://www.ossec.net/
    
