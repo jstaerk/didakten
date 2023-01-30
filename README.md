@@ -106,6 +106,7 @@ see [development resources](Development-resources.md)
  * https://www.ffonts.net/
  * https://www.dafont.com/de/
  * https://usemodify.com/
+ * https://brailleinstitute.org/freefont (unclear license but probably open source)
 
 ### Single fonts e.g.
  * Linux Libertine http://www.linuxlibertine.org/
