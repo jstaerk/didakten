@@ -78,6 +78,7 @@ Curated list of good software resources, which are open source or free (like in 
  * https://pdfcompressor.com/
  * taxbird, http://www.taxbird.de/, only USt and LSt.
  * Add OCR layer to scanned PDFs (tesseract based) https://github.com/jbarlow83/OCRmyPDF
+ * Remove potential malware from PDFs by re-rendering https://dangerzone.rocks/
  * https://github.com/KnowledgeCanvas/ learn protocol which can also keep copies of sources
  * https://www.limbas.com/ web based DB access tool
  * onenote alternative, handwritten note application (linux only) https://github.com/flxzt/rnote
