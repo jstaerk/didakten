@@ -392,6 +392,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * OSX install disc creator https://macdaddy.io/install-disk-creator/
    * Open source disk partitioner http://gparted.sourceforge.net/
    * local search engine http://docfetcher.sourceforge.net/de/
+   * https://rustdesk.com/ open source Teamviewer alternative
    * http://rundeck.org/ job scheduler with user mnt
    * https://etcher.io/ ISO writer
    * https://rufus.akeo.ie/ make usb sticks bootable (for windows)
