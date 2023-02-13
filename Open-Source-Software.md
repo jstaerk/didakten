@@ -288,6 +288,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
       * https://github.com/Microsoft/vcpkg VCPCK for C++
   * Miscellaneous
      * itext RUPS, http://itextpdf.com/product/itext_rups, analyze structure of PDF-files
+     * https://www.benthos.dev/ Stream processing with visually connected sources, filters and sinks
      * Translation application for .po files https://poedit.net/
      * https://github.com/jiahaog/nativefier Desktopanwendung von webanwendung erstellen
      * Disassembler https://github.com/radareorg/cutter/
