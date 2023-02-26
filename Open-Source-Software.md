@@ -620,6 +620,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * Safe exam browser https://safeexambrowser.org/ Kiosk
  * https://twinery.org/ Authoring tool for interactive nonlinear storytelling
  * https://www.mindsdb.com/ AI predictive database
+ * https://github.com/GoteoFoundation/goteo Open source crowdfunding platform
  * https://gitlab.com/hagrid-keyserver/hagrid GPG keyserver
  * https://de.openparliament.tv/ video platform with searchable speeches
  * https://github.com/johnkerl/miller CSV to JSON and vice versa, +sort and filter
