@@ -631,6 +631,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://yawik.org/ job application management, enter job offers, let applicants apply... 
  * https://c3nav.de/ Android WLAN based indoor navigation
  * https://opencognitives.com/mann-e/ AI image generation from description: Open-source Dall-e alternative
+ * https://github.com/hyperonym/basaran Open Source ChatGPT alternative
  * https://framagit.org/framasoft/framadate/framadate open source doodle, also https://github.com/jelhan/croodle, online e.g. via https://www.systemli.org/poll/
  * https://github.com/nektro/andesite share files and directories, public or oauth2 authorized
  * https://pol.is/home open source survey/sentiment analysis
