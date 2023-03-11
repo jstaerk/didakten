@@ -22,6 +22,7 @@ Caution: Some sites may provide mixed content, watch the license
  * http://www.pixelio.de/
  * https://stocksnap.io/
  * http://www.gratisography.com/
+ * https://openverse.org/
  * http://negativespace.co/photos/
  * http://www.lifeofpix.com/gallery/
  * http://stokpic.com/
