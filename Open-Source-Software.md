@@ -587,6 +587,12 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 * http://www.ubercart.org/ (Drupal modul)
 * https://www.revive-adserver.com/ (Open source ad server previously known als OpenX)
 
+### E-learning (interactive)
+ 
+ * https://www.lernsoftware-filius.de/ Network topology interactive learn software
+ * https://www.cryptool.org/en/ct2/ Visualization of cryptographic workflows, for a german explanation of asymtric encryption see also http://www.dkruse.de/dokumente/netzwerke/Sicher3_Asymm_Verschluesselung.pdf 
+ * Math&Geobmetry https://www.geogebra.org/
+
 ### E-learning (server based)
 * Docebo, http://www.docebo.org/
 * Moodle http://moodle.de/
@@ -639,7 +645,6 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://solid.mit.edu/ decentralized storage of social data 
  * whistleblower-platform https://securedrop.org/
  * https://www.ancestris.org/ Geneaologie-Software
- * https://www.cryptool.org/en/ct2/ Visualization of cryptographic workflows, for a german explanation of asymtric encryption see also http://www.dkruse.de/dokumente/netzwerke/Sicher3_Asymm_Verschluesselung.pdf 
  * http://weewx.com/ Open source weather station
  * Heritrix/wayback machine server based internet page archival
  * Open source vicinity monitoring/spy https://guardianproject.github.io/haven/ 
