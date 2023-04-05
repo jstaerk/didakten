@@ -365,6 +365,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * https://zmap.io/ large scale study tool for e.g. portscans/portmapping
    * mimikatz Windows plaintext password/ticket extraction https://github.com/gentilkiwi/mimikatz
    * Crypttool https://www.cryptool.org/en/ct2/ visualization of some algorithms
+   * https://www.akamai.com/infectionmonkey pentest attack tool 
 
 ### Communication
    * https://www.thunderbird.net/ Email client
@@ -552,6 +553,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
   * http://sozi.baierouge.fr/ free prezi clone
 * Mailcow mail server bundle
 * Iredmail mail server bundle
+* https://mailu.io/ mail server bundle
 * https://github.com/bastienwirtz/homer static dashboard generator 
 * Time Tracker https://github.com/CoralTime/CoralTime , https://github.com/overshard/timestrap https://github.com/kromitgmbh/titra/
 * https://github.com/alextselegidis/easyappointments Scheduler/booking calendar
