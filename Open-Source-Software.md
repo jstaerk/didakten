@@ -554,6 +554,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 * Mailcow mail server bundle
 * Iredmail mail server bundle
 * https://mailu.io/ mail server bundle
+* https://plane.so/ open source project planning
 * https://github.com/bastienwirtz/homer static dashboard generator 
 * Time Tracker https://github.com/CoralTime/CoralTime , https://github.com/overshard/timestrap https://github.com/kromitgmbh/titra/
 * https://github.com/alextselegidis/easyappointments Scheduler/booking calendar
