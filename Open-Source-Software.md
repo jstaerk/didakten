@@ -219,6 +219,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://git-scm.com/
      * kdiff3 ''great tool'' to spot differences between two files or two directories (includes merge functionality) http://kdiff3.sourceforge.net/
      * Git changes visualisiert http://gource.io/
+     * Compare XSD files https://github.com/yoep/xsd-compare
      * Gitup (mac only) http://gitup.co/
      * Linux/Mac "meta git", seems to store peer to peer where to clone the git fro https://radicle.xyz/
    * Database
