@@ -232,6 +232,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * PostgreSQL: https://www.postgresql.org/ 
      * https://hasura.io/ graphql api for PostgreSQL 
      * https://github.com/supabase/realtime live updating (!) websockets API for PostgreSQL
+     * https://github.com/Smile-SA/gdpr-dump/ anonymizer for databases
    * Documentation, Visualization and UML
      * Offline documentation: https://kapeli.com/dash für Mac und https://zealdocs.org für Win/Lin
      * ArgoUML, UML modelling http://argouml.tigris.org/ altenativ http://www.umlet.com
