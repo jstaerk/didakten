@@ -198,6 +198,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * API test tool Postman https://www.getpostman.com 
      * API Design tools Insomnia https://insomnia.rest/ or https://github.com/stoplightio/studio
      * "API Design Ecosystem" https://hoppscotch.io/
+     * ServiceBusExplorer e.g. for Azure queues/pipelines https://github.com/paolosalvatori/ServiceBusExplorer
      * SOAP UI, Tool zum Absetzen von SOAP-Anfragen http://sourceforge.net/projects/soapui/files/
      * Diffy (test different response on same http request) https://github.com/opendiffy/diffy/
      * Oauth GUI client https://github.com/mitraman/OAuthTestClient
