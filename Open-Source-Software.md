@@ -195,7 +195,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
        * http://www.jsondiff.com/
    * API
      * PAW (kommerziell): Mac REST API Client https://luckymarmot.com/paw
-     * API test tool Postman https://www.getpostman.com 
+     * API test tool https://github.com/hoppscotch/hoppscotch
      * API Design tools Insomnia https://insomnia.rest/ or https://github.com/stoplightio/studio
      * "API Design Ecosystem" https://hoppscotch.io/
      * ServiceBusExplorer e.g. for Azure queues/pipelines https://github.com/paolosalvatori/ServiceBusExplorer
