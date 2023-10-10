@@ -126,8 +126,8 @@ Curated list of good software resources, which are open source or free (like in 
 
 ### Site maintenance
    * httrack http://www.httrack.com/ (download complete homepages)
-   * Xenu's link sleuth http://home.snafu.de/tilman/xenulink.html (Linkchecker)
-   * http://linkchecker.sourceforge.net/ command line link checker
+   * Linkchecker with GUI http://wummel.github.io/linkchecker/
+   * https://github.com/filiph/linkcheck command line link checker
    * HTTP Benchmark https://k6.io/open-source
    * HTTP (and other) performance benchmarking and load test http://jakarta.apache.org/jmeter/
    * Page stats: 
