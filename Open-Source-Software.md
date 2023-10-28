@@ -608,6 +608,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 ### E-learning (server based)
 * Docebo, http://www.docebo.org/
 * Moodle http://moodle.de/
+* Canvas https://www.instructure.com/canvas
+* Illias https://www.ilias.de/
 * Open source automated web assessment https://github.com/openHPI/codeocean , https://github.com/openedx/edx-platform,  https://github.com/p2pu/lernanta
 * Interactive html5 content with PHP https://h5p.org/
 
