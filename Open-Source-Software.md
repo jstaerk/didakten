@@ -343,6 +343,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Text-to-speech T2S and Speech to text 
       * https://github.com/coqui-ai/TTS
       * https://github.com/mozilla/DeepSpeech
+      * https://github.com/synesthesiam/opentts SSML for multiple systems
    * programming languages for music
       * http://overtone.github.io/ 
       * https://supercollider.github.io/ 
