@@ -544,6 +544,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * https://github.com/cloudfoundry-incubator/bookbinder running middleman (kirby ähnlich?)
    * http://sphinx-doc.org/ documentation
    * https://antora.org/ Multi Repo ASCIIdoc documentation site generator
+   * https://docusaurus.io/ SPA documentations
    * https://github.com/GitbookIO/gitbook Git based books
 ### Wiki (server based)
    * Enterprise Mediawiki fork http://de.bluespice.com/produkte/bluespice-free/download/
