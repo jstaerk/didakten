@@ -5,6 +5,8 @@
 * German page on how to calculate various checksums http://www.pruefziffernberechnung.de/
 * Description of file formats: http://www.fileformat.info/
 * https://www.freecodecamp.org/ ?
+* wait animations/throbbers https://uiball.com/ldrs/
+* Open game art sprites sounds etc https://opengameart.org/
 * Captcha Email addresses https://spamty.eu
 * Captcha everything else https://www.google.com/recaptcha/intro/v3beta.htmlf
 * Software updates: the update framework https://theupdateframework.github.io/
