@@ -255,6 +255,10 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://github.com/peej/phpdoctor
      * PHP Mess detector static source code analysis https://phpmd.org/
      * https://github.com/renovatebot/renovate universal dependency updates
+   * Desktop development
+     * https://www.electronjs.org/ Javascript based apps for Linux, Windows, Mac apps with Chrome frontend and Node.js backend
+     * https://tauri.app/ Electron alternative?
+     * https://github.com/nativefier/nativefier Turn a embedded Chrome into a kiosk browser application for the URL you specify
    * App development 
    * Mobile App Development
      * PhoneGap / Cordova / Ionic https://ionicframework.com/
