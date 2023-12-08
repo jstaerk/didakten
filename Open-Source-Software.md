@@ -70,7 +70,6 @@ Curated list of good software resources, which are open source or free (like in 
  * Gephi network analysis https://gephi.org/
 #### PDF, PIM, Productivity
  * Project management: http://www.ganttproject.biz
- * DMS: http://www.steuertipps.de/lp/belegmanager 
  * Note taking app https://github.com/laurent22/joplin/
  * Free PDF printer: http://www.pdfforge.org/pdfcreator
  * PDF helper tool (cut/merge PDFs pagewise): http://www.pdfsam.org
@@ -539,6 +538,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Seafile (dropbox-alternative)
    * https://nextcloud.com/
    * https://sandstorm.io/
+   * https://docs.paperless-ngx.com/
+   * DMS: http://www.steuertipps.de/lp/belegmanager 
    * https://mayan.readthedocs.io/en/latest/, https://github.com/danielquinn/paperless, https://github.com/openpaperwork/paperwork
    * Crawling searchable https://fess.codelibs.org/
    * OCRing searchable (?) document management https://github.com/RD17/ambar 
