@@ -417,6 +417,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * https://rufus.akeo.ie/ make usb sticks bootable (for windows)
    * https://www.ventoy.net/en/index.html bootable usb sticks with start menu
    * web console with ssh key management https://github.com/skavanagh/KeyBox
+   * ssh client with file manager for multiple connections https://xpipe.io/
    * sync setting files https://github.com/lra/mackup
    * pandorafms.org Monitoring System
    * https://www.phoronix-test-suite.com/ Benchmarking suite
