@@ -130,6 +130,7 @@ Curated list of good software resources, which are open source or free (like in 
    * https://github.com/filiph/linkcheck command line link checker
    * HTTP Benchmark https://k6.io/open-source
    * HTTP (and other) performance benchmarking and load test http://jakarta.apache.org/jmeter/
+   * CLI HTTP load testing with HTML output http://gatling.io/open-source/
    * Page stats: 
      * Apache Access logs: Jawstats http://www.jawstats.com 
      * Apache Access logs: https://goaccess.io/ 
