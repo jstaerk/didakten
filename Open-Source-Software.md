@@ -572,6 +572,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 * presentations
   * reveal.js
   * http://sozi.baierouge.fr/ free prezi clone
+  * https://github.com/thewh1teagle/mobslide/ Smartphone remote control for presentations
 * Mailcow mail server bundle
 * Iredmail mail server bundle
 * https://mailu.io/ mail server bundle
