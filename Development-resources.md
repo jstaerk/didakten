@@ -5,6 +5,8 @@
 * German page on how to calculate various checksums http://www.pruefziffernberechnung.de/
 * Description of file formats: http://www.fileformat.info/
 * https://www.freecodecamp.org/ ?
+* wait animations/throbbers https://uiball.com/ldrs/
+* Open game art sprites sounds etc https://opengameart.org/
 * Captcha Email addresses https://spamty.eu
 * Captcha everything else https://www.google.com/recaptcha/intro/v3beta.htmlf
 * Software updates: the update framework https://theupdateframework.github.io/
@@ -162,6 +164,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
    * Summernote http://summernote.org/
    * Ajax File Browser (ajaxfb): http://sourceforge.net/projects/ajaxfb/
    * https://github.com/xing/wysihtml5
+   * https://github.com/measuredco/puck/ React-based visual editor
    * http://vistaprint.github.io/ArteJS/
    * https://prosemirror.net/ (includes collaborative editing)+it's vue js port https://tiptap.dev/ 
    * https://github.com/yabwe/medium-editor

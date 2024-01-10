@@ -70,7 +70,6 @@ Curated list of good software resources, which are open source or free (like in 
  * Gephi network analysis https://gephi.org/
 #### PDF, PIM, Productivity
  * Project management: http://www.ganttproject.biz
- * DMS: http://www.steuertipps.de/lp/belegmanager 
  * Note taking app https://github.com/laurent22/joplin/
  * Free PDF printer: http://www.pdfforge.org/pdfcreator
  * PDF helper tool (cut/merge PDFs pagewise): http://www.pdfsam.org
@@ -83,6 +82,7 @@ Curated list of good software resources, which are open source or free (like in 
  * https://github.com/KnowledgeCanvas/ learn protocol which can also keep copies of sources
  * https://www.limbas.com/ web based DB access tool
  * onenote alternative, handwritten note application (linux only) https://github.com/flxzt/rnote
+ * Open-Source document signing https://github.com/documenso/documenso
  * Password vaults (for teams)
    * https://bitwarden.com/
    * https://github.com/dani-garcia/vaultwarden inofficial Bitwarden Server
@@ -121,14 +121,16 @@ Curated list of good software resources, which are open source or free (like in 
  * http://opensimulator.org/ open source second life clone
  * https://github.com/thecodingmachine/workadventure/ work adventure gamification video calls with avatars
  * https://trilarion.github.io/opensourcegames/games/index.html A independent list with hundrets of games
+ * https://github.com/Revolutionary-Games/Thrive a evolution game
 
 
 ### Site maintenance
    * httrack http://www.httrack.com/ (download complete homepages)
-   * Xenu's link sleuth http://home.snafu.de/tilman/xenulink.html (Linkchecker)
-   * http://linkchecker.sourceforge.net/ command line link checker
+   * Linkchecker with GUI http://wummel.github.io/linkchecker/
+   * https://github.com/filiph/linkcheck command line link checker
    * HTTP Benchmark https://k6.io/open-source
    * HTTP (and other) performance benchmarking and load test http://jakarta.apache.org/jmeter/
+   * CLI HTTP load testing with HTML output http://gatling.io/open-source/
    * Page stats: 
      * Apache Access logs: Jawstats http://www.jawstats.com 
      * Apache Access logs: https://goaccess.io/ 
@@ -173,6 +175,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Wireframing and mock-ups interactively https://github.com/KlausSchaefers/quant-ux and in docker https://github.com/bmcgonag/quant-ux-docker
      * https://icons8.com/lunacy
      * https://www.designer.io/en/
+     * https://github.com/gaphor/gaphor UML and C4-Designer tool
+     * Drawing Software Architecture (Archi) https://www.archimatetool.com/ 
    * IDEs, text editors, log browser
      * Conventional
        * Visual Studio Code https://code.visualstudio.com/download and it's open source distribution https://vscodium.com/
@@ -194,9 +198,10 @@ There is also a [list of open source libraries](Development-resources.md#user-co
        * http://www.jsondiff.com/
    * API
      * PAW (kommerziell): Mac REST API Client https://luckymarmot.com/paw
-     * API test tool Postman https://www.getpostman.com 
+     * API test tool https://github.com/hoppscotch/hoppscotch
      * API Design tools Insomnia https://insomnia.rest/ or https://github.com/stoplightio/studio
      * "API Design Ecosystem" https://hoppscotch.io/
+     * ServiceBusExplorer e.g. for Azure queues/pipelines https://github.com/paolosalvatori/ServiceBusExplorer
      * SOAP UI, Tool zum Absetzen von SOAP-Anfragen http://sourceforge.net/projects/soapui/files/
      * Diffy (test different response on same http request) https://github.com/opendiffy/diffy/
      * Oauth GUI client https://github.com/mitraman/OAuthTestClient
@@ -232,6 +237,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * PostgreSQL: https://www.postgresql.org/ 
      * https://hasura.io/ graphql api for PostgreSQL 
      * https://github.com/supabase/realtime live updating (!) websockets API for PostgreSQL
+     * https://github.com/Smile-SA/gdpr-dump/ anonymizer for databases
    * Documentation, Visualization and UML
      * Offline documentation: https://kapeli.com/dash für Mac und https://zealdocs.org für Win/Lin
      * ArgoUML, UML modelling http://argouml.tigris.org/ altenativ http://www.umlet.com
@@ -252,6 +258,10 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://github.com/peej/phpdoctor
      * PHP Mess detector static source code analysis https://phpmd.org/
      * https://github.com/renovatebot/renovate universal dependency updates
+   * Desktop development
+     * https://www.electronjs.org/ Javascript based apps for Linux, Windows, Mac apps with Chrome frontend and Node.js backend
+     * https://tauri.app/ Electron alternative?
+     * https://github.com/nativefier/nativefier Turn a embedded Chrome into a kiosk browser application for the URL you specify
    * App development 
    * Mobile App Development
      * PhoneGap / Cordova / Ionic https://ionicframework.com/
@@ -262,6 +272,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://bubu1.eu/openpush/ is Android push messages without Google Services
      * http://hood.ie/ "Javascript offline first"
      * https://gotify.net/ Another Push server
+     * https://ntfy.sh/ Push to cell phone via simple http request, e.g. curl
      * https://github.com/rethinkdb/horizon sophisticated realtime javascript apps
      * https://appwrite.io/ Backend as a service for web android, flutter
      * https://github.com/nhost/nhost GraphQL based backend as a service
@@ -302,6 +313,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * Open Broadcaster screencast streaming Software https://obsproject.com/ see also OBS streaming server https://github.com/GRVYDEV/Project-Lightspeed or https://git.waldn.net/git/knotteye/satyr
  * Open Source video streaming Server https://github.com/kaltura/server 
  * Audio/Video streaming language https://www.liquidsoap.info/
+ * https://xlights.org/ light sequencer and show player + falcon player https://github.com/FalconChristmas/fpp for that
  * Media Streaming server (related to Kodi) https://jellyfin.org/
  * Open source game streaming https://moonlight-stream.org/
 ### Multimedia
@@ -333,11 +345,13 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Voicemeeter/banana (Donationware only): Good mixer for Windows https://www.vb-audio.com/Voicemeeter/banana.htm
    * https://mixxx.org/ open source DJ software (see e.g. https://media.ccc.de/v/sonoj2017-1702-integrating-hardware-controllers-with-audio-software)
    * Music composition https://helio.fm/
+   * Open-Source TTS https://github.com/coqui-ai/ for cloning see also https://github.com/CorentinJ/Real-Time-Voice-Cloning
    * Near-Realtime audio driver for Windows http://www.asio4all.org/
    * https://github.com/deezer/spleeter open source channel separation
    * Text-to-speech T2S and Speech to text 
       * https://github.com/coqui-ai/TTS
       * https://github.com/mozilla/DeepSpeech
+      * https://github.com/synesthesiam/opentts SSML for multiple systems
    * programming languages for music
       * http://overtone.github.io/ 
       * https://supercollider.github.io/ 
@@ -404,6 +418,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * https://rufus.akeo.ie/ make usb sticks bootable (for windows)
    * https://www.ventoy.net/en/index.html bootable usb sticks with start menu
    * web console with ssh key management https://github.com/skavanagh/KeyBox
+   * ssh client with file manager for multiple connections https://xpipe.io/
    * sync setting files https://github.com/lra/mackup
    * pandorafms.org Monitoring System
    * https://www.phoronix-test-suite.com/ Benchmarking suite
@@ -527,6 +542,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Seafile (dropbox-alternative)
    * https://nextcloud.com/
    * https://sandstorm.io/
+   * https://docs.paperless-ngx.com/
+   * DMS: http://www.steuertipps.de/lp/belegmanager 
    * https://mayan.readthedocs.io/en/latest/, https://github.com/danielquinn/paperless, https://github.com/openpaperwork/paperwork
    * Crawling searchable https://fess.codelibs.org/
    * OCRing searchable (?) document management https://github.com/RD17/ambar 
@@ -538,6 +555,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * https://github.com/cloudfoundry-incubator/bookbinder running middleman (kirby ähnlich?)
    * http://sphinx-doc.org/ documentation
    * https://antora.org/ Multi Repo ASCIIdoc documentation site generator
+   * https://docusaurus.io/ SPA documentations
    * https://github.com/GitbookIO/gitbook Git based books
 ### Wiki (server based)
    * Enterprise Mediawiki fork http://de.bluespice.com/produkte/bluespice-free/download/
@@ -554,6 +572,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 * presentations
   * reveal.js
   * http://sozi.baierouge.fr/ free prezi clone
+  * https://github.com/thewh1teagle/mobslide/ Smartphone remote control for presentations
 * Mailcow mail server bundle
 * Iredmail mail server bundle
 * https://mailu.io/ mail server bundle
@@ -603,6 +622,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 ### E-learning (server based)
 * Docebo, http://www.docebo.org/
 * Moodle http://moodle.de/
+* Canvas https://www.instructure.com/canvas
+* Illias https://www.ilias.de/
 * Open source automated web assessment https://github.com/openHPI/codeocean , https://github.com/openedx/edx-platform,  https://github.com/p2pu/lernanta
 * Interactive html5 content with PHP https://h5p.org/
 
