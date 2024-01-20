@@ -262,13 +262,13 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://www.electronjs.org/ Javascript based apps for Linux, Windows, Mac apps with Chrome frontend and Node.js backend
      * https://tauri.app/ Electron alternative?
      * https://github.com/nativefier/nativefier Turn a embedded Chrome into a kiosk browser application for the URL you specify
-   * App development 
    * Mobile App Development
      * PhoneGap / Cordova / Ionic https://ionicframework.com/
      * Titanium http://www.appcelerator.com/titanium/
      * NativeScript: https://nativescript.org/
    * Backend platforms: Backend as a service, persistence, push
-     * https://parseplatform.org/ multi language push notifications, open source version of https://firebase.google.com/ . 
+     * https://parseplatform.org/ multi language push notifications, open source version of https://firebase.google.com/ .
+     * https://directus.io/ SQL real time update backend with headless CMS
      * https://bubu1.eu/openpush/ is Android push messages without Google Services
      * http://hood.ie/ "Javascript offline first"
      * https://gotify.net/ Another Push server
