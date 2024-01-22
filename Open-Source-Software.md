@@ -509,6 +509,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Tile engine, make huge images and maps zoomable http://openlayers.org/,ModestMaps +easey, http://polymaps.org/, http://leafletjs.com/
    * Javascript open source Google Earth maps / 3d globus https://www.cesiumjs.org/
    * Open source social map https://www.keplerjs.io/
+   * Geospatial data visualization https://github.com/TerriaJS/terriajs
    * Free Geoserver: http://opengeo.org/products/suite/community/
    * Free Geoserver/Tileserver https://t-rex.tileserver.ch/
    * tile cache (proxy) for opengeoserver geowebcache.org
