@@ -131,6 +131,7 @@ Curated list of good software resources, which are open source or free (like in 
    * HTTP Benchmark https://k6.io/open-source
    * HTTP (and other) performance benchmarking and load test http://jakarta.apache.org/jmeter/
    * CLI HTTP load testing with HTML output http://gatling.io/open-source/
+   * Web server (Apache/Nginx alternative, allegedly Wordpress-perfomant) https://openlitespeed.org/
    * Page stats: 
      * Apache Access logs: Jawstats http://www.jawstats.com 
      * Apache Access logs: https://goaccess.io/ 
