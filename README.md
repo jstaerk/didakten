@@ -207,6 +207,7 @@ see [development resources](Development-resources.md)
 
 ## 3D, VR, AR
  * http://www.thingiverse.com
+ * https://ambientcg.com/ Public domain textures, materials etc
  * http://www.blendswap.com
  * http://artist-3d.com/
  * http://www.archive3d.net/
