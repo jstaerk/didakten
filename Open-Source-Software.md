@@ -114,6 +114,7 @@ Curated list of good software resources, which are open source or free (like in 
  * http://padworld.myexp.de/ Netzwerk-Comic-Egoshooter
  * http://openarena.ws/ Q3-based ego shooter
  * 0ad http://wildfiregames.com/0ad/
+ * Beyond-All-Reason(BAR) a RTS https://github.com/beyond-all-reason/Beyond-All-Reason
  * http://www.urbanterror.info/ Q3-basiertes Urban terror Counterstrike remake
  * http://orbit.medphys.ucl.ac.uk/ Orbiter (Freeware only)
  * http://www.wcsaga.com/downloads/files/releases.html Wing Commander Saga The Darkest Dawn (Freeware)
