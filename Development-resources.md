@@ -30,6 +30,14 @@
    * https://themeisle.com/wordpress-themes/free/ (auch Woocommerce)
  * TailwindCSS: https://tailwindcss.com/
 
+## Game engines
+  * Amazon Open 3D Engine for "AAA" games https://github.com/o3de/o3de
+  * great 2- and 3d game engine https://godotengine.org/
+  * Realtime Strategy RTS game engine https://springrts.com/
+  * GDevelop 2d game engine https://gdevelop-app.com/
+  * C# game engine (godot c# or) http://xenko.com/
+
+
 ## Design systems
 * Material Design https://material.io/design e.g. for vue https://vuetifyjs.com/en/
 * Ant design  https://ant.design/ e.g. for react (antd)
