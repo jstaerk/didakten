@@ -243,6 +243,9 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * Sequence diagrams: e.g. for Protocols https://bramp.github.io/js-sequence-diagrams/
 * https://mermaid-js.github.io/mermaid/#/ "Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs."
 
+### Generators/Mockups
+* https://randomuser.me/ generates names and pictures
+
 # Logging and graphing
 * Logstash https://github.com/elastic/logstash
 * https://smashing.github.io/
