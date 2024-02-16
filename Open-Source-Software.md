@@ -280,11 +280,6 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://pocketbase.io/ one file sqlite based backend incl. authentication with javascript sdk
 
 
-   * Game development
-     * Amazon Open 3D Engine for "AAA" games https://github.com/o3de/o3de
-     * great 2- and 3d game engine https://godotengine.org/
-     * GDevelop 2d game engine https://gdevelop-app.com/
-     * C# game engine (godot c# or) http://xenko.com/
    * Browser tools
      * Browsersync responsive/mobile testing https://www.browsersync.io/
      * Visual Event bookmarklet to detect JQuery event handler http://www.sprymedia.co.uk/article/Visual+Event+2 
