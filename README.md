@@ -55,8 +55,9 @@ Caution: Some sites may provide mixed content, watch the license
  * https://search.creativecommons.org/
  * https://www.scienceimage.csiro.au/
  * http://www.freenatureimages.eu/
- * https://allthefreestock.com/
+ * https://allthefreestock.com
  * https://www.splitshire.com/
+ * https://www.rawpixel.com/public-domain/ collection of cc0 art
 
 ## Videos
  * https://videos.pexels.com/
