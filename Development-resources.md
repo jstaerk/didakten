@@ -254,6 +254,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 ### Generators/Mockups/Miscellaneous
 * https://randomuser.me/ generates names and pictures
 * https://shields.io/ has badges
+* https://projects.eclipse.org/projects/ecd.langium create Domain Specific Languages
 
 # Logging and graphing
 * Logstash https://github.com/elastic/logstash
