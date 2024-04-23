@@ -541,7 +541,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * https://nextcloud.com/
    * https://sandstorm.io/
    * https://docs.paperless-ngx.com/
-   * DMS: http://www.steuertipps.de/lp/belegmanager 
+   * DMS: http://www.steuertipps.de/lp/belegmanager
+   * DMS: https://docs.paperless-ngx.com/
    * https://mayan.readthedocs.io/en/latest/, https://github.com/danielquinn/paperless, https://github.com/openpaperwork/paperwork
    * Crawling searchable https://fess.codelibs.org/
    * OCRing searchable (?) document management https://github.com/RD17/ambar 
