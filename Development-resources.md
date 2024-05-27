@@ -319,6 +319,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 ## Miscellaneous links 
 * http://motionographer.com/2015/07/06/user-interface-design-why-motion-matters/
 * https://github.com/dipakkr/A-to-Z-Resources-for-Students
+* https://github.com/michael-pfister/deno-portfolio open source developer portfolio webpage
 * Recommendation for apps to get into coding https://www.golem.de/news/programmieren-lernen-informatik-apps-fuer-kinder-sind-oft-zu-komplex-2001-144857.html (German) or DataCamp, Mimo, SoloLearn, Grasshopper and Py in https://www.heise.de/tests/Fuenf-Programmier-Lern-Apps-im-Vergleich-4649571.html (German)
 * https://awesomeopensource.com/projects/godot Open source projects
 
