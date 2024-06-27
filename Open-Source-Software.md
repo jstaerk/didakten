@@ -580,6 +580,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 * https://github.com/bastienwirtz/homer static dashboard generator 
 * Time Tracker https://github.com/CoralTime/CoralTime , https://github.com/overshard/timestrap https://github.com/kromitgmbh/titra/
 * https://github.com/alextselegidis/easyappointments Scheduler/booking calendar
+* https://github.com/schej-it/schej.it whentomeet/calendly alternative with google calendar integration
 
 ### File-based/Static CMS (server based)
 
