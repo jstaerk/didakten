@@ -219,6 +219,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://baserow.io/ Airtable alternative   
      * https://github.com/directus/directus SQL admin in node.js with frontends
      * RPA/Robotic process automation: Workflow as a service  https://github.com/Netflix/maestro
+     * https://github.com/saltcorn/saltcorn Web based app generator?
    * Testing
      * PHPUnit/Selenium/PhantomJS
      * Codeception
