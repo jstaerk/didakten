@@ -217,7 +217,8 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
    * https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free for vue
    
 ### React
- * Drag and drop page editor https://craft.js.org/ / Gui Builder 
+ * Drag and drop page editor https://craft.js.org/ / Gui Builder
+ * https://jsonforms.io/ custom forms creation and display
 ### Vue
  * https://www.npmjs.com/package/vue-sweetalert2 notifications
 
