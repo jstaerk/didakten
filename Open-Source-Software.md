@@ -430,7 +430,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * File synchronization http://synkron.sourceforge.net/
    * Bundle download and installer https://ninite.com/
    * Synergy, software KM switch http://synergy-foss.org/
-   * peer-to-peer file sync https://syncthing.net/ 
+   * peer-to-peer file sync https://syncthing.net/ and tray versions https://github.com/Martchus/syncthingtray and https://github.com/canton7/SyncTrayzor
    * Boot repair iso http://sourceforge.net/p/boot-repair-cd/home/Home/
    * WinAudit, Hardware components list/inventory https://winaudit.codeplex.com/
    * (windows) deleted file recovery  http://www.piriform.com/recuva/download (alternative http://www.cgsecurity.org/wiki/PhotoRec_DE und https://www.cgsecurity.org/wiki/TestDisk)
