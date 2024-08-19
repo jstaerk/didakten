@@ -210,11 +210,12 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * Multi-select https://github.com/davidstutz/bootstrap-multiselect, 
 * Wizard https://github.com/VinceG/twitter-bootstrap-wizard scrollspy:eingebaut
 * Toggles statt checkboxes http://www.bootstraptoggle.com/
-* Admin panel 
+* Admin panel / Dashboards
    * https://tabler.github.io/ 
    * https://github.com/seguce92/carbon
    * https://adminlte.io/
    * https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free for vue
+   * https://github.com/codedthemes/mantis-free-vuetify-vuejs-admin-template
    
 ### React
  * Drag and drop page editor https://craft.js.org/ / Gui Builder
