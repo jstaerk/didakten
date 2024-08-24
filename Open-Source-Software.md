@@ -42,7 +42,8 @@ Curated list of good software resources, which are open source or free (like in 
    * www.blender.org (also game engine)
    * http://www.makehumancommunity.org/ Open Source Poser clone cutomizing 3d models of humans
    * http://www.sweethome3d.com/ 3d real estate designer with furniture
-   * https://www.blender.org/download/
+   * 3d materials https://www.materialmaker.org/
+   * 3d texturing https://armorpaint.org/download 
    * https://github.com/assimp/assimp 3d model converter
    * https://f3d.app/ 3d model viewer
    * Photogrammetry (create 3d model from multiple 2d pictures) 
