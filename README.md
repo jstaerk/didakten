@@ -206,7 +206,7 @@ see [development resources](Development-resources.md)
  * https://mixkit.co/free-stock-music/
  * https://www.bensound.com/
 
-## 3D, VR, AR
+## 3D, VR, AR related
  * http://www.thingiverse.com
  * https://ambientcg.com/ Public domain textures, materials etc
  * http://www.blendswap.com
@@ -215,6 +215,7 @@ see [development resources](Development-resources.md)
  * http://sketchup.google.com/3dwarehouse/
  * http://www.doschdesign.com/
  * http://opengameart.org/
+ * https://cc0-textures.com/
  * http://grabcad.com/
 
 ## Open data
