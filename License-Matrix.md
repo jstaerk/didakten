@@ -14,3 +14,4 @@ Angabe ohne Gewähr:
 Es gibt für die meisten Lizenzen Zusatzbedingungen, zu erlesen in den entsprechenden Lizenztexten, bei der APL bspw. Lizenznennung
 
 See also [Lizenzpyramide](https://creativecommons.org/share-your-work/public-domain/freeworks)
+See also [Choose a License](https://choosealicense.com/licenses/)
