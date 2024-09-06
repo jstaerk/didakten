@@ -36,7 +36,8 @@
   * Realtime Strategy RTS game engine https://springrts.com/
   * GDevelop 2d game engine https://gdevelop-app.com/
   * C# game engine (godot c# or) http://xenko.com/
-
+  * Web Based 2d https://phaser.io/
+  * Web Based 2d webgl renderer https://pixijs.com/
 
 ## Design systems
 * Material Design https://material.io/design e.g. for vue https://vuetifyjs.com/en/
