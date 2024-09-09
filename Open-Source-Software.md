@@ -648,6 +648,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 
 ### Obscure/Rarely used (server based)
 
+ * https://immich.app/ self hosted google pictures alternative with local AI
  * https://openslides.com/de "Digital motion and assembly system" Votes and suggestions for conferences and online conferences, similar to https://wiki.piratenpartei.de/LiquidFeedback
  * https://github.com/HabitRPG/habitica/ Habit tracking/changing system
  * https://github.com/TandoorRecipes/recipes Managing recipies, meal planning
