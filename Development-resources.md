@@ -103,7 +103,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
   * Zend Framework (kaum Erfahrung)
   * Codeigniger
   * Symfony
-  * https://swagger.io/ API framework, instead of the Swagger HTML client an alternative may be https://github.com/Redocly/redoc
+  * https://swagger.io/ API framework, instead of the Swagger HTML client alternatives may be https://github.com/Redocly/redoc or https://github.com/rapi-doc/RapiDoc
   * http://angularjs.org/ web app framework
   * responsive framework http://foundation.zurb.com/
   * frontend framework: http://twitter.github.io/bootstrap/
