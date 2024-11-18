@@ -83,7 +83,7 @@ Curated list of good software resources, which are open source or free (like in 
  * https://github.com/KnowledgeCanvas/ learn protocol which can also keep copies of sources
  * https://www.limbas.com/ web based DB access tool
  * onenote alternative, handwritten note application (linux only) https://github.com/flxzt/rnote
- * Open-Source document signing https://github.com/documenso/documenso
+ * Open-Source document signing (docusign alternative) https://github.com/documenso/documenso
  * Break timer/tea timers https://github.com/tom-james-watson/breaktimer-app or https://workrave.org/
  * Password vaults (for teams)
    * https://bitwarden.com/
