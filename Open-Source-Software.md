@@ -63,7 +63,7 @@ Curated list of good software resources, which are open source or free (like in 
  * DTP: Scribus http://www.scribus.net
  * Java fat client+java applet resource planner http://rapla.org/
  * Hibiscus online banking http://www.willuhn.de/products/hibiscus/
- * Collaborative https://www.humhub.org/
+ * Collaborative intranets/social platforms https://www.humhub.org/ or (with competitions) Exo https://docs.exoplatform.org/guide/getting-started/start-community.html#start-exo-platform
 
 ### PIM, Mindmaps, PDF and productivity
 #### Mindmaps
