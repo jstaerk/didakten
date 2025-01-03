@@ -652,6 +652,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://github.com/Lightning-AI/litgpt Open Source (offline) ChatGPT alternative
  * https://opencognitives.com/mann-e/ AI image generation from description: Open-source Dall-e alternative
  * https://github.com/hyperonym/basaran Open Source ChatGPT alternative
+ * https://github.com/ggerganov/llama.cpp Native (almost IOT) Inference of language models
 
 ### Obscure/Rarely used (server based)
 
