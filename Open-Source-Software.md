@@ -309,6 +309,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * https://github.com/jiahaog/nativefier Desktopanwendung von webanwendung erstellen
      * Disassembler https://github.com/radareorg/cutter/
      * Elasticsearch https://opendistro.github.io/for-elasticsearch/
+     * Grid computing https://boinc.berkeley.edu/ see also https://www.youtube.com/watch?v=L0pvTE10pe4
      * Shader development (unclear license) https://www.shadertoy.com/
      * https://github.com/flightlessmango/MangoHud overlay software
 ### Streaming and Screen capture
