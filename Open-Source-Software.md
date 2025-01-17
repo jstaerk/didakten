@@ -740,6 +740,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 ## Other people's lists
  * https://github.com/mikeroyal/Self-Hosting-Guide
  * https://pbs.twimg.com/media/E-jDC8fWUAIjgeS?format=png&name=4096x4096 Open Source Adobe Alternatives
+ * https://github.com/Axorax/awesome-free-apps/blob/main/filter/open-source-only.md
 
 ## See also
  * [Resources](README.md) and
