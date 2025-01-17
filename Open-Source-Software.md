@@ -673,6 +673,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://www.mindsdb.com/ AI predictive database
  * https://github.com/GoteoFoundation/goteo Open source crowdfunding platform
  * https://gitlab.com/hagrid-keyserver/hagrid GPG keyserver
+ * https://github.com/thedevs-network/kutt URL shortener
  * https://de.openparliament.tv/ video platform with searchable speeches
  * https://github.com/johnkerl/miller CSV to JSON and vice versa, +sort and filter
  * https://pretix.eu/ open source ticketing. The real event tickets, not bug tickets.
