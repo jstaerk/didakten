@@ -10,6 +10,7 @@
 * Captcha Email addresses https://spamty.eu
 * Captcha everything else https://www.google.com/recaptcha/intro/v3beta.htmlf
 * Software updates: the update framework https://theupdateframework.github.io/
+* Architectural Decision Records: Record when which architecture was decided https://adr.github.io/
 
 ## Templates, CSS boilerplates
  * https://templated.co/
