@@ -350,6 +350,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Voicemeeter/banana (Donationware only): Good mixer for Windows https://www.vb-audio.com/Voicemeeter/banana.htm
    * https://mixxx.org/ open source DJ software (see e.g. https://media.ccc.de/v/sonoj2017-1702-integrating-hardware-controllers-with-audio-software)
    * Music composition https://helio.fm/
+   * Music Mixing/DJ https://mixxx.org/
    * Open-Source TTS https://github.com/coqui-ai/ for cloning see also https://github.com/CorentinJ/Real-Time-Voice-Cloning
    * Near-Realtime audio driver for Windows http://www.asio4all.org/
    * https://github.com/deezer/spleeter open source channel separation
