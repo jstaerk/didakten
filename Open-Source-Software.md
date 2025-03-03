@@ -340,7 +340,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * German public television download https://mediathekview.de
    * Shotcut: https://shotcut.org/
    * Speech Recognition https://github.com/mozilla/DeepSpeech 
-   * Speech Recognition with translation https://github.com/openai/whisper and whisper based for transcriptions https://github.com/kaixxx/noScribe
+   * Speech Recognition with translation https://github.com/openai/whisper, whisper based for transcriptions https://github.com/kaixxx/noScribe and API https://github.com/speaches-ai/speaches/
    * Creating mathematical animations from from formula https://3b1b.github.io/manim/
    * https://motioncanvas.io/ programmatically visualize complex ideas
    * https://processing.org/ software sketchbook and (visualizing) language
