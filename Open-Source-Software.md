@@ -420,7 +420,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * local search engine http://docfetcher.sourceforge.net/de/
    * https://rustdesk.com/ open source Teamviewer alternative
    * http://rundeck.org/ job scheduler with user mnt
-   * https://slurm.schedmd.com/ high performane computing (HPC) job scheduling
+   * high performane computing (HPC) job scheduling https://slurm.schedmd.com/  or https://github.com/Nukesor/pueue/
    * https://etcher.io/ ISO writer
    * https://rufus.akeo.ie/ make usb sticks bootable (for windows)
    * https://www.ventoy.net/en/index.html bootable usb sticks with start menu
