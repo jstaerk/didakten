@@ -227,7 +227,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * PHPUnit/Selenium/PhantomJS
      * Codeception
      * Behat.org
-     * "we call it a klassiker" https://www.apachefriends.org/de/index.html (Apache+PHP+MySQL)
+     * Xampp PHP+Apache+MySQL bundle for windows https://www.apachefriends.org/de/index.html (Apache+PHP+MySQL)
      * Test suite for ethereum https://www.trufflesuite.com/ganache
    * SCM/Diff
      * https://git-scm.com/
