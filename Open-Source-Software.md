@@ -580,6 +580,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 * https://sogo.nu/
 * Roundcube Webmailer
 * Project management https://leantime.io/
+* Project management with Kanban etc https://worklenz.com/
 * Squirrelmail  Webmailer
 * presentations
   * reveal.js
