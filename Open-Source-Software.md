@@ -667,6 +667,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://github.com/HabitRPG/habitica/ Habit tracking/changing system
  * https://github.com/TandoorRecipes/recipes Managing recipies, meal planning
  * https://mathics.org/ open source mathematica alternative
+ * https://github.com/TecharoHQ/anubis AI bot recognition/prevention via reverse proxy
  * https://www.enrolla.io/ The open-source customer management framework store contract obligations and secrets (and CRM?) with API 
  * https://github.com/VirusTotal/yara "The pattern matching swiss knife" for file and malware signatures
  * https://wekan.github.io/ open source kanban
