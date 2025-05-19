@@ -201,7 +201,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
        * Visual Studio Code server https://github.com/codercom/code-server
      * validation/display/linting online tools
        * https://jsonlint.com/ 
-       * https://jsoncrack.com/
+       * https://jsoncrack.com/ https://github.com/AykutSarac/jsoncrack.com
        * http://www.jsondiff.com/
    * API
      * PAW (kommerziell): Mac REST API Client https://luckymarmot.com/paw
