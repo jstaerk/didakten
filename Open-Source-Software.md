@@ -449,6 +449,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * W10 privacy https://www.winprivacy.de/deutsch-start/download/
    * unetbootin, bootable USB installer
    * GUI CA to manage SSL certificates https://github.com/chris2511/xca/
+   * Web CA to manage SSL certificates https://github.com/smallstep/certificates
    * rufus, bootable USB installer/imager https://rufus.akeo.ie/
    * Open source USB stick multi ISO installer/imager https://www.ventoy.net/
    * Autotext http://lifehacker.com/238306/lifehacker-code-texter-windows
