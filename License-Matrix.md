@@ -16,3 +16,5 @@ Es gibt für die meisten Lizenzen Zusatzbedingungen, zu erlesen in den entsprech
 See also [Lizenzpyramide](https://creativecommons.org/share-your-work/public-domain/freeworks)
 
 See also [Choose a License](https://choosealicense.com/licenses/)
+
+See also [License Comparison Assistant](https://interoperable-europe.ec.europa.eu/collection/eupl/solution/licensing-assistant)
