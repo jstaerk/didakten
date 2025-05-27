@@ -261,6 +261,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * TSDoc: https://tsdoc.org/
      * Snippet box: (self) hosted solution to organize code snippets https://github.com/pawelmalak/snippet-box 
      * ShowcaseJS https://storybook.js.org/ Component explorer/live style guide for React and Vue
+     * https://squey.org/ Parallel Coordinates visualization/graphs
    * Source code analysis
      * https://www.exakat.io/en/
      * https://psalm.dev/
