@@ -631,7 +631,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 * https://www.revive-adserver.com/ (Open source ad server previously known als OpenX)
 
 ### E-learning (interactive)
- 
+ * https://github.com/logisim-evolution/logisim-evolution for digital logic simulation see also https://www.youtube.com/watch?v=gYmDpcV0X7k
  * https://www.lernsoftware-filius.de/ Network topology interactive learn software
  * https://www.cryptool.org/en/ct2/ Visualization of cryptographic workflows, for a german explanation of asymtric encryption see also http://www.dkruse.de/dokumente/netzwerke/Sicher3_Asymm_Verschluesselung.pdf 
  * Math&Geobmetry https://www.geogebra.org/
