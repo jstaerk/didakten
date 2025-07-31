@@ -256,6 +256,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * Sequence Diagrams https://bramp.github.io/js-sequence-diagrams/
      * Backus-Naur Normalization/Grammar https://bottlecaps.de/rr/ui
      * Translation https://github.com/matecat/MateCat
+     * Web translation dashboard  https://github.com/WeblateOrg/weblate
+     * CAT (compiter aided translation) https://omegat.org/
      * jsDoc: https://jsdoc.app/
      * TypeDoc: https://typedoc.org/
      * TSDoc: https://tsdoc.org/
