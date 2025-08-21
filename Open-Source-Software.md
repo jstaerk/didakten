@@ -47,7 +47,7 @@ Curated list of good software resources, which are open source or free (like in 
    * https://github.com/assimp/assimp 3d model converter
    * https://f3d.app/ 3d model viewer
    * Photogrammetry (create 3d model from multiple 2d pictures) 
-     * https://alicevision.org/#meshroom (NVIDIA graphic card=CUDA required), sample dataset e.g. https://github.com/alicevision/dataset_monstree (freeware alternative https://www.3dflow.net/3df-zephyr-free/)
+     * https://alicevision.org/#meshroom  Photogrammetry 3d objects from 2d (NVIDIA graphic card=CUDA required), sample dataset e.g. https://github.com/alicevision/dataset_monstree (freeware alternative https://www.3dflow.net/3df-zephyr-free/)
      * from motion: http://ccwu.me/vsfm/
      * for aerial drone picture https://www.opendronemap.org/webodm/
 
