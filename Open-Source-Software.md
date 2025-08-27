@@ -504,7 +504,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * Open-Source Translation https://libretranslate.com/
  * https://listmonk.app/ self-hosted newsletter and mailing list manager
  * Open-Source online Barcamps https://unhangout.media.mit.edu/
- * VPN: https://www.wireguard.com/ and https://tailscale.com/
+ * VPN: https://www.wireguard.com/ and https://github.com/juanfont/headscale, the open source version of https://tailscale.com/
 
    
 ### Office (server based)
