@@ -237,6 +237,7 @@ see [development resources](Development-resources.md)
  * https://www.websitehostingrating.com/top-100-web-development-resources/
  * https://github.com/Developer-Y/cs-video-courses Video courses for serveral computer science topics (technically not open source, but free)
  * https://github.com/bradtraversy/design-resources-for-developers
+ * https://cltc.berkeley.edu/cybervisuals/ Cybersecurity visuals
  
 ## See also
   * [Open source software](Open-Source-Software.md)
@@ -245,3 +246,4 @@ see [development resources](Development-resources.md)
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
