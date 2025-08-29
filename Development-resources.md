@@ -13,7 +13,6 @@
 * Architectural Decision Records: Record when which architecture was decided https://adr.github.io/
 
 ## Templates, CSS boilerplates
- * https://templated.co/
  * http://www.oswd.org/
  * http://www.openwebdesign.org/
  * Frontend-"Boilerplate"-Frameworks: 
