@@ -53,7 +53,7 @@ Curated list of good software resources, which are open source or free (like in 
 
 ### Business, Office, Banking, Resource planning
  * Fakturama https://www.fakturama.info/
- * http://de.openoffice.org and Office-Teamwork/Collaboration/Filesharing http://www.teamdrive.net/
+ * http://libreoffice.org open source office software with spreadsheet, word processor and presentation software
  * http://www.gnuaccounting.org
  * Time tracker
    * Super productivity https://github.com/johannesjo/super-productivity
@@ -84,6 +84,7 @@ Curated list of good software resources, which are open source or free (like in 
  * https://www.limbas.com/ web based DB access tool
  * onenote alternative, handwritten note application (linux only) https://github.com/flxzt/rnote
  * Outliner https://www.zotero.org/
+ * https://github.com/Tablecruncher/tablecruncher/ CSV spreadsheet application
  * Open-Source document signing (docusign alternative) https://github.com/documenso/documenso
  * Break timer/tea timers https://github.com/tom-james-watson/breaktimer-app or https://workrave.org/
  * Password vaults (for teams)
@@ -471,7 +472,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * hex editor (mac) http://ridiculousfish.com/hexfiend/
    * Hotkeys (Windows) https://www.autohotkey.com/
    * Open source management for Windows: http://ketarin.canneverbe.com/ (collection management) https://ninite.com/ (single installer generator)
-   * Shell (Windows) https://cmder.net/ 
+   * Shell (Windows) https://cmder.net/
+   * https://github.com/p2r3/beheader create polyglott files (complying to different file formats)
    * Benchmark: sysbench, e.g. mysql benchmark using `sysbench /usr/share/sysbench/oltp_read_write.lua --threads=4 --db-driver=mysql --mysql_host=10.2.181.5 --mysql-user=<db user> --mysql-password=<db pwd> --mysql-port=3306 --tables=10 --table-size=1000 prepare`, then  ...run . DB Benchmark also https://github.com/sj14/dbbench
 
 ## Server based
@@ -582,7 +584,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 ### E-Mail, PIM and Productivity (server based)
 * Kolab Groupware
 * Open Xchange Groupware
-* https://sogo.nu/
+* https://sogo.nu/ Webmail
 * Roundcube Webmailer
 * Project management https://leantime.io/
 * Project management with Kanban etc https://worklenz.com/
