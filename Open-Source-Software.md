@@ -7,6 +7,7 @@ Curated list of good software resources, which are open source or free (like in 
 ### 2d graphics
 #### Raster
  * http://www.getpaint.net/ (Freeware only, Windows only)
+ * https://www.pinta-project.com/ Cross platform open source
  * https://github.com/photopea/photopea for raster and vector graphics
  * Andreamosaic http://www.andreaplanet.com/andreamosaic/ , render big pictures from thousands of small ones
  * http://hugin.sourceforge.net/ Panorama photo stitcher
@@ -19,6 +20,7 @@ Curated list of good software resources, which are open source or free (like in 
  * https://www.darktable.org/
  * https://www.befunky.com/features/graphic-designer/
  * https://rawtherapee.com/
+ * https://saerasoft.com/caesium/ image compressor
 #### Vector
  * http://www.inkscape.org, **the** open source SVG drawing software 
  * yEd freeware visio like with auto-layout (freeware only) in java http://www.yworks.com/de/products_yed_about.html 
