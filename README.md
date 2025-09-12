@@ -122,6 +122,7 @@ see [development resources](Development-resources.md)
  * https://undraw.co/illustrations
  * https://icons8.com/illustrations
  * http://www.openclipart.org Public domain SVG files, hundrets of thousands
+ * https://www.svgrepo.com/ svg icons etc
  * https://undraw.co/ Free SVG clipart in a single style color-customizable
  * https://github.com/benhodgson/markedup-svg-worldmap SVG World Map
  * 2d animated vector files (converted SVGs) https://www.lottiefiles.com/
@@ -246,4 +247,5 @@ see [development resources](Development-resources.md)
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 
