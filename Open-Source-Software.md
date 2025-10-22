@@ -78,6 +78,7 @@ Curated list of good software resources, which are open source or free (like in 
  * PDF helper tool (cut/merge PDFs pagewise): http://www.pdfsam.org
  * PDF booklet/magazine creator http://pdfbooklet.sourceforge.net/
  * PDF diff https://soft.rubypdf.com/software/diffpdf
+ * PDF server based compress repair sign merge https://github.com/alam00000/bentopdf
  * https://pdfcompressor.com/
  * taxbird, http://www.taxbird.de/, only USt and LSt.
  * Add OCR layer to scanned PDFs (tesseract based) https://github.com/jbarlow83/OCRmyPDF
