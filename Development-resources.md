@@ -67,6 +67,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 
 ### Python libraries
 * human language translation https://github.com/argosopentech/argos-translate and its https://github.com/uav4geo/LibreTranslate
+* Convert HTML to PDF https://weasyprint.org/
 ### PHP Libraries
 * http://php-di.org, see also https://github.com/mikedfunk/php-di-example
 * Monolog PHP logger https://github.com/Seldaek/monolog
