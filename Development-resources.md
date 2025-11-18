@@ -136,6 +136,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * https://particles.matteobruni.it/ Particle libraries
 * https://wavesurfer-js.org/ Visualize Audio Files, allow to start/stop
 * https://github.com/jsplumb/jsplumb Draggable connectors
+* http://paperjs.org/ Vector graphics scripting
 * https://github.com/CesiumGS/cesium open source javascript 3d globe / world map
 * https://521dimensions.com/open-source/amplitudejs Open source audio player interface
 * http://phaser.io/ HTML5 2d game framework, with canvas sprites etc
