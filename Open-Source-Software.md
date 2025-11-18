@@ -22,7 +22,8 @@ Curated list of good software resources, which are open source or free (like in 
  * https://rawtherapee.com/
  * https://saerasoft.com/caesium/ image compressor
 #### Vector
- * http://www.inkscape.org, **the** open source SVG drawing software 
+ * http://www.inkscape.org, **the** open source SVG drawing software
+ * https://graphite.rs/ open source scriptable (node editor) SVG drawing software
  * yEd freeware visio like with auto-layout (freeware only) in java http://www.yworks.com/de/products_yed_about.html 
  * draw.io is like visio in javascript https://github.com/jgraph/drawio
  * Font design: http://fontforge.sourceforge.net/
