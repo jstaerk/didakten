@@ -415,7 +415,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Package management http://www.opsi.org/ 
    * Package management http://m23.sourceforge.net/ (Linux only), 
    * Package management https://wpkg.org/ (Windows only), 
-   * linux automated installation fai-project.org, 
+   * linux automated installation fai-project.org,
+   * linux monitoring/security updated packages check/updates https://github.com/PatchMon/PatchMon
    * Windows updates offline installer https://www.wsusoffline.net/ 
    * Setup package manager http://ketarin.canneverbe.com/
 
