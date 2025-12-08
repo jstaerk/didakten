@@ -224,7 +224,9 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * http://wiremock.org/ (Java, Web GUI)
      * https://github.com/devo-ps/carte API documentation
      * https://github.com/tripit/slate API documentation
-     * see also Security for API security tools
+     * https://github.com/opendiffy/diffy compare output of two different REST APIs
+     * REST API Fuzzing https://github.com/microsoft/restler-fuzzer
+   
    * Low code
      * https://baserow.io/ Airtable alternative   
      * https://github.com/directus/directus SQL admin in node.js with frontends
@@ -387,7 +389,6 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * BKCrack: Known Plaintext encrypted zip file cracker https://github.com/kimci86/bkcrack
    * Hashcat WPA cracker http://hashcat.net/hashcat/
    * ZAProxy: Webscarab replacement A proxy which can intercept e.g. HTTP posts and inject malicious code, use for penetration tests https://github.com/zaproxy/zaproxy/wiki/Downloads
-   * REST API Fuzzing https://github.com/microsoft/restler-fuzzer
    * password recovery (windows only) http://www.oxid.it/cain.html
    * password wordlist https://dazzlepod.com/site_media/txt/passwords.txt
    * [veracrypt](https://www.veracrypt.fr/) formerly Truecrypt for encrypting directories and volumes
