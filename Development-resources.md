@@ -63,10 +63,12 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * https://github.com/akka/akka  Distributed resilient actors e.g. as crawler (agent model, mentioned in https://www.youtube.com/watch?v=W3JqG7DqctA)
 * https://github.com/libgdx/libgdx/ Java cross platform OpenGL (ES) game development library
 * https://truelicense.namespace.global/ Open Source (APL) Java license server
-* https://github.com/eclipse-vertx/vert.x Reactivity for Java with a internal event bus  
+* https://github.com/eclipse-vertx/vert.x Reactivity for Java with a internal event bus
+* https://mvnrepository.com/artifact/es.moki.ratelimitj/ratelimitj-inmemory Rate Limit to prevent DDOS in Java / Spring Boot
 
 ### Python libraries
 * human language translation https://github.com/argosopentech/argos-translate and its https://github.com/uav4geo/LibreTranslate
+* Convert HTML to PDF https://weasyprint.org/
 ### PHP Libraries
 * http://php-di.org, see also https://github.com/mikedfunk/php-di-example
 * Monolog PHP logger https://github.com/Seldaek/monolog
@@ -134,6 +136,7 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
 * https://particles.matteobruni.it/ Particle libraries
 * https://wavesurfer-js.org/ Visualize Audio Files, allow to start/stop
 * https://github.com/jsplumb/jsplumb Draggable connectors
+* http://paperjs.org/ Vector graphics scripting
 * https://github.com/CesiumGS/cesium open source javascript 3d globe / world map
 * https://521dimensions.com/open-source/amplitudejs Open source audio player interface
 * http://phaser.io/ HTML5 2d game framework, with canvas sprites etc

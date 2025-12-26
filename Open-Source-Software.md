@@ -22,7 +22,8 @@ Curated list of good software resources, which are open source or free (like in 
  * https://rawtherapee.com/
  * https://saerasoft.com/caesium/ image compressor
 #### Vector
- * http://www.inkscape.org, **the** open source SVG drawing software 
+ * http://www.inkscape.org, **the** open source SVG drawing software
+ * https://graphite.rs/ open source scriptable (node editor) SVG drawing software
  * yEd freeware visio like with auto-layout (freeware only) in java http://www.yworks.com/de/products_yed_about.html 
  * draw.io is like visio in javascript https://github.com/jgraph/drawio
  * Font design: http://fontforge.sourceforge.net/
@@ -78,6 +79,7 @@ Curated list of good software resources, which are open source or free (like in 
  * PDF helper tool (cut/merge PDFs pagewise): http://www.pdfsam.org
  * PDF booklet/magazine creator http://pdfbooklet.sourceforge.net/
  * PDF diff https://soft.rubypdf.com/software/diffpdf
+ * PDF server based compress repair sign merge https://github.com/alam00000/bentopdf
  * https://pdfcompressor.com/
  * taxbird, http://www.taxbird.de/, only USt and LSt.
  * Add OCR layer to scanned PDFs (tesseract based) https://github.com/jbarlow83/OCRmyPDF
@@ -222,7 +224,9 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * http://wiremock.org/ (Java, Web GUI)
      * https://github.com/devo-ps/carte API documentation
      * https://github.com/tripit/slate API documentation
-     * see also Security for API security tools
+     * https://github.com/opendiffy/diffy compare output of two different REST APIs
+     * REST API Fuzzing https://github.com/microsoft/restler-fuzzer
+   
    * Low code
      * https://baserow.io/ Airtable alternative   
      * https://github.com/directus/directus SQL admin in node.js with frontends
@@ -385,7 +389,6 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * BKCrack: Known Plaintext encrypted zip file cracker https://github.com/kimci86/bkcrack
    * Hashcat WPA cracker http://hashcat.net/hashcat/
    * ZAProxy: Webscarab replacement A proxy which can intercept e.g. HTTP posts and inject malicious code, use for penetration tests https://github.com/zaproxy/zaproxy/wiki/Downloads
-   * REST API Fuzzing https://github.com/microsoft/restler-fuzzer
    * password recovery (windows only) http://www.oxid.it/cain.html
    * password wordlist https://dazzlepod.com/site_media/txt/passwords.txt
    * [veracrypt](https://www.veracrypt.fr/) formerly Truecrypt for encrypting directories and volumes
@@ -413,7 +416,8 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Package management http://www.opsi.org/ 
    * Package management http://m23.sourceforge.net/ (Linux only), 
    * Package management https://wpkg.org/ (Windows only), 
-   * linux automated installation fai-project.org, 
+   * linux automated installation fai-project.org,
+   * linux monitoring/security updated packages check/updates https://github.com/PatchMon/PatchMon
    * Windows updates offline installer https://www.wsusoffline.net/ 
    * Setup package manager http://ketarin.canneverbe.com/
 
@@ -682,6 +686,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://www.enrolla.io/ The open-source customer management framework store contract obligations and secrets (and CRM?) with API 
  * https://github.com/VirusTotal/yara "The pattern matching swiss knife" for file and malware signatures
  * https://wekan.github.io/ open source kanban
+ * https://github.com/benadida/helios-server a online voting system
  * https://www.savapage.org/ open source output management/print queing and distribution
  * https://github.com/pavlobu/deskreen turn any screen to second screen with hdmi dummy plugs
  * https://screego.net/ open source screen sharing/video conference tool
