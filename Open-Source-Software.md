@@ -89,7 +89,9 @@ Curated list of good software resources, which are open source or free (like in 
  * onenote alternative, handwritten note application (linux only) https://github.com/flxzt/rnote
  * Outliner https://www.zotero.org/
  * https://github.com/Tablecruncher/tablecruncher/ CSV spreadsheet application
- * Open-Source document signing (docusign alternative) https://github.com/documenso/documenso
+ * Open-Source document signing (docusign alternative)
+   * https://github.com/documenso/documenso
+   * https://github.com/docusealco/docuseal
  * Break timer/tea timers https://github.com/tom-james-watson/breaktimer-app or https://workrave.org/
  * Password vaults (for teams)
    * https://bitwarden.com/
