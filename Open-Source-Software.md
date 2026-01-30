@@ -522,6 +522,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
 ### Office (server based)
    * https://www.onlyoffice.com/
    * Collabora CODE https://www.collaboraoffice.com/code-4/
+   * La suite docs https://github.com/suitenumerique/docs
 
 ### GIS (server based)
    * coordinate database for german ZIP codes http://opengeodb.giswiki.org/wiki/OpenGeoDB ( s.a. http://www.kompf.de/gps/distcalc.html)
