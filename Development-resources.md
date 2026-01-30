@@ -227,7 +227,8 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
  * https://jsonforms.io/ custom forms creation and display
 ### Vue
  * https://www.npmjs.com/package/vue-sweetalert2 notifications
-
+### Python
+ * https://github.com/typesense/typesense search engine
 ### Wordpress Plugins
 * Wordpress-Framework/Starter themes 
    * https://roots.io/ bedrock, 
