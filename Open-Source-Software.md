@@ -88,7 +88,7 @@ Curated list of good software resources, which are open source or free (like in 
  * https://www.limbas.com/ web based DB access tool
  * onenote alternative, handwritten note application (linux only) https://github.com/flxzt/rnote
  * Outliner https://www.zotero.org/
- * https://github.com/Tablecruncher/tablecruncher/ CSV spreadsheet application
+ * https://github.com/Tablecruncher/tablecruncher/ CSV spreadsheet application for comma separated values
  * Open-Source document signing (docusign alternative)
    * https://github.com/documenso/documenso
    * https://github.com/docusealco/docuseal
@@ -200,7 +200,6 @@ There is also a [list of open source libraries](Development-resources.md#user-co
        * (windows) Notepad++: open source text editor for windows http://notepad-plus.sourceforge.net/
        * Atom text editor https://atom.io/ 
        * For web development Brackets source http://brackets.io/
-       * CSVed, http://csved.sjfrancke.nl/ editor for comma separated values files
        * Collaborative Editor: http://gobby.0x539.de/trac/
        * https://kaitai.io/ binary / hex editor description language
        * https://www.bluej.org/ beginners UI for Java, getting to know concepts of object orientation etc
