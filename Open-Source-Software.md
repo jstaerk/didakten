@@ -684,6 +684,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://immich.app/ self hosted google pictures alternative with local AI
  * https://openslides.com/de "Digital motion and assembly system" Votes and suggestions for conferences and online conferences, similar to https://wiki.piratenpartei.de/LiquidFeedback
  * https://github.com/HabitRPG/habitica/ Habit tracking/changing system
+ * https://github.com/open-reception/appointment-booking-software doctor appointment planning
  * https://github.com/TandoorRecipes/recipes Managing recipies, meal planning
  * https://github.com/getlago/lago open source recurrent billing/subscription management
  * https://mathics.org/ open source mathematica alternative
