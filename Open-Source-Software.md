@@ -652,6 +652,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
  * https://www.lernsoftware-filius.de/ Network topology interactive learn software
  * https://www.cryptool.org/en/ct2/ Visualization of cryptographic workflows, for a german explanation of asymtric encryption see also http://www.dkruse.de/dokumente/netzwerke/Sicher3_Asymm_Verschluesselung.pdf 
  * Math&Geobmetry https://www.geogebra.org/
+ * Lumi Desktop editor - create H5P quizzes e.g. for LMS https://lumi.education/de/lumi-h5p-desktop-editor/#
 
 ### E-learning (server based)
 * Docebo, http://www.docebo.org/
