@@ -423,6 +423,12 @@ There is also a [list of open source libraries](Development-resources.md#user-co
    * Windows updates offline installer https://www.wsusoffline.net/ 
    * Setup package manager http://ketarin.canneverbe.com/
 
+### Edge AI
+   * ollama LLM interface https://ollama.com/
+   * open web ui LLM chat with RAG https://github.com/open-webui/open-webui
+   * Anything LLM https://github.com/Mintplex-Labs/anything-llm/ 
+   * Unsloth studio https://github.com/unslothai/unsloth
+
 
 ### System Tools
    * X Server:  https://sourceforge.net/projects/vcxsrv/ https://sourceforge.net/projects/xming/
