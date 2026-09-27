@@ -223,6 +223,9 @@ Please refer to https://github.com/jstaerk/didakten/wiki/Open-Source-Software#De
    * https://adminlte.io/
    * https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free for vue
    * https://github.com/codedthemes/mantis-free-vuetify-vuejs-admin-template
+
+### Rust
+ * https://virustotal.github.io/yara-x/ open source pattern matching e.g. for anti virus
    
 ### React
  * Drag and drop page editor https://craft.js.org/ / Gui Builder
