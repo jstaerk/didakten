@@ -295,6 +295,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
      * http://hood.ie/ "Javascript offline first"
      * https://github.com/coollabsio/coolify platfporm as a service PAAS, open source heroku
      * https://gotify.net/ Another Push server
+     * https://github.com/caronc/apprise Another Push server
      * https://ntfy.sh/ Push to cell phone via simple http request, e.g. curl
      * https://github.com/rethinkdb/horizon sophisticated realtime javascript apps
      * https://appwrite.io/ Backend as a service for web android, flutter
