@@ -43,6 +43,7 @@ Curated list of good software resources, which are open source or free (like in 
 
 ### 3d graphics
    * www.blender.org (also game engine)
+   * https://dust3d.org/ low poly 3d editing e.g. for games
    * http://www.makehumancommunity.org/ Open Source Poser clone cutomizing 3d models of humans
    * http://www.sweethome3d.com/ 3d real estate designer with furniture
    * 3d materials https://www.materialmaker.org/
