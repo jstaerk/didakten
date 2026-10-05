@@ -38,6 +38,7 @@
   * C# game engine (godot c# or) http://xenko.com/
   * Web Based 2d https://phaser.io/
   * Web Based 2d webgl renderer https://pixijs.com/
+  * rust "data-driven" game engine https://bevy.org/
 
 ## Design systems
 * Material Design https://material.io/design e.g. for vue https://vuetifyjs.com/en/
