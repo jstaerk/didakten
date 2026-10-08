@@ -200,6 +200,7 @@ There is also a [list of open source libraries](Development-resources.md#user-co
        * Eclipse https://eclipse.org/, Eclipse/PDT https://eclipse.org/pdt/ and PDT Extensions http://p2.pdt-extensions.org/
        * Windows filter huge files/editor https://github.com/RolandPheasant/TailBlazer/
        * (windows) Notepad++: open source text editor for windows http://notepad-plus.sourceforge.net/
+       * XML Editor https://www.editix.com/index.de.html#binaries
        * Atom text editor https://atom.io/ 
        * For web development Brackets source http://brackets.io/
        * Collaborative Editor: http://gobby.0x539.de/trac/
